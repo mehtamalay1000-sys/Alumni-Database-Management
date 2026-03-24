@@ -1,16 +1,25 @@
 import { useState, useEffect } from 'react';
-import { getEvents, addEvent, deleteEvent, rsvpEvent, getCurrentUser } from '../data/store';
+import { getEvents, addEvent, deleteEvent, bookEventTicket, hasBookedEvent, getCurrentUser } from '../data/store';
 
 export default function EventsPage() {
   const [events, setEvents] = useState([]);
   const [search, setSearch] = useState('');
   const [typeFilter, setTypeFilter] = useState('');
   const [showModal, setShowModal] = useState(false);
+  const [selectedEvent, setSelectedEvent] = useState(null);
+  const [showBookingModal, setShowBookingModal] = useState(false);
+  const [booked, setBooked] = useState(false);
   const user = getCurrentUser();
   const isAdmin = user?.role === 'admin';
 
   const [form, setForm] = useState({
     title: '', date: '', time: '', location: '', description: '', type: 'Reunion', organizer: '', maxAttendees: 100,
+  });
+
+  const [bookingForm, setBookingForm] = useState({
+    fullName: user?.name || '',
+    email: user?.email || '',
+    phone: '',
   });
 
   const reload = () => setEvents(getEvents());
@@ -32,9 +41,37 @@ export default function EventsPage() {
     reload();
   };
 
-  const handleRSVP = (id) => {
-    rsvpEvent(id);
-    reload();
+  const openBookingModal = (event) => {
+    setSelectedEvent(event);
+    setShowBookingModal(true);
+    setBooked(false);
+    setBookingForm({
+      fullName: user?.name || '',
+      email: user?.email || '',
+      phone: '',
+    });
+  };
+
+  const closeBookingModal = () => {
+    setShowBookingModal(false);
+    setSelectedEvent(null);
+    setBooked(false);
+  };
+
+  const handleBookTicket = (e) => {
+    e.preventDefault();
+    const result = bookEventTicket(selectedEvent.id, {
+      userId: user?.id,
+      fullName: bookingForm.fullName,
+      email: bookingForm.email,
+      phone: bookingForm.phone,
+    });
+    if (result.success) {
+      setBooked(true);
+      reload();
+    } else {
+      alert(result.message);
+    }
   };
 
   const handleDelete = (id) => {
@@ -54,6 +91,11 @@ export default function EventsPage() {
       day: d.getDate(),
       year: d.getFullYear(),
     };
+  };
+
+  const getFullDate = (dateStr) => {
+    const d = new Date(dateStr);
+    return d.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
   };
 
   return (
@@ -87,9 +129,10 @@ export default function EventsPage() {
       {filteredEvents.length > 0 ? (
         <div className="cards-grid">
           {filteredEvents.map((event, i) => {
-            const { month, day, year } = getMonthDay(event.date);
+            const { month, day } = getMonthDay(event.date);
             const past = isPast(event.date);
             const attendPercent = Math.round((event.attendees / event.maxAttendees) * 100);
+            const alreadyBooked = user ? hasBookedEvent(event.id, user.id) : false;
             return (
               <div className="card animate-in" key={event.id} style={{ animationDelay: `${i * 0.05}s`, opacity: past ? 0.65 : 1 }}>
                 <div className={`card-banner ${colorCycle[i % colorCycle.length]}`} />
@@ -128,7 +171,13 @@ export default function EventsPage() {
                   </span>
                   <div style={{ display: 'flex', gap: '6px' }}>
                     {!past && (
-                      <button className="btn-primary btn-small" onClick={() => handleRSVP(event.id)}>RSVP</button>
+                      alreadyBooked ? (
+                        <span className="badge badge-green" style={{ fontWeight: 600, padding: '6px 14px', fontSize: '0.82rem' }}>🎫 Booked</span>
+                      ) : (
+                        <button className="btn-apply" onClick={() => openBookingModal(event)}>
+                          🎫 Book Ticket
+                        </button>
+                      )
                     )}
                     {isAdmin && (
                       <button className="btn-danger btn-small" onClick={() => handleDelete(event.id)}>Delete</button>
@@ -147,7 +196,7 @@ export default function EventsPage() {
         </div>
       )}
 
-      {/* Create Event Modal */}
+      {/* Create Event Modal (Admin) */}
       {showModal && (
         <div className="modal-overlay" onClick={() => setShowModal(false)}>
           <div className="modal" onClick={e => e.stopPropagation()}>
@@ -194,6 +243,122 @@ export default function EventsPage() {
                 <button type="submit" className="btn-primary">Create Event</button>
               </div>
             </form>
+          </div>
+        </div>
+      )}
+
+      {/* Event Detail & Book Ticket Modal */}
+      {showBookingModal && selectedEvent && (
+        <div className="modal-overlay" onClick={closeBookingModal}>
+          <div className="modal modal-lg" onClick={e => e.stopPropagation()} style={{ maxWidth: '720px' }}>
+            {!booked ? (
+              <>
+                {/* Event Details Section */}
+                <div className="job-detail-header">
+                  <div className="job-detail-title-row">
+                    <div>
+                      <h2 style={{ margin: 0 }}>{selectedEvent.title}</h2>
+                      <p className="job-detail-company">{selectedEvent.type} · By {selectedEvent.organizer}</p>
+                    </div>
+                    <button className="modal-close-btn" onClick={closeBookingModal}>✕</button>
+                  </div>
+                  <div className="card-meta" style={{ marginTop: '12px' }}>
+                    <span className="badge badge-blue">📅 {getFullDate(selectedEvent.date)}</span>
+                    <span className="badge badge-purple">🕐 {selectedEvent.time}</span>
+                    <span className="badge badge-teal">📍 {selectedEvent.location}</span>
+                  </div>
+                </div>
+
+                <div className="job-detail-body">
+                  <div className="job-detail-section">
+                    <h4>📋 Event Description</h4>
+                    <p>{selectedEvent.description}</p>
+                  </div>
+
+                  <div className="job-detail-section">
+                    <h4>ℹ️ Event Details</h4>
+                    <div className="job-detail-info-grid">
+                      <div><span className="job-info-label">Organizer</span><span>{selectedEvent.organizer}</span></div>
+                      <div><span className="job-info-label">Date</span><span>{getFullDate(selectedEvent.date)}</span></div>
+                      <div><span className="job-info-label">Time</span><span>{selectedEvent.time}</span></div>
+                      <div><span className="job-info-label">Venue</span><span>{selectedEvent.location}</span></div>
+                      <div><span className="job-info-label">Seats Booked</span><span>{selectedEvent.attendees} / {selectedEvent.maxAttendees}</span></div>
+                      <div>
+                        <span className="job-info-label">Availability</span>
+                        <span style={{ color: selectedEvent.attendees >= selectedEvent.maxAttendees ? 'var(--accent-red)' : 'var(--accent-green)', fontWeight: 700 }}>
+                          {selectedEvent.attendees >= selectedEvent.maxAttendees ? 'Fully Booked' : `${selectedEvent.maxAttendees - selectedEvent.attendees} seats left`}
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+
+                  <hr style={{ border: 'none', borderTop: '1px solid var(--border-light)', margin: '20px 0' }} />
+
+                  {/* Booking Form */}
+                  <div className="job-detail-section">
+                    <h4>🎫 Book Your Ticket</h4>
+                    <form onSubmit={handleBookTicket}>
+                      <div className="profile-form-grid">
+                        <div className="form-group">
+                          <label>Full Name</label>
+                          <input
+                            value={bookingForm.fullName}
+                            onChange={e => setBookingForm({...bookingForm, fullName: e.target.value})}
+                            required
+                          />
+                        </div>
+                        <div className="form-group">
+                          <label>Email</label>
+                          <input
+                            type="email"
+                            value={bookingForm.email}
+                            onChange={e => setBookingForm({...bookingForm, email: e.target.value})}
+                            required
+                          />
+                        </div>
+                        <div className="form-group">
+                          <label>Phone Number</label>
+                          <input
+                            type="tel"
+                            placeholder="+91 XXXXXXXXXX"
+                            value={bookingForm.phone}
+                            onChange={e => setBookingForm({...bookingForm, phone: e.target.value})}
+                            required
+                          />
+                        </div>
+                        <div className="form-group">
+                          <label>No. of Tickets</label>
+                          <input type="text" value="1" disabled style={{ opacity: 0.7, cursor: 'not-allowed' }} />
+                          <small style={{ fontSize: '0.72rem', color: 'var(--text-secondary)' }}>
+                            Limited to 1 ticket per student
+                          </small>
+                        </div>
+                      </div>
+                      <div className="modal-actions">
+                        <button type="button" className="btn-secondary" onClick={closeBookingModal}>Cancel</button>
+                        <button type="submit" className="btn-primary btn-apply-submit">🎫 Confirm Booking</button>
+                      </div>
+                    </form>
+                  </div>
+                </div>
+              </>
+            ) : (
+              /* Success State */
+              <div className="apply-success">
+                <div className="apply-success-icon">🎉</div>
+                <h2>Ticket Booked Successfully!</h2>
+                <p>Your ticket for <strong>{selectedEvent.title}</strong> has been booked successfully.</p>
+                <div className="apply-success-details">
+                  <div><span>📅</span> {getFullDate(selectedEvent.date)} at {selectedEvent.time}</div>
+                  <div><span>📍</span> {selectedEvent.location}</div>
+                  <div><span>📧</span> Confirmation sent to <strong>{bookingForm.email}</strong></div>
+                  <div><span>🎫</span> Ticket: <strong>1 × {selectedEvent.title}</strong></div>
+                </div>
+                <button className="btn-primary" onClick={closeBookingModal} style={{ marginTop: '20px' }}>
+                  ← Back to Events
+                </button>
+              </div>
+            )}
           </div>
         </div>
       )}

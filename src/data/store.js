@@ -6,7 +6,9 @@ const STORAGE_KEYS = {
   ALUMNI: 'alumni_records',
   JOBS: 'alumni_jobs',
   EVENTS: 'alumni_events',
+  EVENT_BOOKINGS: 'alumni_event_bookings',
   MENTORSHIP: 'alumni_mentorship',
+  MENTORSHIP_BOOKINGS: 'alumni_mentorship_bookings',
   CURRENT_USER: 'alumni_current_user',
 };
 
@@ -207,15 +209,45 @@ export function addEvent(event) {
   return newEvent;
 }
 
-export function rsvpEvent(eventId) {
+export function bookEventTicket(eventId, userInfo) {
+  const bookings = getFromStorage(STORAGE_KEYS.EVENT_BOOKINGS, []);
+  // Check if user already booked this event
+  if (bookings.find(b => b.eventId === Number(eventId) && b.userId === userInfo.userId)) {
+    return { success: false, message: 'You have already booked a ticket for this event.' };
+  }
   const events = getEvents();
   const index = events.findIndex(e => e.id === Number(eventId));
-  if (index !== -1 && events[index].attendees < events[index].maxAttendees) {
-    events[index].attendees += 1;
-    saveToStorage(STORAGE_KEYS.EVENTS, events);
-    return events[index];
+  if (index === -1) return { success: false, message: 'Event not found.' };
+  if (events[index].attendees >= events[index].maxAttendees) {
+    return { success: false, message: 'This event is fully booked.' };
   }
-  return null;
+  // Create booking
+  const booking = {
+    id: Date.now(),
+    eventId: Number(eventId),
+    userId: userInfo.userId,
+    fullName: userInfo.fullName,
+    email: userInfo.email,
+    phone: userInfo.phone,
+    bookedAt: new Date().toISOString(),
+  };
+  bookings.push(booking);
+  saveToStorage(STORAGE_KEYS.EVENT_BOOKINGS, bookings);
+  // Increment attendee count
+  events[index].attendees += 1;
+  saveToStorage(STORAGE_KEYS.EVENTS, events);
+  return { success: true, booking, event: events[index] };
+}
+
+export function hasBookedEvent(eventId, userId) {
+  const bookings = getFromStorage(STORAGE_KEYS.EVENT_BOOKINGS, []);
+  return bookings.some(b => b.eventId === Number(eventId) && b.userId === userId);
+}
+
+export function getEventBookings(userId) {
+  const bookings = getFromStorage(STORAGE_KEYS.EVENT_BOOKINGS, []);
+  if (userId) return bookings.filter(b => b.userId === userId);
+  return bookings;
 }
 
 export function deleteEvent(id) {
@@ -237,17 +269,50 @@ export function addMentorship(mentorship) {
   return newMentorship;
 }
 
-export function requestMentorship(mentorshipId, menteeName) {
+export function bookMentorship(mentorshipId, userInfo) {
+  const bookings = getFromStorage(STORAGE_KEYS.MENTORSHIP_BOOKINGS, []);
+  // Check if user already booked this mentorship
+  if (bookings.find(b => b.mentorshipId === Number(mentorshipId) && b.userId === userInfo.userId)) {
+    return { success: false, message: 'You have already booked this mentorship.' };
+  }
   const mentorships = getMentorships();
   const index = mentorships.findIndex(m => m.id === Number(mentorshipId));
-  if (index !== -1 && mentorships[index].status === 'Open') {
-    mentorships[index].menteeName = menteeName;
-    mentorships[index].status = 'Active';
-    mentorships[index].startDate = new Date().toISOString().split('T')[0];
-    saveToStorage(STORAGE_KEYS.MENTORSHIP, mentorships);
-    return mentorships[index];
+  if (index === -1) return { success: false, message: 'Mentorship not found.' };
+  if (mentorships[index].status !== 'Open') {
+    return { success: false, message: 'This mentorship is no longer available.' };
   }
-  return null;
+  // Create booking
+  const booking = {
+    id: Date.now(),
+    mentorshipId: Number(mentorshipId),
+    userId: userInfo.userId,
+    fullName: userInfo.fullName,
+    email: userInfo.email,
+    phone: userInfo.phone,
+    month: userInfo.month,
+    paymentMode: userInfo.paymentMode,
+    amount: 299,
+    bookedAt: new Date().toISOString(),
+  };
+  bookings.push(booking);
+  saveToStorage(STORAGE_KEYS.MENTORSHIP_BOOKINGS, bookings);
+  // Update mentorship status
+  mentorships[index].menteeName = userInfo.fullName;
+  mentorships[index].status = 'Active';
+  mentorships[index].startDate = new Date().toISOString().split('T')[0];
+  saveToStorage(STORAGE_KEYS.MENTORSHIP, mentorships);
+  return { success: true, booking, mentorship: mentorships[index] };
+}
+
+export function hasBookedMentorship(mentorshipId, userId) {
+  const bookings = getFromStorage(STORAGE_KEYS.MENTORSHIP_BOOKINGS, []);
+  return bookings.some(b => b.mentorshipId === Number(mentorshipId) && b.userId === userId);
+}
+
+export function getMentorshipBookings(userId) {
+  const bookings = getFromStorage(STORAGE_KEYS.MENTORSHIP_BOOKINGS, []);
+  if (userId) return bookings.filter(b => b.userId === userId);
+  return bookings;
 }
 
 // --- Stats ---
