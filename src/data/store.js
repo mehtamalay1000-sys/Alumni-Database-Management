@@ -1,5 +1,6 @@
 // Alumni Database Management System - Data Store
 // Uses localStorage for persistence
+import { realPlacedStudents } from './realStudents';
 
 const STORAGE_KEYS = {
   USERS: 'alumni_users',
@@ -10,19 +11,18 @@ const STORAGE_KEYS = {
   MENTORSHIP: 'alumni_mentorship',
   MENTORSHIP_BOOKINGS: 'alumni_mentorship_bookings',
   CURRENT_USER: 'alumni_current_user',
+  DATA_VERSION: 'alumni_data_version',
 };
 
-// --- Seed Data ---
-const seedAlumni = [
-  { id: 1, name: 'Rahul Sharma', batch: 'Batch 2018', email: 'rahul.sharma@email.com', jobTitle: 'Software Engineer', company: 'Tech Solutions', phone: '+91 9876543210', avatar: '', department: 'Computer Science', linkedin: 'https://linkedin.com/in/rahulsharma', bio: 'Passionate about building scalable web applications and cloud computing.', skills: ['React', 'Node.js', 'AWS'] },
-  { id: 2, name: 'Meera Patel', batch: 'Batch 2019', email: 'meera.patel@email.com', jobTitle: 'Data Analyst', company: 'Software Bop', phone: '+91 9876543211', avatar: '', department: 'Information Technology', linkedin: 'https://linkedin.com/in/meerapatel', bio: 'Data enthusiast with a passion for machine learning and AI.', skills: ['Python', 'SQL', 'Tableau'] },
-  { id: 3, name: 'Akshat Singh', batch: 'Batch 2017', email: 'akshat.singh@email.com', jobTitle: 'Marketing Manager', company: 'Adblaze', phone: '+91 9876543212', avatar: '', department: 'Business Administration', linkedin: 'https://linkedin.com/in/akshatsingh', bio: 'Creative marketer with expertise in digital campaigns.', skills: ['SEO', 'Content Marketing', 'Analytics'] },
-  { id: 4, name: 'Priya Nair', batch: 'Batch 2020', email: 'priya.nair@email.com', jobTitle: 'UX Designer', company: 'DesignHub', phone: '+91 9876543213', avatar: '', department: 'Design', linkedin: 'https://linkedin.com/in/priyanair', bio: 'Human-centered designer focused on crafting delightful digital experiences.', skills: ['Figma', 'User Research', 'Prototyping'] },
-  { id: 5, name: 'Vikram Reddy', batch: 'Batch 2016', email: 'vikram.reddy@email.com', jobTitle: 'DevOps Engineer', company: 'CloudFirst', phone: '+91 9876543214', avatar: '', department: 'Computer Science', linkedin: 'https://linkedin.com/in/vikramreddy', bio: 'Infrastructure nerd who loves automating everything.', skills: ['Docker', 'Kubernetes', 'Terraform'] },
-  { id: 6, name: 'Ananya Gupta', batch: 'Batch 2021', email: 'ananya.gupta@email.com', jobTitle: 'Frontend Developer', company: 'WebWorks', phone: '+91 9876543215', avatar: '', department: 'Computer Science', linkedin: 'https://linkedin.com/in/ananyagupta', bio: 'Building pixel-perfect, accessible web interfaces.', skills: ['React', 'TypeScript', 'CSS'] },
-  { id: 7, name: 'Karthik Menon', batch: 'Batch 2018', email: 'karthik.menon@email.com', jobTitle: 'Product Manager', company: 'InnovateTech', phone: '+91 9876543216', avatar: '', department: 'Business Administration', linkedin: 'https://linkedin.com/in/karthikmenon', bio: 'Bridging the gap between technology and business.', skills: ['Agile', 'Strategy', 'Leadership'] },
-  { id: 8, name: 'Sneha Joshi', batch: 'Batch 2019', email: 'sneha.joshi@email.com', jobTitle: 'Data Scientist', company: 'AI Labs', phone: '+91 9876543217', avatar: '', department: 'Computer Science', linkedin: 'https://linkedin.com/in/snehajoshi', bio: 'Turning data into actionable insights using ML.', skills: ['Python', 'TensorFlow', 'Statistics'] },
-];
+const CURRENT_DATA_VERSION = '2024-25-v2';
+
+// --- Seed Data (Real 2024-25 Placement Data) ---
+const seedAlumni = realPlacedStudents.map(s => ({
+  ...s,
+  avatar: '',
+  linkedin: '',
+  bio: `${s.jobTitle} at ${s.company}. Batch 2024-25, Computer Engineering.`,
+}));
 
 const seedJobs = [
   { id: 1, title: 'Software Engineer', company: 'Tech Solutions', location: 'Bangalore', type: 'Full-time', salary: '₹12-18 LPA', description: 'Looking for a skilled software engineer with 2+ years of experience in React and Node.js.', postedBy: 'Rahul Sharma', postedDate: '2026-03-10', deadline: '2026-04-10', skills: ['React', 'Node.js', 'MongoDB'] },
@@ -71,8 +71,11 @@ function initializeStore() {
   if (!localStorage.getItem(STORAGE_KEYS.USERS)) {
     saveToStorage(STORAGE_KEYS.USERS, seedUsers);
   }
-  if (!localStorage.getItem(STORAGE_KEYS.ALUMNI)) {
+  // Force re-seed alumni when data version changes (ensures real data replaces placeholders)
+  const storedVersion = localStorage.getItem(STORAGE_KEYS.DATA_VERSION);
+  if (storedVersion !== CURRENT_DATA_VERSION) {
     saveToStorage(STORAGE_KEYS.ALUMNI, seedAlumni);
+    localStorage.setItem(STORAGE_KEYS.DATA_VERSION, CURRENT_DATA_VERSION);
   }
   if (!localStorage.getItem(STORAGE_KEYS.JOBS)) {
     saveToStorage(STORAGE_KEYS.JOBS, seedJobs);
@@ -140,6 +143,16 @@ export function logout() {
 
 export function getCurrentUser() {
   return getFromStorage(STORAGE_KEYS.CURRENT_USER, null);
+}
+
+export function updateCurrentUser(updates) {
+  const user = getCurrentUser();
+  if (user) {
+    const updatedUser = { ...user, ...updates };
+    saveToStorage(STORAGE_KEYS.CURRENT_USER, updatedUser);
+    return updatedUser;
+  }
+  return null;
 }
 
 // --- Alumni CRUD ---

@@ -1,10 +1,11 @@
 import { useState, useEffect } from 'react';
-import { NavLink, Outlet, useNavigate } from 'react-router-dom';
+import { NavLink, Outlet, useNavigate, useLocation } from 'react-router-dom';
 import { getCurrentUser, logout } from '../data/store';
 
 export default function AppLayout() {
   const [user, setUser] = useState(null);
   const navigate = useNavigate();
+  const location = useLocation();
 
   useEffect(() => {
     const u = getCurrentUser();
@@ -13,7 +14,7 @@ export default function AppLayout() {
     } else {
       setUser(u);
     }
-  }, [navigate]);
+  }, [navigate, location.pathname]);
 
   const handleLogout = () => {
     logout();

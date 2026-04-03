@@ -1,8 +1,7 @@
 import { useState, useEffect } from 'react';
-import { getCurrentUser, getAlumni, updateAlumni } from '../data/store';
+import { getCurrentUser, getAlumni, updateAlumni, updateCurrentUser } from '../data/store';
 
 export default function ProfilePage() {
-  const user = getCurrentUser();
   const [saved, setSaved] = useState(false);
   const [skillInput, setSkillInput] = useState('');
   const [form, setForm] = useState({
@@ -11,20 +10,33 @@ export default function ProfilePage() {
   });
 
   useEffect(() => {
+    const user = getCurrentUser();
+    if (!user) return;
     const alumni = getAlumni();
-    const rec = alumni.find(a => a.email === user?.email) || alumni[0];
+    // Find alumni record by alumniId (linked in user account) or fallback to email match
+    const rec = alumni.find(a => a.id === user.alumniId)
+             || alumni.find(a => a.email === user.email)
+             || null;
     if (rec) {
-      setForm({ name: rec.name||'', email: rec.email||'', phone: rec.phone||'',
-        batch: rec.batch||'', department: rec.department||'', jobTitle: rec.jobTitle||'',
-        company: rec.company||'', linkedin: rec.linkedin||'', bio: rec.bio||'',
-        skills: rec.skills||[], _id: rec.id });
+      setForm({
+        name: rec.name || '', email: rec.email || '', phone: rec.phone || '',
+        batch: rec.batch || '', department: rec.department || '', jobTitle: rec.jobTitle || '',
+        company: rec.company || '', linkedin: rec.linkedin || '', bio: rec.bio || '',
+        skills: rec.skills || [], _id: rec.id,
+      });
     }
-  }, [user]);
+  }, []); // Run once on mount — no object in deps to avoid infinite loop
 
   const handleSubmit = (e) => {
     e.preventDefault();
     const { _id, ...updates } = form;
-    if (_id) { updateAlumni(_id, updates); setSaved(true); setTimeout(() => setSaved(false), 3000); }
+    if (_id) {
+      updateAlumni(_id, updates);
+      // Sync current user session so topbar name updates immediately
+      updateCurrentUser({ name: updates.name, email: updates.email });
+      setSaved(true);
+      setTimeout(() => setSaved(false), 3000);
+    }
   };
 
   const addSkill = () => {

@@ -1,0 +1,6320 @@
+{
+"Placement Register List":[
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": "Sr No.",
+  "Column2": "College Id",
+  "Column3": "Name",
+  "Column4": "Contact",
+  "Column5": "10th %",
+  "Column6": "12th %",
+  "Column7": "Diploma% ",
+  "Column8": "Degree %",
+  "Column9": "Degree CGPA",
+  "Column10": "Placed Company Name"
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 1,
+  "Column2": "VU1F1920093",
+  "Column3": "Surojit  Uttam Ghosh ",
+  "Column4": "7666847930",
+  "Column5": 69.6,
+  "Column6": 61.08,
+  "Column7": "-",
+  "Column8": 85,
+  "Column9": 9
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 2,
+  "Column2": "VU1F2122001",
+  "Column3": "Akshad Sharad Mahadik",
+  "Column4": "9326572834",
+  "Column5": 65,
+  "Column6": 79,
+  "Column7": "-",
+  "Column8": 65,
+  "Column9": 7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 3,
+  "Column2": "VU1F2122002",
+  "Column3": "Samruddhi Pramod Sawant",
+  "Column4": "9167055886",
+  "Column5": 86.2,
+  "Column6": 88.83,
+  "Column7": "-",
+  "Column8": 79.634,
+  "Column9": 9.14
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 4,
+  "Column2": "VU1F2122003",
+  "Column3": "Prerna Suresh More",
+  "Column4": "9967485229",
+  "Column5": 86.6,
+  "Column6": 93.17,
+  "Column7": "-",
+  "Column8": 78.31,
+  "Column9": 8.96
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 5,
+  "Column2": "VU1F2122004",
+  "Column3": "Shreyas  Dilip  Gurav ",
+  "Column4": "8879794186",
+  "Column5": 83.8,
+  "Column6": 87.5,
+  "Column7": "-",
+  "Column8": 69.2,
+  "Column9": 7.75
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 6,
+  "Column2": "VU1F2122005",
+  "Column3": "Soham Rakesh Mane",
+  "Column4": "9321301782",
+  "Column5": 88,
+  "Column6": 79.67,
+  "Column7": "-",
+  "Column8": 63.9,
+  "Column9": 7.016
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 7,
+  "Column2": "VU1F2122007",
+  "Column3": "Akshat Ravikant Kamble",
+  "Column4": "9136858981",
+  "Column5": 92,
+  "Column6": 78.65,
+  "Column7": "-",
+  "Column8": 64.6,
+  "Column9": 6.8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 8,
+  "Column2": "VU1F2122010",
+  "Column3": "Atharv  Sanjaykumar  Bhosale",
+  "Column4": "7738658486",
+  "Column5": 91.2,
+  "Column6": 90.5,
+  "Column7": "-",
+  "Column8": 75,
+  "Column9": 9.04
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 9,
+  "Column2": "VU1F2122011",
+  "Column3": "Anushka Ashwin Rasam",
+  "Column4": "8108645596",
+  "Column5": 91,
+  "Column6": 93,
+  "Column7": "-",
+  "Column8": 78.3,
+  "Column9": 8.96
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 10,
+  "Column2": "VU1F2122012",
+  "Column3": "Siddhant  Dhanaji Thombare ",
+  "Column4": "8938945658",
+  "Column5": 70,
+  "Column6": 71,
+  "Column7": "-",
+  "Column8": 8,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 11,
+  "Column2": "VU1F2122013",
+  "Column3": "Aditya Ashok  Thorat",
+  "Column4": "8652492534",
+  "Column5": 77.6,
+  "Column6": 87.17,
+  "Column7": "-",
+  "Column8": 72.25,
+  "Column9": 7.605
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 12,
+  "Column2": "VU1F2122014",
+  "Column3": "Diksha Chandrakant  Waghmare",
+  "Column4": "7738709105",
+  "Column5": 90,
+  "Column6": 85,
+  "Column7": "-",
+  "Column8": 79.34,
+  "Column9": 9.1
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 13,
+  "Column2": "VU1F2122016",
+  "Column3": "Himanshu Asharam  Jaiswar",
+  "Column4": "7977523821",
+  "Column5": 78,
+  "Column6": 70,
+  "Column7": "-",
+  "Column8": 61.35,
+  "Column9": 7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 14,
+  "Column2": "VU1F2122018",
+  "Column3": "Yusra Obaidullah Ansari",
+  "Column4": "9987087476",
+  "Column5": 75.4,
+  "Column6": 75,
+  "Column7": "-",
+  "Column8": 64.61,
+  "Column9": 7.12
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 15,
+  "Column2": "VU1F2122019 ",
+  "Column3": "Yash  Manish  Kantharia ",
+  "Column4": "9757177273",
+  "Column5": 73.2,
+  "Column6": 84.5,
+  "Column7": "-",
+  "Column8": 60.68,
+  "Column9": 6.85
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 16,
+  "Column2": "VU1F2122021 ",
+  "Column3": "Tanmay Prashant  Sakpal",
+  "Column4": "8082212042",
+  "Column5": 89.4,
+  "Column6": 88,
+  "Column7": "-",
+  "Column8": 79.8,
+  "Column9": 8.4
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 17,
+  "Column2": "VU1F2122022",
+  "Column3": "Pawan Kumar Rajnath Yadav",
+  "Column4": "9372201961",
+  "Column5": 86.2,
+  "Column6": 68.15,
+  "Column7": "-",
+  "Column8": 60.28,
+  "Column9": 6.8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 18,
+  "Column2": "VU1F2122025",
+  "Column3": "Shruti Shivaji Kamble",
+  "Column4": "8975756876",
+  "Column5": 87.6,
+  "Column6": 92.3,
+  "Column7": "-",
+  "Column8": 74.01,
+  "Column9": 8.875
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 19,
+  "Column2": "VU1F2122026",
+  "Column3": "Rahul Dhondu  Pawar",
+  "Column4": "9702358510",
+  "Column5": 76,
+  "Column6": 82,
+  "Column7": "-",
+  "Column8": 79,
+  "Column9": 7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 20,
+  "Column2": "VU1F2122027 ",
+  "Column3": "Ashwini  Satish  Mayekar ",
+  "Column4": "9833650982",
+  "Column5": 86,
+  "Column6": 94.33,
+  "Column7": "-",
+  "Column8": 78.18,
+  "Column9": 8.943
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 21,
+  "Column2": "VU1F2122028",
+  "Column3": "Vedant Laxman Narute",
+  "Column4": "7030247592",
+  "Column5": 87.2,
+  "Column6": 87.5,
+  "Column7": "-",
+  "Column8": 66.76,
+  "Column9": 7.4
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 22,
+  "Column2": "VU1F2122030",
+  "Column3": "Vinesh Yashwant Rathod",
+  "Column4": "9323402013",
+  "Column5": 75,
+  "Column6": 72.33,
+  "Column7": "-",
+  "Column8": 75.49,
+  "Column9": 8.51
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 23,
+  "Column2": "VU1F2122031",
+  "Column3": "Asmita Sheshrao Ghode",
+  "Column4": "9004954995",
+  "Column5": 94,
+  "Column6": 93.5,
+  "Column7": "-",
+  "Column8": 77.49,
+  "Column9": 8.85
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 24,
+  "Column2": "VU1F2122032",
+  "Column3": "Bhushan  Vishnu Thakur",
+  "Column4": "9967487547",
+  "Column5": 80.2,
+  "Column6": 83.33,
+  "Column7": "-",
+  "Column8": 74.6,
+  "Column9": 8.46
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 25,
+  "Column2": "VU1F2122033",
+  "Column3": "Yukta Ravindra  Jadhav",
+  "Column4": "9403608619",
+  "Column5": 88.8,
+  "Column6": 89.33,
+  "Column7": "-",
+  "Column8": 68.17,
+  "Column9": 7.49
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 26,
+  "Column2": "VU1F2122034",
+  "Column3": "Chetan  Ashok  Pardeshi ",
+  "Column4": "9022789604",
+  "Column5": 76.66,
+  "Column6": 55.54,
+  "Column7": "-",
+  "Column8": 74.38,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 27,
+  "Column2": "VU1F2122035 ",
+  "Column3": "Tejas Pradip Chakranarayan ",
+  "Column4": "9096042137",
+  "Column5": 83.87,
+  "Column6": 62.62,
+  "Column7": "-",
+  "Column8": 65.28,
+  "Column9": 7.5
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 28,
+  "Column2": "VU1F2122036",
+  "Column3": "Laxmikant  Umesh Deosarkar",
+  "Column4": "8010228391",
+  "Column5": 78.8,
+  "Column6": 90.83,
+  "Column7": "-",
+  "Column8": 65.87,
+  "Column9": 7.28
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 29,
+  "Column2": "VU1F2122038 ",
+  "Column3": "Nihaar Adhiep Mascarenhas",
+  "Column4": "7021392067",
+  "Column5": 83.6,
+  "Column6": 91.5,
+  "Column7": "-",
+  "Column8": 75.42,
+  "Column9": 8.57
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 30,
+  "Column2": "VU1F2122040",
+  "Column3": "Sahil Dilip  Kuware",
+  "Column4": "8108903711",
+  "Column5": 70.4,
+  "Column6": 82.67,
+  "Column7": "-",
+  "Column8": 72.31,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 31,
+  "Column2": "VU1F2122042 ",
+  "Column3": "Nidhi  Nitin  Patil",
+  "Column4": "9004855875",
+  "Column5": 85.4,
+  "Column6": 89.3,
+  "Column7": "-",
+  "Column8": 74.46,
+  "Column9": 8.44
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 32,
+  "Column2": "VU1F2122044",
+  "Column3": "Subodh Suresh  Badgujar",
+  "Column4": "8689995997",
+  "Column5": 69,
+  "Column6": 74,
+  "Column7": "-",
+  "Column8": 64.85,
+  "Column9": 7.14
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 33,
+  "Column2": "VU1F2122045",
+  "Column3": "Purva Tejesh Patil",
+  "Column4": "8956754548",
+  "Column5": 85.8,
+  "Column6": 89.83,
+  "Column7": "-",
+  "Column8": 77.33,
+  "Column9": 8.83
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 34,
+  "Column2": "VU1F2122046 ",
+  "Column3": "Purva Suryakant  Nagap",
+  "Column4": "9372961032",
+  "Column5": 85.8,
+  "Column6": 80.83,
+  "Column7": "-",
+  "Column8": 80,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 35,
+  "Column2": "VU1F2122047",
+  "Column3": "Harsh Kishor Sawant",
+  "Column4": "9619238642",
+  "Column5": 73,
+  "Column6": 77,
+  "Column7": "-",
+  "Column8": 68.97,
+  "Column9": 7.7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 36,
+  "Column2": "VU1F2122048",
+  "Column3": "Varun Vilas Patkar",
+  "Column4": "9373983012",
+  "Column5": 62,
+  "Column6": 71.33,
+  "Column7": "-",
+  "Column8": 66.55,
+  "Column9": 7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 37,
+  "Column2": "VU1F2122049 ",
+  "Column3": "Rahul  Prakash  Bhurkud ",
+  "Column4": "8262860233",
+  "Column5": 78.6,
+  "Column6": 81.33,
+  "Column7": "-",
+  "Column8": 70,
+  "Column9": 7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 38,
+  "Column2": "VU1F2122050 ",
+  "Column3": "Aryan Ramesh Waghmare",
+  "Column4": "8928643488",
+  "Column5": 81,
+  "Column6": 79.5,
+  "Column7": "-",
+  "Column8": 64.23,
+  "Column9": 7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 39,
+  "Column2": "VU1F2122051",
+  "Column3": "Sushant  Dilip  Gholap",
+  "Column4": "7039904209",
+  "Column5": 70.6,
+  "Column6": 83,
+  "Column7": "-",
+  "Column8": 67.89,
+  "Column9": 7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 40,
+  "Column2": "VU1F2122052",
+  "Column3": "Swaleha Mohammed Sajid Ansari",
+  "Column4": "9137152265",
+  "Column5": 89,
+  "Column6": 90,
+  "Column7": "-",
+  "Column8": 77.6,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 41,
+  "Column2": "VU1F2122053",
+  "Column3": "Sneha Sakharam  Golhe",
+  "Column4": "9324617955",
+  "Column5": 79,
+  "Column6": 88,
+  "Column7": "-",
+  "Column8": 70.46,
+  "Column9": 7.9
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 42,
+  "Column2": "VU1F2122054",
+  "Column3": "Vishal Anil Ugalmugale",
+  "Column4": "8425990154",
+  "Column5": 78.2,
+  "Column6": 92.67,
+  "Column7": "-",
+  "Column8": 77.7,
+  "Column9": 8.8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 43,
+  "Column2": "VU1F2122055 ",
+  "Column3": "Rishi  Gurudatt  Mengade ",
+  "Column4": "8879721588",
+  "Column5": 84.8,
+  "Column6": 86.84,
+  "Column7": "-",
+  "Column8": 71.43,
+  "Column9": 8.02
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 44,
+  "Column2": "VU1F2122057",
+  "Column3": "Sanika  Vivekanand Lad",
+  "Column4": "9137344675",
+  "Column5": 81.2,
+  "Column6": 81.33,
+  "Column7": "-",
+  "Column8": 71.61,
+  "Column9": 8.06
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 45,
+  "Column2": "VU1F2122061",
+  "Column3": "Aviral Shivprakash  Shukla ",
+  "Column4": "7620349568",
+  "Column5": 91.8,
+  "Column6": 82.76,
+  "Column7": "-",
+  "Column8": 75.83,
+  "Column9": 8.63
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 46,
+  "Column2": "VU1F2122062",
+  "Column3": "Hamdan Abdul Wahid Khan",
+  "Column4": "9860285189",
+  "Column5": 65.8,
+  "Column6": 82,
+  "Column7": "-",
+  "Column8": "-",
+  "Column9": "-"
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 47,
+  "Column2": "VU1F2122064 ",
+  "Column3": "Sakshita Santosh Bodke",
+  "Column4": "8928303475",
+  "Column5": 79.4,
+  "Column6": 58.31,
+  "Column7": "-",
+  "Column8": 70.68,
+  "Column9": 7.94
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 48,
+  "Column2": "VU1F2122066 ",
+  "Column3": "Sandesh  Balkrishna  Pawar",
+  "Column4": "9372256397",
+  "Column5": 91.4,
+  "Column6": 87.83,
+  "Column7": "-",
+  "Column8": 71.42,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 49,
+  "Column2": "VU1F2122067 ",
+  "Column3": "Mamta  Mahadev  Mingal ",
+  "Column4": "8850848886",
+  "Column5": 79,
+  "Column6": 76.62,
+  "Column7": "-",
+  "Column8": 74,
+  "Column9": 8.4
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 50,
+  "Column2": "VU1F2122068",
+  "Column3": "Ankit Sanat Shukla",
+  "Column4": "8421369201",
+  "Column5": 75,
+  "Column6": 66,
+  "Column7": "-",
+  "Column8": 58.9,
+  "Column9": 6
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 51,
+  "Column2": "VU1F2122069",
+  "Column3": "Ayush  Jasbir Singh",
+  "Column4": "9511830712",
+  "Column5": 77,
+  "Column6": 85.67,
+  "Column7": "-",
+  "Column8": 63.65,
+  "Column9": 6.7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 52,
+  "Column2": "VU1F2122070",
+  "Column3": "Aryan Santosh Gupta",
+  "Column4": "8828047836",
+  "Column5": 72,
+  "Column6": 81.83,
+  "Column7": "-",
+  "Column8": 64.695,
+  "Column9": 6.81
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 53,
+  "Column2": "VU1F2122073 ",
+  "Column3": "Tushar Dinesh Singh",
+  "Column4": "9819765352",
+  "Column5": 85.4,
+  "Column6": 94.5,
+  "Column7": "-",
+  "Column8": 82.5,
+  "Column9": 9.55
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 54,
+  "Column2": "VU1F2122074",
+  "Column3": "Chiranjiv Dhanraj Adsul",
+  "Column4": "8657674136",
+  "Column5": 68,
+  "Column6": 83,
+  "Column7": "-",
+  "Column8": 69.35,
+  "Column9": 7.3
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 55,
+  "Column2": "VU1F2122075",
+  "Column3": "Vaishnavi Vilas Devlekar",
+  "Column4": "9653670795",
+  "Column5": 86,
+  "Column6": 88,
+  "Column7": "-",
+  "Column8": 71.35,
+  "Column9": 8.5
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 56,
+  "Column2": "VU1F2122076",
+  "Column3": "Ashwayu Ravindra  Nagpure",
+  "Column4": "9307257198",
+  "Column5": 68,
+  "Column6": 86,
+  "Column7": 70,
+  "Column8": 64.81,
+  "Column9": 7.5
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 57,
+  "Column2": "VU1F2122077",
+  "Column3": "Singh  Adarsh  Rajesh ",
+  "Column4": "7738102202",
+  "Column5": 89.6,
+  "Column6": 67.7,
+  "Column7": "-",
+  "Column8": 70,
+  "Column9": 7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 58,
+  "Column2": "VU1F2122078",
+  "Column3": "Omkar Jagannath  Masaye",
+  "Column4": "9372586707",
+  "Column5": 87.4,
+  "Column6": 89.6,
+  "Column7": "-",
+  "Column8": 76.9,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 59,
+  "Column2": "VU1F2122079",
+  "Column3": "Shubham Ganesh Naik",
+  "Column4": "8390522044",
+  "Column5": 81.2,
+  "Column6": 72.67,
+  "Column7": "-",
+  "Column8": 69.51,
+  "Column9": 7.77
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 60,
+  "Column2": "VU1F2122081 ",
+  "Column3": "shrawani Pramod Dalvi",
+  "Column4": "7304732797",
+  "Column5": 86,
+  "Column6": 90,
+  "Column7": "-",
+  "Column8": 70.43,
+  "Column9": 7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 61,
+  "Column2": "VU1F2122083",
+  "Column3": "Sameep Ashok Korvi",
+  "Column4": "7738866752",
+  "Column5": 79,
+  "Column6": 84,
+  "Column7": "-",
+  "Column8": 76.2,
+  "Column9": 8.45
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 62,
+  "Column2": "VU1F2122085",
+  "Column3": "Soham Krishna Nandanwar",
+  "Column4": "9326170646",
+  "Column5": 83,
+  "Column6": 95,
+  "Column7": "-",
+  "Column8": 67.57,
+  "Column9": 7.51
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 63,
+  "Column2": "VU1F2122086",
+  "Column3": "Abhishek Mahesh Khandare",
+  "Column4": "9967198279",
+  "Column5": 81,
+  "Column6": 87.83,
+  "Column7": "-",
+  "Column8": 76.86,
+  "Column9": 8.91
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 64,
+  "Column2": "VU1F2122088",
+  "Column3": "pranay amrut gawade",
+  "Column4": "7769079039",
+  "Column5": 73.4,
+  "Column6": 64.17,
+  "Column7": "-",
+  "Column8": 64,
+  "Column9": 7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 65,
+  "Column2": "VU1F2122089",
+  "Column3": "Wasim  Zabiullah  Khan",
+  "Column4": "9372866078",
+  "Column5": 84.6,
+  "Column6": 80.677,
+  "Column7": "-",
+  "Column8": 74,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 66,
+  "Column2": "VU1F2122090 ",
+  "Column3": "Aadesh  Vijay  Bavalekar ",
+  "Column4": "9309730053",
+  "Column5": 81.6,
+  "Column6": 91.33,
+  "Column7": "-",
+  "Column8": 72,
+  "Column9": 7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 67,
+  "Column2": "VU1F2122091",
+  "Column3": "Eshwari  Jagadeesha  Rampoore ",
+  "Column4": "8080049758",
+  "Column5": 87.8,
+  "Column6": 94.17,
+  "Column7": "-",
+  "Column8": 91.9436,
+  "Column9": 9
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 68,
+  "Column2": "VU1F2122092",
+  "Column3": "Aryan  akhilesh  singh",
+  "Column4": "9702050081",
+  "Column5": 79.8,
+  "Column6": 78.2,
+  "Column7": "-",
+  "Column8": 76,
+  "Column9": 7.6
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 69,
+  "Column2": "VU1F2122093",
+  "Column3": "Kaushik Krishna Mandal",
+  "Column4": "9372281362",
+  "Column5": 91.2,
+  "Column6": 88,
+  "Column7": "-",
+  "Column8": 70.68,
+  "Column9": 7.95
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 70,
+  "Column2": "VU1F2122096",
+  "Column3": "Arfeen  Rafiq Momin",
+  "Column4": "7710901095",
+  "Column5": 80,
+  "Column6": 78.17,
+  "Column7": "-",
+  "Column8": 64.98,
+  "Column9": 7.16
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 71,
+  "Column2": "VU1F2122097",
+  "Column3": "Radhika  Bapurao  Yadav",
+  "Column4": "8104383549",
+  "Column5": 79,
+  "Column6": 80,
+  "Column7": "-",
+  "Column8": 73,
+  "Column9": 7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 72,
+  "Column2": "VU1F2122099 ",
+  "Column3": "Suraj  Vijay  Lawand ",
+  "Column4": "7710833918",
+  "Column5": 85,
+  "Column6": 88.32,
+  "Column7": "-",
+  "Column8": 70,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 73,
+  "Column2": "VU1F2122101",
+  "Column3": "Shashank  Sankarshan Upadhyay ",
+  "Column4": "9653696994",
+  "Column5": 81,
+  "Column6": 85,
+  "Column7": "-",
+  "Column8": 68,
+  "Column9": 7.55
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 74,
+  "Column2": "VU1F2122102 ",
+  "Column3": "Divleen Kaur Banga",
+  "Column4": "7977039472",
+  "Column5": 82,
+  "Column6": 89,
+  "Column7": "-",
+  "Column8": 73.93,
+  "Column9": 8.36
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 75,
+  "Column2": "VU1F2122103",
+  "Column3": "Yash Manish Parkar",
+  "Column4": "9757055268",
+  "Column5": 76.2,
+  "Column6": 85.5,
+  "Column7": "-",
+  "Column8": 80.75,
+  "Column9": 7.75
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 76,
+  "Column2": "VU1F2122104",
+  "Column3": "Yash Vinod Nimbalkar ",
+  "Column4": "9372529475",
+  "Column5": 85,
+  "Column6": 91,
+  "Column7": "-",
+  "Column8": 67.51,
+  "Column9": 7.96
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 77,
+  "Column2": "VU1F2122105",
+  "Column3": "Akshara Amar Dussa",
+  "Column4": "8097430085",
+  "Column5": 72.2,
+  "Column6": 84.67,
+  "Column7": "-",
+  "Column8": 71,
+  "Column9": 7.96
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 78,
+  "Column2": "VU1F2122106",
+  "Column3": "Ruchi  Vijay  Sahu ",
+  "Column4": "9224363201",
+  "Column5": 82,
+  "Column6": 88,
+  "Column7": "-",
+  "Column8": 75,
+  "Column9": 8.43
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 79,
+  "Column2": "VU1F2122108 ",
+  "Column3": "Chirag  Manoj Kadam",
+  "Column4": "8828086234",
+  "Column5": 91.4,
+  "Column6": 84,
+  "Column7": "-",
+  "Column8": 72.2,
+  "Column9": 7.7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 80,
+  "Column2": "VU1F2122109 ",
+  "Column3": "Tejas Pramod  Korlekar",
+  "Column4": "9503845241",
+  "Column5": 84,
+  "Column6": 93,
+  "Column7": "-",
+  "Column8": 73.6,
+  "Column9": 7.69
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 81,
+  "Column2": "VU1F2122111",
+  "Column3": "Preeti Prava Nikhil Jana",
+  "Column4": "9082368576",
+  "Column5": 63.6,
+  "Column6": 81.5,
+  "Column7": "-",
+  "Column8": 74,
+  "Column9": 7.63
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 82,
+  "Column2": "VU1F2122112",
+  "Column3": "Raj Prakash Kadam",
+  "Column4": "9324357546",
+  "Column5": 87.8,
+  "Column6": 91.33,
+  "Column7": "-",
+  "Column8": 73.6,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 83,
+  "Column2": "VU1F2122113 ",
+  "Column3": "Satyam Brijnarayan  Pandey ",
+  "Column4": "9721197107",
+  "Column5": 64,
+  "Column6": 75,
+  "Column7": "-",
+  "Column8": 66.11,
+  "Column9": 7.62
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 84,
+  "Column2": "VU1F2122114",
+  "Column3": "Arya Ganesh Dandekar",
+  "Column4": "7045417258",
+  "Column5": 84.2,
+  "Column6": 91.3,
+  "Column7": "-",
+  "Column8": 74.5,
+  "Column9": 8.4
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 85,
+  "Column2": "VU1F2122116",
+  "Column3": "Pooja Omprakash  Bhati",
+  "Column4": "8779454054",
+  "Column5": 80.2,
+  "Column6": 90.17,
+  "Column7": "-",
+  "Column8": 77.9,
+  "Column9": 8.8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 86,
+  "Column2": "VU1F2122118",
+  "Column3": "Hamza Zubair  Shaikh",
+  "Column4": "9137490089",
+  "Column5": 53,
+  "Column6": 70,
+  "Column7": "-",
+  "Column8": "-",
+  "Column9": "-"
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 87,
+  "Column2": "VU1F2122119 ",
+  "Column3": "Sneha Santosh Patil",
+  "Column4": "9324719322",
+  "Column5": 75.2,
+  "Column6": 81,
+  "Column7": "-",
+  "Column8": 69.5,
+  "Column9": 7.77
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 88,
+  "Column2": "VU1F2122121",
+  "Column3": "Soham Sanjeev Kandalkar",
+  "Column4": "8451836862",
+  "Column5": 89,
+  "Column6": 85,
+  "Column7": "-",
+  "Column8": 72.1,
+  "Column9": 7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 89,
+  "Column2": "VU1F2122122",
+  "Column3": "Sanasi Suhas Salvi",
+  "Column4": "9870359333",
+  "Column5": 77.4,
+  "Column6": 83.17,
+  "Column7": "-",
+  "Column8": 68.09,
+  "Column9": 7.58
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 90,
+  "Column2": "VU1F2122123",
+  "Column3": "Kunal DilBahadur Rawal",
+  "Column4": "9326138375",
+  "Column5": 76,
+  "Column6": 93,
+  "Column7": "-",
+  "Column8": 77,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 91,
+  "Column2": "VU1F2122124",
+  "Column3": "Smit Ratnadipak Patil",
+  "Column4": "9619238794",
+  "Column5": 82.8,
+  "Column6": 84,
+  "Column7": "-",
+  "Column8": "-",
+  "Column9": "-"
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 92,
+  "Column2": "VU1F2122125",
+  "Column3": "Sarvesh Shailesh Bhogle",
+  "Column4": "8291590240",
+  "Column5": 86,
+  "Column6": 88,
+  "Column7": "-",
+  "Column8": 70.61,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 93,
+  "Column2": "VU1F2122127 ",
+  "Column3": "Vikas Ramajor  Yadav",
+  "Column4": "9867848102",
+  "Column5": 66.2,
+  "Column6": 57.54,
+  "Column7": "-",
+  "Column8": 66.48,
+  "Column9": 7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 94,
+  "Column2": "VU1F2122128",
+  "Column3": "Aftab  Mohammed Shaikh ",
+  "Column4": "9967299435",
+  "Column5": 68.4,
+  "Column6": 83.5,
+  "Column7": "-",
+  "Column8": 77.4,
+  "Column9": 7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 95,
+  "Column2": "VU1F2122130",
+  "Column3": "Anas Ejaz Sayed",
+  "Column4": "9082147566",
+  "Column5": 81,
+  "Column6": 94,
+  "Column7": "-",
+  "Column8": 70,
+  "Column9": 7.5
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 96,
+  "Column2": "VU1F2122131",
+  "Column3": "Tanish Chandrakant Desai",
+  "Column4": "9773843599",
+  "Column5": 82.6,
+  "Column6": 90.16,
+  "Column7": "-",
+  "Column8": 78,
+  "Column9": 7.44
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 97,
+  "Column2": "VU1F2122132",
+  "Column3": "vedhavrath gangadhar vasala",
+  "Column4": "8291188280",
+  "Column5": 87,
+  "Column6": 64,
+  "Column7": "-",
+  "Column8": 8,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 98,
+  "Column2": "VU1F2122134 ",
+  "Column3": "Harsh  Dharmendra  Pal",
+  "Column4": "7900083956",
+  "Column5": 62.2,
+  "Column6": 82,
+  "Column7": "-",
+  "Column8": 66,
+  "Column9": 7.43
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 99,
+  "Column2": "VU1F2122136 ",
+  "Column3": "Rangrez  Hassan Raza  Akhtar Hussain ",
+  "Column4": "8454951235",
+  "Column5": 53,
+  "Column6": 73,
+  "Column7": "-",
+  "Column8": 65,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 100,
+  "Column2": "VU1F2223017",
+  "Column3": "santosh chintamani allu",
+  "Column4": "9321754083",
+  "Column5": 84,
+  "Column6": 72,
+  "Column7": "-",
+  "Column8": 80.77,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 101,
+  "Column2": "VU1S2223002",
+  "Column3": "Yash Prakash Pimpalkar",
+  "Column4": "9619456269",
+  "Column5": 82.4,
+  "Column6": "-",
+  "Column7": 90.75,
+  "Column8": 70,
+  "Column9": 7.6
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 102,
+  "Column2": "VU1S2223003 ",
+  "Column3": "Bhavika  Deepak  Mandavkar ",
+  "Column4": "7249842578",
+  "Column5": 81,
+  "Column6": "-",
+  "Column7": 85.7,
+  "Column8": 69,
+  "Column9": 7.61
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 103,
+  "Column2": "VU1S2223004",
+  "Column3": "Prachi Satish Jamdade",
+  "Column4": "9324328505",
+  "Column5": 91.6,
+  "Column6": "-",
+  "Column7": 90.08,
+  "Column8": 72.33,
+  "Column9": 8.5
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 104,
+  "Column2": "VU1S2223005",
+  "Column3": "Sonal Sanjay Gavali",
+  "Column4": "7977413885",
+  "Column5": 86,
+  "Column6": "-",
+  "Column7": 89,
+  "Column8": 71,
+  "Column9": 7.17
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 105,
+  "Column2": "VU1S2223007 ",
+  "Column3": "Arya Abhay  nikale",
+  "Column4": "9004697366",
+  "Column5": 80.6,
+  "Column6": "-",
+  "Column7": 92,
+  "Column8": 80,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 106,
+  "Column2": "VU1S2223008",
+  "Column3": "Siddhesh Arvind Patil",
+  "Column4": "9702860039",
+  "Column5": 85,
+  "Column6": "-",
+  "Column7": 90.63,
+  "Column8": 67.72,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 107,
+  "Column2": "VU1S2223011",
+  "Column3": "Vaishnavi  Shankar Jadhav",
+  "Column4": "9324278224",
+  "Column5": 80.6,
+  "Column6": "-",
+  "Column7": 91.08,
+  "Column8": 73.94,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 108,
+  "Column2": "VU1S2223012 ",
+  "Column3": "Shubhankar  Jayawant  Kadam",
+  "Column4": "9130703898",
+  "Column5": 94.8,
+  "Column6": "-",
+  "Column7": 85.26,
+  "Column8": 73.34,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 109,
+  "Column2": "VU1S2223013",
+  "Column3": "Sanil Ajit Jadhav",
+  "Column4": "9049761699",
+  "Column5": 85.2,
+  "Column6": "-",
+  "Column7": 89.31,
+  "Column8": 75.64,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 110,
+  "Column2": "VU1S2223014",
+  "Column3": "Iqra Fatema Taukir Ahmed  Shaikh",
+  "Column4": "9324354306",
+  "Column5": 78.6,
+  "Column6": "-",
+  "Column7": 85.6,
+  "Column8": 75.2,
+  "Column9": 8.61
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 111,
+  "Column2": "VU1S2223015",
+  "Column3": "Afnan RaeesAhmed Shaikh",
+  "Column4": "9136564743",
+  "Column5": 78.6,
+  "Column6": "-",
+  "Column7": 88.63,
+  "Column8": 74.9,
+  "Column9": 8.55
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 112,
+  "Column2": "VU1S2223016 ",
+  "Column3": "Mohd Afnan  Amir Ali  Shaikh ",
+  "Column4": "9321803328",
+  "Column5": 74.8,
+  "Column6": "-",
+  "Column7": 71.08,
+  "Column8": 63.19,
+  "Column9": 7.02
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 113,
+  "Column2": "VU1S2223017",
+  "Column3": "Raj  Sandeep Mayekar",
+  "Column4": "7777096028",
+  "Column5": 88.33,
+  "Column6": "-",
+  "Column7": 91,
+  "Column8": 85,
+  "Column9": 8.5
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 114,
+  "Column2": "VU1S2223018",
+  "Column3": "Mayuresh Jagdish Patil",
+  "Column4": "9987230081",
+  "Column5": 71.4,
+  "Column6": "-",
+  "Column7": 77,
+  "Column8": 78.09,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 115,
+  "Column2": "VU1F2122082",
+  "Column3": "Aryan Sawant",
+  "Column4": 9167844274
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 116,
+  "Column2": "VU1F2122139",
+  "Column3": "Vikrant Vinod  Patil",
+  "Column4": "9326320187",
+  "Column5": 75.2,
+  "Column6": "-",
+  "Column7": 89.06,
+  "Column8": 67,
+  "Column9": 7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 117,
+  "Column2": "VU1F2122098",
+  "Column3": "Kavin  Ganesh  Girigosavi ",
+  "Column4": "9321159859",
+  "Column5": 90,
+  "Column6": 93,
+  "Column7": "-",
+  "Column8": 85.91,
+  "Column9": 8.998
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 118,
+  "Column2": "VU1F2122009",
+  "Column3": "Riddhi Rajesh  Pagare",
+  "Column4": "9324578106",
+  "Column5": 87,
+  "Column6": 89,
+  "Column7": "-",
+  "Column8": 75,
+  "Column9": 8
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 119,
+  "Column2": "VU1F2122015",
+  "Column3": "Pragya  Satyendra Mandpe",
+  "Column4": "8602085605",
+  "Column5": 78.33,
+  "Column6": 94.33,
+  "Column7": "-",
+  "Column8": "-",
+  "Column9": "-"
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 120,
+  "Column2": "VU1F2122117",
+  "Column3": "Subiya Kalim Sayyed",
+  "Column4": "9152640249",
+  "Column5": 69,
+  "Column6": 72.67,
+  "Column7": "-",
+  "Column8": 65.13,
+  "Column9": 7
+ },
+ {
+  "PLACEMENT(INTERESTED) REGISTRATION LIST 2024-25": 121,
+  "Column2": "VU1F2122071",
+  "Column3": "Shreeya Gajendra Tamloorkar",
+  "Column4": "7620643060",
+  "Column5": 86,
+  "Column6": 70,
+  "Column7": "-",
+  "Column8": 62.32,
+  "Column9": 7
+ }
+],
+"Master List":[
+ {
+  "BE STUDENT LIST 2024-25": "SR.NO",
+  "Column2": "VID",
+  "Column3": "NAME OF STUDENT",
+  "Column4": "CONTACT NO"
+ },
+ {
+  "BE STUDENT LIST 2024-25": 1,
+  "Column2": "VU1F1920093",
+  "Column3": "SUROJIT UTTAM GHOSH",
+  "Column4": 7666847930
+ },
+ {
+  "BE STUDENT LIST 2024-25": 2,
+  "Column2": "VU1F2122001",
+  "Column3": "AKSHAD SHARAD MAHADIK",
+  "Column4": 9326572834
+ },
+ {
+  "BE STUDENT LIST 2024-25": 3,
+  "Column2": "VU1F2122002",
+  "Column3": "SAMRUDDHI PRAMOD SAWANT",
+  "Column4": 9167055886
+ },
+ {
+  "BE STUDENT LIST 2024-25": 4,
+  "Column2": "VU1F2122003",
+  "Column3": "PRERNA SURESH MORE",
+  "Column4": 9967485229
+ },
+ {
+  "BE STUDENT LIST 2024-25": 5,
+  "Column2": "VU1F2122004",
+  "Column3": "SHREYAS DILIP GURAV",
+  "Column4": 8879794186
+ },
+ {
+  "BE STUDENT LIST 2024-25": 6,
+  "Column2": "VU1F2122005",
+  "Column3": "SOHAM RAKESH MANE",
+  "Column4": 9321301782
+ },
+ {
+  "BE STUDENT LIST 2024-25": 7,
+  "Column2": "VU1F2122007",
+  "Column3": "AKSHAT RAVIKANT KAMBLE",
+  "Column4": 9136858981
+ },
+ {
+  "BE STUDENT LIST 2024-25": 8,
+  "Column2": "VU1F2122008",
+  "Column3": "ANJU SHIDWA PARHYAD",
+  "Column4": 9022613260
+ },
+ {
+  "BE STUDENT LIST 2024-25": 9,
+  "Column2": "VU1F2122009",
+  "Column3": "RIDDHI RAJESH PAGARE",
+  "Column4": 9324578106
+ },
+ {
+  "BE STUDENT LIST 2024-25": 10,
+  "Column2": "VU1F2122010",
+  "Column3": "ATHARV SANJAYKUMAR BHOSALE",
+  "Column4": 7738658486
+ },
+ {
+  "BE STUDENT LIST 2024-25": 11,
+  "Column2": "VU1F2122011",
+  "Column3": "ANUSHKA ASHWIN RASAM",
+  "Column4": 8108645596
+ },
+ {
+  "BE STUDENT LIST 2024-25": 12,
+  "Column2": "VU1F2122012",
+  "Column3": "SIDDHANT DHANAJI THOMBARE",
+  "Column4": 8938945658
+ },
+ {
+  "BE STUDENT LIST 2024-25": 13,
+  "Column2": "VU1F2122013",
+  "Column3": "ADITYA ASHOK THORAT",
+  "Column4": 8652492534
+ },
+ {
+  "BE STUDENT LIST 2024-25": 14,
+  "Column2": "VU1F2122014",
+  "Column3": "DIKSHA CHANDRAKANT WAGHMARE",
+  "Column4": 7738709105
+ },
+ {
+  "BE STUDENT LIST 2024-25": 15,
+  "Column2": "VU1F2122015",
+  "Column3": "PRAGYA SATYENDRA MANDPE",
+  "Column4": 8602085605
+ },
+ {
+  "BE STUDENT LIST 2024-25": 16,
+  "Column2": "VU1F2122016",
+  "Column3": "HIMANSHU ASHARAM JAISWAR",
+  "Column4": 7977523821
+ },
+ {
+  "BE STUDENT LIST 2024-25": 17,
+  "Column2": "VU1F2122018",
+  "Column3": "YUSRA OBAIDULLAH ANSARI",
+  "Column4": 9987087476
+ },
+ {
+  "BE STUDENT LIST 2024-25": 18,
+  "Column2": "VU1F2122019",
+  "Column3": "YASH MANISH KANTHARIA",
+  "Column4": 9757177273
+ },
+ {
+  "BE STUDENT LIST 2024-25": 19,
+  "Column2": "VU1F2122020",
+  "Column3": "EKTA ASHVINKUMAR CHAMPANERI",
+  "Column4": 9321165058
+ },
+ {
+  "BE STUDENT LIST 2024-25": 20,
+  "Column2": "VU1F2122021",
+  "Column3": "TANMAY PRASHANT SAKPAL",
+  "Column4": 8082212042
+ },
+ {
+  "BE STUDENT LIST 2024-25": 21,
+  "Column2": "VU1F2122022",
+  "Column3": "PAWAN KUMAR RAJNATH YADAV",
+  "Column4": 9372201961
+ },
+ {
+  "BE STUDENT LIST 2024-25": 22,
+  "Column2": "VU1F2122023",
+  "Column3": "YASH MARUTI CHABUKSWAR",
+  "Column4": 9967295167
+ },
+ {
+  "BE STUDENT LIST 2024-25": 23,
+  "Column2": "VU1F2122024",
+  "Column3": "SANIKA RAJESH BAMANE",
+  "Column4": 8450925695
+ },
+ {
+  "BE STUDENT LIST 2024-25": 24,
+  "Column2": "VU1F2122025",
+  "Column3": "SHRUTI SHIVAJI KAMBLE",
+  "Column4": 8975756876
+ },
+ {
+  "BE STUDENT LIST 2024-25": 25,
+  "Column2": "VU1F2122026",
+  "Column3": "RAHUL DHONDU PAWAR",
+  "Column4": 9702358510
+ },
+ {
+  "BE STUDENT LIST 2024-25": 26,
+  "Column2": "VU1F2122027",
+  "Column3": "ASHWINI SATISH MAYEKAR",
+  "Column4": 9833650982
+ },
+ {
+  "BE STUDENT LIST 2024-25": 27,
+  "Column2": "VU1F2122028",
+  "Column3": "VEDANT LAXMAN NARUTE",
+  "Column4": 7030247592
+ },
+ {
+  "BE STUDENT LIST 2024-25": 28,
+  "Column2": "VU1F2122029",
+  "Column3": "GAURAV GANESH DONGRE",
+  "Column4": 9372704264
+ },
+ {
+  "BE STUDENT LIST 2024-25": 29,
+  "Column2": "VU1F2122030",
+  "Column3": "VINESH YASHWANT RATHOD",
+  "Column4": 9323402013
+ },
+ {
+  "BE STUDENT LIST 2024-25": 30,
+  "Column2": "VU1F2122031",
+  "Column3": "ASMITA SHESHRAO GHODE",
+  "Column4": 9004954995
+ },
+ {
+  "BE STUDENT LIST 2024-25": 31,
+  "Column2": "VU1F2122032",
+  "Column3": "BHUSHAN VISHNU THAKUR",
+  "Column4": 9967487547
+ },
+ {
+  "BE STUDENT LIST 2024-25": 32,
+  "Column2": "VU1F2122033",
+  "Column3": "YUKTA RAVINDRA JADHAV",
+  "Column4": 9403608619
+ },
+ {
+  "BE STUDENT LIST 2024-25": 33,
+  "Column2": "VU1F2122034",
+  "Column3": "CHETAN ASHOK PARDESHI",
+  "Column4": 9022789604
+ },
+ {
+  "BE STUDENT LIST 2024-25": 34,
+  "Column2": "VU1F2122035",
+  "Column3": "TEJAS PRADIP CHAKRANARAYAN",
+  "Column4": 9096042137
+ },
+ {
+  "BE STUDENT LIST 2024-25": 35,
+  "Column2": "VU1F2122036",
+  "Column3": "LAXMIKANT UMESH DEOSARKAR",
+  "Column4": 8010228391
+ },
+ {
+  "BE STUDENT LIST 2024-25": 36,
+  "Column2": "VU1F2122038",
+  "Column3": "NIHAAR ADHIEP MASCARENHAS",
+  "Column4": 7021392067
+ },
+ {
+  "BE STUDENT LIST 2024-25": 37,
+  "Column2": "VU1F2122040",
+  "Column3": "SAHIL DILIP KUWARE",
+  "Column4": 8108903711
+ },
+ {
+  "BE STUDENT LIST 2024-25": 38,
+  "Column2": "VU1F2122042",
+  "Column3": "NIDHI NITIN PATIL",
+  "Column4": 9004855875
+ },
+ {
+  "BE STUDENT LIST 2024-25": 39,
+  "Column2": "VU1F2122044",
+  "Column3": "SUBODH SURESH BADGUJAR",
+  "Column4": 8689995997
+ },
+ {
+  "BE STUDENT LIST 2024-25": 40,
+  "Column2": "VU1F2122045",
+  "Column3": "PURVA TEJESH PATIL",
+  "Column4": 8956754548
+ },
+ {
+  "BE STUDENT LIST 2024-25": 41,
+  "Column2": "VU1F2122046",
+  "Column3": "PURVA SURYAKANT NAGAP",
+  "Column4": 9372961032
+ },
+ {
+  "BE STUDENT LIST 2024-25": 42,
+  "Column2": "VU1F2122047",
+  "Column3": "HARSH KISHOR SAWANT",
+  "Column4": 9619238642
+ },
+ {
+  "BE STUDENT LIST 2024-25": 43,
+  "Column2": "VU1F2122048",
+  "Column3": "VARUN VILAS PATKAR",
+  "Column4": 9373983012
+ },
+ {
+  "BE STUDENT LIST 2024-25": 44,
+  "Column2": "VU1F2122049",
+  "Column3": "RAHUL PRAKASH BHURKUD",
+  "Column4": 8262860233
+ },
+ {
+  "BE STUDENT LIST 2024-25": 45,
+  "Column2": "VU1F2122050",
+  "Column3": "ARYAN RAMESH WAGHMARE",
+  "Column4": 8928643488
+ },
+ {
+  "BE STUDENT LIST 2024-25": 46,
+  "Column2": "VU1F2122051",
+  "Column3": "SUSHANT DILIP GHOLAP",
+  "Column4": 7039904209
+ },
+ {
+  "BE STUDENT LIST 2024-25": 47,
+  "Column2": "VU1F2122052",
+  "Column3": "SWALEHA MOHAMMED SAJID ANSARI",
+  "Column4": 9137152265
+ },
+ {
+  "BE STUDENT LIST 2024-25": 48,
+  "Column2": "VU1F2122053",
+  "Column3": "SNEHA SAKHARAM GOLHE",
+  "Column4": 9324617955
+ },
+ {
+  "BE STUDENT LIST 2024-25": 49,
+  "Column2": "VU1F2122054",
+  "Column3": "VISHAL ANIL UGALMUGALE",
+  "Column4": 8425990154
+ },
+ {
+  "BE STUDENT LIST 2024-25": 50,
+  "Column2": "VU1F2122055",
+  "Column3": "RISHI GURUDATT MENGADE",
+  "Column4": 8879721588
+ },
+ {
+  "BE STUDENT LIST 2024-25": 51,
+  "Column2": "VU1F2122056",
+  "Column3": "PRADNYA PREMNATH BHOIR",
+  "Column4": 9324063640
+ },
+ {
+  "BE STUDENT LIST 2024-25": 52,
+  "Column2": "VU1F2122057",
+  "Column3": "SANIKA VIVEKANAND LAD",
+  "Column4": 9137344675
+ },
+ {
+  "BE STUDENT LIST 2024-25": 53,
+  "Column2": "VU1F2122061",
+  "Column3": "AVIRAL SHIVPRAKASH SHUKLA",
+  "Column4": 7620349568
+ },
+ {
+  "BE STUDENT LIST 2024-25": 54,
+  "Column2": "VU1F2122062",
+  "Column3": "HAMDAN ABDUL WAHID KHAN",
+  "Column4": 9860285189
+ },
+ {
+  "BE STUDENT LIST 2024-25": 55,
+  "Column2": "VU1F2122064",
+  "Column3": "SAKSHITA SANTOSH BODKE",
+  "Column4": 8928303475
+ },
+ {
+  "BE STUDENT LIST 2024-25": 56,
+  "Column2": "VU1F2122065",
+  "Column3": "ABHISHEK ANIL KHILARI",
+  "Column4": 7977713244
+ },
+ {
+  "BE STUDENT LIST 2024-25": 57,
+  "Column2": "VU1F2122066",
+  "Column3": "SANDESH BALKRISHNA PAWAR",
+  "Column4": 9372256397
+ },
+ {
+  "BE STUDENT LIST 2024-25": 58,
+  "Column2": "VU1F2122067",
+  "Column3": "MAMTA MAHADEV MINGAL",
+  "Column4": 8850848886
+ },
+ {
+  "BE STUDENT LIST 2024-25": 59,
+  "Column2": "VU1F2122068",
+  "Column3": "ANKIT SANAT SHUKLA",
+  "Column4": 8421369201
+ },
+ {
+  "BE STUDENT LIST 2024-25": 60,
+  "Column2": "VU1F2122069",
+  "Column3": "AYUSH JASBIR SINGH",
+  "Column4": 9511830712
+ },
+ {
+  "BE STUDENT LIST 2024-25": 61,
+  "Column2": "VU1F2122070",
+  "Column3": "ARYAN SANTOSH GUPTA",
+  "Column4": 8828047836
+ },
+ {
+  "BE STUDENT LIST 2024-25": 62,
+  "Column2": "VU1F2122071",
+  "Column3": "SHREEYA GAJENDRA TAMLOORKAR",
+  "Column4": 7620643060
+ },
+ {
+  "BE STUDENT LIST 2024-25": 63,
+  "Column2": "VU1F2122073",
+  "Column3": "TUSHAR DINESH SINGH",
+  "Column4": 9819765352
+ },
+ {
+  "BE STUDENT LIST 2024-25": 64,
+  "Column2": "VU1F2122074",
+  "Column3": "CHIRANJIV DHANRAJ ADSUL",
+  "Column4": 8657674136
+ },
+ {
+  "BE STUDENT LIST 2024-25": 65,
+  "Column2": "VU1F2122075",
+  "Column3": "VAISHNAVI VILAS DEVLEKAR",
+  "Column4": 9653670795
+ },
+ {
+  "BE STUDENT LIST 2024-25": 66,
+  "Column2": "VU1F2122076",
+  "Column3": "ASHWAYU RAVINDRA NAGPURE",
+  "Column4": 9307257198
+ },
+ {
+  "BE STUDENT LIST 2024-25": 67,
+  "Column2": "VU1F2122077",
+  "Column3": "SINGH ADARSH RAJESH",
+  "Column4": 7738102202
+ },
+ {
+  "BE STUDENT LIST 2024-25": 68,
+  "Column2": "VU1F2122078",
+  "Column3": "OMKAR JAGANNATH MASAYE",
+  "Column4": 9372586707
+ },
+ {
+  "BE STUDENT LIST 2024-25": 69,
+  "Column2": "VU1F2122079",
+  "Column3": "SHUBHAM GANESH NAIK",
+  "Column4": 8390522044
+ },
+ {
+  "BE STUDENT LIST 2024-25": 70,
+  "Column2": "VU1F2122081",
+  "Column3": "SHRAWANI PRAMOD DALVI",
+  "Column4": 7304732797
+ },
+ {
+  "BE STUDENT LIST 2024-25": 71,
+  "Column2": "VU1F2122082",
+  "Column3": "ARYAN SADANAND SAWANT",
+  "Column4": 9167844274
+ },
+ {
+  "BE STUDENT LIST 2024-25": 72,
+  "Column2": "VU1F2122083",
+  "Column3": "SAMEEP ASHOK KORVI",
+  "Column4": 7738866752
+ },
+ {
+  "BE STUDENT LIST 2024-25": 73,
+  "Column2": "VU1F2122085",
+  "Column3": "SOHAM KRISHNA NANDANWAR",
+  "Column4": 9326170646
+ },
+ {
+  "BE STUDENT LIST 2024-25": 74,
+  "Column2": "VU1F2122086",
+  "Column3": "ABHISHEK MAHESH KHANDARE",
+  "Column4": 9967198279
+ },
+ {
+  "BE STUDENT LIST 2024-25": 75,
+  "Column2": "VU1F2122088",
+  "Column3": "PRANAY AMRUT GAWADE",
+  "Column4": 7769079039
+ },
+ {
+  "BE STUDENT LIST 2024-25": 76,
+  "Column2": "VU1F2122089",
+  "Column3": "WASIM ZABIULLAH KHAN",
+  "Column4": 9372866078
+ },
+ {
+  "BE STUDENT LIST 2024-25": 77,
+  "Column2": "VU1F2122090",
+  "Column3": "AADESH VIJAY BAVALEKAR",
+  "Column4": 9309730053
+ },
+ {
+  "BE STUDENT LIST 2024-25": 78,
+  "Column2": "VU1F2122091",
+  "Column3": "ESHWARI JAGADEESHA RAMPOORE",
+  "Column4": 8080049758
+ },
+ {
+  "BE STUDENT LIST 2024-25": 79,
+  "Column2": "VU1F2122092",
+  "Column3": "ARYAN AKHILESH SINGH",
+  "Column4": 9702050081
+ },
+ {
+  "BE STUDENT LIST 2024-25": 80,
+  "Column2": "VU1F2122093",
+  "Column3": "KAUSHIK KRISHNA MANDAL",
+  "Column4": 9372281362
+ },
+ {
+  "BE STUDENT LIST 2024-25": 81,
+  "Column2": "VU1F2122096",
+  "Column3": "ARFEEN RAFIQ MOMIN",
+  "Column4": 7710901095
+ },
+ {
+  "BE STUDENT LIST 2024-25": 82,
+  "Column2": "VU1F2122097",
+  "Column3": "RADHIKA BAPURAO YADAV",
+  "Column4": 8104383549
+ },
+ {
+  "BE STUDENT LIST 2024-25": 83,
+  "Column2": "VU1F2122098",
+  "Column3": "KAVIN GANESH GIRIGOSAVI",
+  "Column4": 9321159859
+ },
+ {
+  "BE STUDENT LIST 2024-25": 84,
+  "Column2": "VU1F2122099",
+  "Column3": "SURAJ VIJAY LAWAND",
+  "Column4": 7710833918
+ },
+ {
+  "BE STUDENT LIST 2024-25": 85,
+  "Column2": "VU1F2122101",
+  "Column3": "SHASHANK SANKARSHAN UPADHYAY",
+  "Column4": 9653696994
+ },
+ {
+  "BE STUDENT LIST 2024-25": 86,
+  "Column2": "VU1F2122102",
+  "Column3": "DIVLEEN KAUR BANGA",
+  "Column4": 7977039472
+ },
+ {
+  "BE STUDENT LIST 2024-25": 87,
+  "Column2": "VU1F2122103",
+  "Column3": "YASH MANISH PARKAR",
+  "Column4": 9757055268
+ },
+ {
+  "BE STUDENT LIST 2024-25": 88,
+  "Column2": "VU1F2122104",
+  "Column3": "YASH VINOD NIMBALKAR",
+  "Column4": 9372529475
+ },
+ {
+  "BE STUDENT LIST 2024-25": 89,
+  "Column2": "VU1F2122105",
+  "Column3": "AKSHARA AMAR DUSSA",
+  "Column4": 8097430085
+ },
+ {
+  "BE STUDENT LIST 2024-25": 90,
+  "Column2": "VU1F2122106",
+  "Column3": "RUCHI VIJAY SAHU",
+  "Column4": 9224363201
+ },
+ {
+  "BE STUDENT LIST 2024-25": 91,
+  "Column2": "VU1F2122108",
+  "Column3": "CHIRAG MANOJ KADAM",
+  "Column4": 8828086234
+ },
+ {
+  "BE STUDENT LIST 2024-25": 92,
+  "Column2": "VU1F2122109",
+  "Column3": "TEJAS PRAMOD KORLEKAR",
+  "Column4": 9503845241
+ },
+ {
+  "BE STUDENT LIST 2024-25": 93,
+  "Column2": "VU1F2122110",
+  "Column3": "SHANTANU UDAY VEDANTE",
+  "Column4": 8454080837
+ },
+ {
+  "BE STUDENT LIST 2024-25": 94,
+  "Column2": "VU1F2122111",
+  "Column3": "PREETI PRAVA NIKHIL JANA",
+  "Column4": 9082368576
+ },
+ {
+  "BE STUDENT LIST 2024-25": 95,
+  "Column2": "VU1F2122112",
+  "Column3": "RAJ PRAKASH KADAM",
+  "Column4": 9324357546
+ },
+ {
+  "BE STUDENT LIST 2024-25": 96,
+  "Column2": "VU1F2122113",
+  "Column3": "SATYAM BRIJNARAYAN PANDEY",
+  "Column4": 9721197107
+ },
+ {
+  "BE STUDENT LIST 2024-25": 97,
+  "Column2": "VU1F2122114",
+  "Column3": "ARYA GANESH DANDEKAR",
+  "Column4": 7045417258
+ },
+ {
+  "BE STUDENT LIST 2024-25": 98,
+  "Column2": "VU1F2122115",
+  "Column3": "ATHARVA NITIN KAMBLE",
+  "Column4": 8169071288
+ },
+ {
+  "BE STUDENT LIST 2024-25": 99,
+  "Column2": "VU1F2122116",
+  "Column3": "POOJA OMPRAKASH BHATI",
+  "Column4": 8779454054
+ },
+ {
+  "BE STUDENT LIST 2024-25": 100,
+  "Column2": "VU1F2122117",
+  "Column3": "SUBIYA KALIM SAYYED",
+  "Column4": 9152640249
+ },
+ {
+  "BE STUDENT LIST 2024-25": 101,
+  "Column2": "VU1F2122118",
+  "Column3": "HAMZA ZUBAIR SHAIKH",
+  "Column4": 9137490089
+ },
+ {
+  "BE STUDENT LIST 2024-25": 102,
+  "Column2": "VU1F2122119",
+  "Column3": "SNEHA SANTOSH PATIL",
+  "Column4": 9324719322
+ },
+ {
+  "BE STUDENT LIST 2024-25": 103,
+  "Column2": "VU1F2122121",
+  "Column3": "SOHAM SANJEEV KANDALKAR",
+  "Column4": 8451836862
+ },
+ {
+  "BE STUDENT LIST 2024-25": 104,
+  "Column2": "VU1F2122122",
+  "Column3": "SANASI SUHAS SALVI",
+  "Column4": 9870359333
+ },
+ {
+  "BE STUDENT LIST 2024-25": 105,
+  "Column2": "VU1F2122123",
+  "Column3": "KUNAL DILBAHADUR RAWAL",
+  "Column4": 9326138375
+ },
+ {
+  "BE STUDENT LIST 2024-25": 106,
+  "Column2": "VU1F2122124",
+  "Column3": "SMIT RATNADIPAK PATIL",
+  "Column4": 9619238794
+ },
+ {
+  "BE STUDENT LIST 2024-25": 107,
+  "Column2": "VU1F2122125",
+  "Column3": "SARVESH SHAILESH BHOGLE",
+  "Column4": 8291590240
+ },
+ {
+  "BE STUDENT LIST 2024-25": 108,
+  "Column2": "VU1F2122127",
+  "Column3": "VIKAS RAMAJOR YADAV",
+  "Column4": 9867848102
+ },
+ {
+  "BE STUDENT LIST 2024-25": 109,
+  "Column2": "VU1F2122128",
+  "Column3": "AFTAB MOHAMMED SHAIKH",
+  "Column4": 9967299435
+ },
+ {
+  "BE STUDENT LIST 2024-25": 110,
+  "Column2": "VU1F2122130",
+  "Column3": "ANAS EJAZ SAYED",
+  "Column4": 9082147566
+ },
+ {
+  "BE STUDENT LIST 2024-25": 111,
+  "Column2": "VU1F2122131",
+  "Column3": "TANISH CHANDRAKANT DESAI",
+  "Column4": 9773843599
+ },
+ {
+  "BE STUDENT LIST 2024-25": 112,
+  "Column2": "VU1F2122132",
+  "Column3": "VEDHAVRATH GANGADHAR VASALA",
+  "Column4": 8291188280
+ },
+ {
+  "BE STUDENT LIST 2024-25": 113,
+  "Column2": "VU1F2122134",
+  "Column3": "HARSH DHARMENDRA PAL",
+  "Column4": 7900083956
+ },
+ {
+  "BE STUDENT LIST 2024-25": 114,
+  "Column2": "VU1F2122136",
+  "Column3": "RANGREZ HASSAN RAZA AKHTAR HUSSAIN",
+  "Column4": 8454951235
+ },
+ {
+  "BE STUDENT LIST 2024-25": 115,
+  "Column2": "VU1F2122139",
+  "Column3": "VIKRANT VINOD PATIL",
+  "Column4": 9326320187
+ },
+ {
+  "BE STUDENT LIST 2024-25": 116,
+  "Column2": "VU1F2122140",
+  "Column3": "AMAAN IMTIYAZ BALBALE",
+  "Column4": 9870124334
+ },
+ {
+  "BE STUDENT LIST 2024-25": 117,
+  "Column2": "VU1S222018",
+  "Column3": "MAYURESH JAGDISH PATIL",
+  "Column4": 9987230081
+ },
+ {
+  "BE STUDENT LIST 2024-25": 118,
+  "Column2": "VU1S2223001",
+  "Column3": "SHUBHAM SANDIP JADHAV",
+  "Column4": 9699407467
+ },
+ {
+  "BE STUDENT LIST 2024-25": 119,
+  "Column2": "VU1S2223002",
+  "Column3": "YASH PRAKASH PIMPALKAR",
+  "Column4": 9619456269
+ },
+ {
+  "BE STUDENT LIST 2024-25": 120,
+  "Column2": "VU1S2223003",
+  "Column3": "BHAVIKA DEEPAK MANDAVKAR",
+  "Column4": 7249842578
+ },
+ {
+  "BE STUDENT LIST 2024-25": 121,
+  "Column2": "VU1S2223004",
+  "Column3": "PRACHI SATISH JAMDADE",
+  "Column4": 9324328505
+ },
+ {
+  "BE STUDENT LIST 2024-25": 122,
+  "Column2": "VU1S2223005",
+  "Column3": "SONAL SANJAY GAVALI",
+  "Column4": 7977413885
+ },
+ {
+  "BE STUDENT LIST 2024-25": 123,
+  "Column2": "VU1S2223006",
+  "Column3": "SOHAM SHRIMANT RASAM",
+  "Column4": 7718077269
+ },
+ {
+  "BE STUDENT LIST 2024-25": 124,
+  "Column2": "VU1S2223007",
+  "Column3": "ARYA ABHAY NIKALE",
+  "Column4": 9004697366
+ },
+ {
+  "BE STUDENT LIST 2024-25": 125,
+  "Column2": "VU1S2223008",
+  "Column3": "SIDDHESH ARVIND PATIL",
+  "Column4": 9702860039
+ },
+ {
+  "BE STUDENT LIST 2024-25": 126,
+  "Column2": "VU1S2223009",
+  "Column3": "ANURAJ ANIL CHAVAN",
+  "Column4": 9653407423
+ },
+ {
+  "BE STUDENT LIST 2024-25": 127,
+  "Column2": "VU1S2223010",
+  "Column3": "AMEY RAJENDRA SANKHE",
+  "Column4": 9022150887
+ },
+ {
+  "BE STUDENT LIST 2024-25": 128,
+  "Column2": "VU1S2223011",
+  "Column3": "VAISHNAVI SHANKAR JADHAV",
+  "Column4": 9324278224
+ },
+ {
+  "BE STUDENT LIST 2024-25": 129,
+  "Column2": "VU1S2223012",
+  "Column3": "SHUBHANKAR JAYAWANT KADAM",
+  "Column4": 9130703898
+ },
+ {
+  "BE STUDENT LIST 2024-25": 130,
+  "Column2": "VU1S2223013",
+  "Column3": "SANIL AJIT JADHAV",
+  "Column4": 9049761699
+ },
+ {
+  "BE STUDENT LIST 2024-25": 131,
+  "Column2": "VU1S2223014",
+  "Column3": "IQRA FATEMA TAUKIR AHMED SHAIKH",
+  "Column4": 9324354306
+ },
+ {
+  "BE STUDENT LIST 2024-25": 132,
+  "Column2": "VU1S2223015",
+  "Column3": "AFNAN RAEESAHMED SHAIKH",
+  "Column4": 9136564743
+ },
+ {
+  "BE STUDENT LIST 2024-25": 133,
+  "Column2": "VU1S2223016",
+  "Column3": "MOHD AFNAN AMIR ALI SHAIKH",
+  "Column4": 9321803328
+ },
+ {
+  "BE STUDENT LIST 2024-25": 134,
+  "Column2": "VU1S2223017",
+  "Column3": "RAJ SANDEEP MAYEKAR",
+  "Column4": 7777096028
+ }
+],
+"Placed":[
+ {
+  "Academic Year : 2024-25": "Placed Students"
+ },
+ {
+  "Academic Year : 2024-25": "Sr. No",
+  "Column2": "College ID",
+  "Column3": "First name",
+  "Column4": "Middle Name",
+  "Column5": "Last Name",
+  "Column6": "Name of the Company",
+  "Column7": "CTC",
+  "Column8": "Placed Count"
+ },
+ {
+  "Academic Year : 2024-25": 1,
+  "Column2": "VU1F2122075",
+  "Column3": "Vaishnavi",
+  "Column4": "Vilas ",
+  "Column5": "Devlekar",
+  "Column6": "Quinnox\/Capgemini",
+  "Column7": "3,75,000\/4,00,000",
+  "Column8": 2
+ },
+ {
+  "Academic Year : 2024-25": 2,
+  "Column2": "VU1F2122116",
+  "Column3": "Pooja  ",
+  "Column4": "Omprakash",
+  "Column5": "Bhati",
+  "Column6": "ICICI Lombard",
+  "Column7": "5,97,000"
+ },
+ {
+  "Academic Year : 2024-25": 3,
+  "Column2": "VU1F2122091",
+  "Column3": "Eshwari",
+  "Column4": "agadeesha  ",
+  "Column5": "Rampoore ",
+  "Column6": "NICE",
+  "Column7": "8,00,000"
+ },
+ {
+  "Academic Year : 2024-25": 4,
+  "Column2": "VU1F2122101",
+  "Column3": "Shashank  ",
+  "Column4": "Sankarshan ",
+  "Column5": "Upadhyay ",
+  "Column6": "ICICI Lombard",
+  "Column7": "5,97,000"
+ },
+ {
+  "Academic Year : 2024-25": 5,
+  "Column2": "VU1F2122103",
+  "Column3": "Yash ",
+  "Column4": "Manish ",
+  "Column5": "Parkar",
+  "Column6": "ARCON",
+  "Column7": "5,00,000"
+ },
+ {
+  "Academic Year : 2024-25": 6,
+  "Column2": "VU1F2122054",
+  "Column3": "Vishal ",
+  "Column4": "Anil ",
+  "Column5": "Ugalmugale",
+  "Column6": "Alpha Payment",
+  "Column7": "4,00,000"
+ },
+ {
+  "Academic Year : 2024-25": 7,
+  "Column2": "VU1F2122014",
+  "Column3": "Diksha ",
+  "Column4": "Chandrakant  ",
+  "Column5": "Waghmare",
+  "Column6": "Aniruddha Elemetry",
+  "Column7": "3,50,000"
+ },
+ {
+  "Academic Year : 2024-25": 8,
+  "Column2": "VU1F2122031",
+  "Column3": "Asmita ",
+  "Column4": "Sheshrao ",
+  "Column5": "Ghode",
+  "Column6": "Godrej Infotech\/Capgemini",
+  "Column7": "4,00,000",
+  "Column8": 2
+ },
+ {
+  "Academic Year : 2024-25": 9,
+  "Column2": "VU1F2122073 ",
+  "Column3": "Tushar ",
+  "Column4": "Dinesh ",
+  "Column5": "Singh",
+  "Column6": "Arcon\/ Deltax",
+  "Column7": "5,00,000",
+  "Column8": 2
+ },
+ {
+  "Academic Year : 2024-25": 10,
+  "Column2": "VU1F2122046 ",
+  "Column3": "Purva",
+  "Column4": " Suryakant ",
+  "Column5": " Nagap",
+  "Column6": "Aniruddha Elemetry\/ProductDossier'",
+  "Column7": "3,50,000\/ 1250000",
+  "Column8": 2
+ },
+ {
+  "Academic Year : 2024-25": 11,
+  "Column2": "VU1S2223017",
+  "Column3": "Raj  ",
+  "Column4": "Sandeep",
+  "Column5": " Mayekar",
+  "Column6": "Quinnox\/Edolution",
+  "Column7": "3,75,000\/600000"
+ },
+ {
+  "Academic Year : 2024-25": 12,
+  "Column2": "VU1F2122042 ",
+  "Column3": "Nidhi ",
+  "Column4": " Nitin",
+  "Column5": "  Patil",
+  "Column6": "Marico",
+  "Column7": "6,00,000"
+ },
+ {
+  "Academic Year : 2024-25": 13,
+  "Column2": "VU1F2122102 ",
+  "Column3": "Divleen",
+  "Column4": "Kaur",
+  "Column5": "Banga",
+  "Column6": "Avniro",
+  "Column7": "3,60,000"
+ },
+ {
+  "Academic Year : 2024-25": 14,
+  "Column2": "VU1F2122010",
+  "Column3": "Atharv",
+  "Column4": "Sanjay",
+  "Column5": "Bhosale",
+  "Column6": "Servosys\/ Tech M",
+  "Column7": "4,50,000-5,00,000",
+  "Column8": 2
+ },
+ {
+  "Academic Year : 2024-25": 15,
+  "Column2": "VU1F2122018",
+  "Column3": "Yusra",
+  "Column4": " Obaidullah",
+  "Column5": " Ansari",
+  "Column6": "JARO",
+  "Column7": "8,36,000"
+ },
+ {
+  "Academic Year : 2024-25": 16,
+  "Column2": "VU1F2122128",
+  "Column3": "Aftab",
+  "Column4": "  Mohammed",
+  "Column5": " Shaikh ",
+  "Column6": "JARO",
+  "Column7": "8,36,000"
+ },
+ {
+  "Academic Year : 2024-25": 17,
+  "Column2": "VU1F2122021 ",
+  "Column3": "Tanmay ",
+  "Column4": "Prashant",
+  "Column5": "Sakpal",
+  "Column6": "JARO",
+  "Column7": "8,36,000"
+ },
+ {
+  "Academic Year : 2024-25": 18,
+  "Column2": "VU1F2122106",
+  "Column3": "Ruchi  ",
+  "Column4": "Vijay   ",
+  "Column5": "Sahu",
+  "Column6": "JARO",
+  "Column7": "8,36,000"
+ },
+ {
+  "Academic Year : 2024-25": 19,
+  "Column2": "VU1F2122109 ",
+  "Column3": "Tejas ",
+  "Column4": "Pramod  ",
+  "Column5": "Korlekar",
+  "Column6": "JARO",
+  "Column7": "8,36,000"
+ },
+ {
+  "Academic Year : 2024-25": 20,
+  "Column2": "VU1F2122052",
+  "Column3": "Swaleha ",
+  "Column4": "Mohammed Sajid ",
+  "Column5": "Ansari",
+  "Column6": "JARO",
+  "Column7": "8,36,000"
+ },
+ {
+  "Academic Year : 2024-25": 21,
+  "Column2": "VU1F2122038 ",
+  "Column3": "Nihaar ",
+  "Column4": "Adhiep ",
+  "Column5": "Mascarenhas",
+  "Column6": "Tech Mahindra"
+ },
+ {
+  "Academic Year : 2024-25": 22,
+  "Column2": "VU1F2122030",
+  "Column3": "Vinesh ",
+  "Column4": "Yashwant ",
+  "Column5": "Rathod",
+  "Column6": "NIMAP"
+ },
+ {
+  "Academic Year : 2024-25": 23,
+  "Column2": "VU1F2122011",
+  "Column3": "Anushka ",
+  "Column4": "Ashwin ",
+  "Column5": "Rasam",
+  "Column6": "LTIMindtree\/Capgemini",
+  "Column7": "4,00,000",
+  "Column8": 2
+ },
+ {
+  "Academic Year : 2024-25": 24,
+  "Column2": "VU1F2122123",
+  "Column3": "Kunal ",
+  "Column4": "DilBahadur",
+  "Column5": " Rawal",
+  "Column6": "LTIMindtree",
+  "Column7": "4,00,000"
+ },
+ {
+  "Academic Year : 2024-25": 25,
+  "Column2": "VU1F2122045",
+  "Column3": "Purva",
+  "Column4": " Tejesh ",
+  "Column5": "Patil",
+  "Column6": "LTIMindtree",
+  "Column7": "4,00,000"
+ },
+ {
+  "Academic Year : 2024-25": 26,
+  "Column2": "VU1F2122105",
+  "Column3": "Akshara",
+  "Column4": " Amar ",
+  "Column5": "Dussa",
+  "Column6": "LTIMindtree\/Capgemini",
+  "Column7": "4,00,000",
+  "Column8": 2
+ },
+ {
+  "Academic Year : 2024-25": 27,
+  "Column2": "VU1F2122036",
+  "Column3": "Laxmikant ",
+  "Column4": " Umesh ",
+  "Column5": "Deosarkar",
+  "Column6": "Galaxy",
+  "Column7": "3,15,000"
+ },
+ {
+  "Academic Year : 2024-25": 28,
+  "Column2": "VU1F2122089",
+  "Column3": "Wasim  ",
+  "Column4": "Zabiullah  ",
+  "Column5": "Khan",
+  "Column6": "Galaxy",
+  "Column7": "3,15,000"
+ },
+ {
+  "Academic Year : 2024-25": 29,
+  "Column2": "VU1S2223015",
+  "Column3": "Afnan",
+  "Column4": " RaeesAhmed ",
+  "Column5": "Shaikh",
+  "Column6": "Galaxy",
+  "Column7": "3,15,000"
+ },
+ {
+  "Academic Year : 2024-25": 30,
+  "Column2": "VU1S2223011",
+  "Column3": "Vaishnavi",
+  "Column4": "  Shankar",
+  "Column5": " Jadhav",
+  "Column6": "Capgemini",
+  "Column7": "4,00,000"
+ },
+ {
+  "Academic Year : 2024-25": 31,
+  "Column2": "VU1F2122053",
+  "Column3": "Sneha",
+  "Column4": "Sakharam",
+  "Column5": "Golhe",
+  "Column6": "Capgemini",
+  "Column7": "4,00,000"
+ },
+ {
+  "Academic Year : 2024-25": 32,
+  "Column2": "VU1F2122003",
+  "Column3": "Prerna",
+  "Column4": "Suresh",
+  "Column5": "More",
+  "Column6": "Capgemini",
+  "Column7": "4,00,000"
+ },
+ {
+  "Academic Year : 2024-25": 33,
+  "Column2": "VU1F2122013",
+  "Column3": "Aditya",
+  "Column4": "Ashok",
+  "Column5": "Thorat ",
+  "Column6": "Quality Kiosk",
+  "Column7": "2,50,000"
+ },
+ {
+  "Academic Year : 2024-25": 34,
+  "Column2": "VU1F2122130",
+  "Column3": "Anas",
+  "Column4": "Ejaz",
+  "Column5": "Sayed",
+  "Column6": "Decathlon sports pvt LTD"
+ },
+ {
+  "Academic Year : 2024-25": 35,
+  "Column2": "VU1F2122004",
+  "Column3": "Shreyas",
+  "Column4": "Dilip",
+  "Column5": "Gurav",
+  "Column6": "Schbang",
+  "Column7": 525000
+ },
+ {
+  "Academic Year : 2024-25": 36,
+  "Column2": "VU1F2122132",
+  "Column3": "vedhavrath",
+  "Column4": "gangadhar",
+  "Column5": "vasala",
+  "Column6": "Odyssey "
+ },
+ {
+  "Academic Year : 2024-25": 37,
+  "Column2": "VU1S2223004",
+  "Column3": "Prachi ",
+  "Column4": "Satish",
+  "Column5": "Jamdade",
+  "Column6": "Gravitee",
+  "Column7": "2200000 +600000"
+ },
+ {
+  "Academic Year : 2024-25": 38,
+  "Column2": "VU1F2122124",
+  "Column3": "Smit ",
+  "Column4": "Ratnadipak",
+  "Column5": " Patil",
+  "Column6": "Bhaane Retail pvt.Ltd",
+  "Column7": 345252
+ },
+ {
+  "Column2": "VU1F2122093",
+  "Column3": "Kaushik",
+  "Column4": " Krishna ",
+  "Column5": "Mandal",
+  "Column6": "Simkraft",
+  "Column7": "2.16LPA"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "Column4": "9372281362"
+ }
+],
+"Original copy":[
+ {
+  "Academic Year : 2024-25": "Placed Students"
+ },
+ {
+  "Academic Year : 2024-25": "Sr. No",
+  "Column2": "COLLEGE ID",
+  "Column3": "First name",
+  "Column4": "Middle Name",
+  "Column5": "Last Name",
+  "Column6": "Name of the Company",
+  "Column7": "Designation",
+  "Column8": "CTC",
+  "Column9": "Placed Count",
+  "Column10": "Offer Letter",
+  "Column11": "ID Proof"
+ },
+ {
+  "Academic Year : 2024-25": 1,
+  "Column2": "VU1F2122075",
+  "Column3": "Vaishnavi",
+  "Column4": "Vilas",
+  "Column5": "Devlekar",
+  "Column6": "Quinnox\/Capgemini",
+  "Column7": "Software Trainee",
+  "Column8": "3.75\/4 LPA",
+  "Column9": 2,
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 2,
+  "Column2": "VU1F2122116",
+  "Column3": "Pooja",
+  "Column4": "Omprakash",
+  "Column5": "Bhati",
+  "Column6": "ICICI Lombard",
+  "Column7": "Trainee S\/w Engineer",
+  "Column8": "4.5 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 3,
+  "Column2": "VU1F2122091",
+  "Column3": "Eshwari",
+  "Column4": "Agadeesha",
+  "Column5": "Rampoore",
+  "Column6": "NICE",
+  "Column7": "Associate S\/w Engg",
+  "Column8": "8 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 4,
+  "Column2": "VU1F2122101",
+  "Column3": "Shashank",
+  "Column4": "Sankarshan",
+  "Column5": "Upadhyay",
+  "Column6": "ICICI Lombard",
+  "Column7": "Trainee S\/w Engineer",
+  "Column8": "4.5 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 5,
+  "Column2": "VU1F2122103",
+  "Column3": "Yash",
+  "Column4": "Manish",
+  "Column5": "Parkar",
+  "Column6": "ARCON",
+  "Column7": "Software Developer",
+  "Column8": "5 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 6,
+  "Column2": "VU1F2122054",
+  "Column3": "Vishal",
+  "Column4": "Anil",
+  "Column5": "Ugalmugale",
+  "Column6": "Alpha Payment",
+  "Column7": "Trainee S\/w Engineer",
+  "Column8": "4 LPA",
+  "Column10": "View",
+  "Column11": "Payslip"
+ },
+ {
+  "Academic Year : 2024-25": 7,
+  "Column2": "VU1F2122014",
+  "Column3": "Diksha",
+  "Column4": "Chandrakant",
+  "Column5": "Waghmare",
+  "Column6": "Ticker",
+  "Column7": "Traineeship",
+  "Column8": "4 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 8,
+  "Column2": "VU1F2122031",
+  "Column3": "Asmita",
+  "Column4": "Sheshrao",
+  "Column5": "Ghode",
+  "Column6": "Godrej Infotech\/Capgemini",
+  "Column7": "Sr. Excecutive",
+  "Column8": "4 LPA",
+  "Column9": 2,
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 9,
+  "Column2": "VU1F2122073",
+  "Column3": "Tushar",
+  "Column4": "Dinesh",
+  "Column5": "Singh",
+  "Column6": "Arcon\/ Deltax",
+  "Column7": "Software Developer",
+  "Column8": "5 LPA",
+  "Column9": 2,
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 10,
+  "Column2": "VU1F2122046",
+  "Column3": "Purva",
+  "Column4": "Suryakant",
+  "Column5": "Nagap",
+  "Column6": "ProductDossier'\/ATS",
+  "Column7": "Software Developer- Trainee",
+  "Column8": "12.5 LPA",
+  "Column9": 2,
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 11,
+  "Column2": "VU1S2223017",
+  "Column3": "Raj",
+  "Column4": "Sandeep",
+  "Column5": "Mayekar",
+  "Column6": "Edolution Pvt Ltd",
+  "Column7": "AI s\/w Engg",
+  "Column8": "3.75 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 12,
+  "Column2": "VU1F2122042",
+  "Column3": "Nidhi",
+  "Column4": "Nitin",
+  "Column5": "Patil",
+  "Column6": "Marico",
+  "Column7": "IT Trainee",
+  "Column8": "6 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 13,
+  "Column2": "VU1F2122102",
+  "Column3": "Divleen",
+  "Column4": "Kaur",
+  "Column5": "Banga",
+  "Column6": "Peoplehum technologies Pvt. Ltd",
+  "Column7": "Business development associate",
+  "Column8": "3.62 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 14,
+  "Column2": "VU1F2122010",
+  "Column3": "Atharv",
+  "Column4": "Sanjay",
+  "Column5": "Bhosale",
+  "Column6": "63 Moons",
+  "Column7": "Traineeship",
+  "Column8": "4.5-5 LPA",
+  "Column9": 2,
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 15,
+  "Column2": "VU1F2122018",
+  "Column3": "Yusra",
+  "Column4": "Obaidullah",
+  "Column5": "Ansari",
+  "Column6": "JARO",
+  "Column7": "Graduate Trainee",
+  "Column8": "8.36 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 16,
+  "Column2": "VU1F2122128",
+  "Column3": "Aftab",
+  "Column4": "Mohammed",
+  "Column5": "Shaikh",
+  "Column6": "JARO",
+  "Column7": "Graduate Trainee ",
+  "Column8": "8.36 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 17,
+  "Column2": "VU1F2122021",
+  "Column3": "Tanmay",
+  "Column4": "Prashant",
+  "Column5": "Sakpal",
+  "Column6": "JARO",
+  "Column7": "Graduate Trainee ",
+  "Column8": "8.36 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 18,
+  "Column2": "VU1F2122106",
+  "Column3": "Ruchi",
+  "Column4": "Vijay",
+  "Column5": "Sahu",
+  "Column6": "QUESS",
+  "Column7": "Trainee-QA",
+  "Column8": "3.5LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 19,
+  "Column2": "VU1F2122109",
+  "Column3": "Tejas",
+  "Column4": "Pramod",
+  "Column5": "Korlekar",
+  "Column6": "JARO",
+  "Column7": "Graduate Trainee",
+  "Column8": "8.36 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 20,
+  "Column2": "VU1F2122052",
+  "Column3": "Swaleha",
+  "Column4": "Mohammed Sajid",
+  "Column5": "Ansari",
+  "Column6": "JARO",
+  "Column7": "Graduate Trainee ",
+  "Column8": "8.36 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 21,
+  "Column2": "VU1F2122038",
+  "Column3": "Nihaar",
+  "Column4": "Adhiep",
+  "Column5": "Mascarenhas",
+  "Column6": "Tech Mahindra",
+  "Column7": "Software Developer",
+  "Column8": "4LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 22,
+  "Column2": "VU1F2122030",
+  "Column3": "Vinesh",
+  "Column4": "Yashwant",
+  "Column5": "Rathod",
+  "Column6": "STAVTAR SOLUTIONS INDIA PRIVATE LIMITED",
+  "Column7": "Associate Software Developer ",
+  "Column8": "7 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 23,
+  "Column2": "VU1F2122011",
+  "Column3": "Anushka",
+  "Column4": "Ashwin",
+  "Column5": "Rasam",
+  "Column6": "LTIMindtree",
+  "Column7": "Graduate Engineer Trainee",
+  "Column8": "4.05 LPA",
+  "Column9": 2,
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 24,
+  "Column2": "VU1F2122123",
+  "Column3": "Kunal",
+  "Column4": "Dilbahadur",
+  "Column5": "Rawal",
+  "Column6": "LTIMindtree",
+  "Column7": "Graduate Engineer Trainee",
+  "Column8": "4.05 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 25,
+  "Column2": "VU1F2122045",
+  "Column3": "Purva",
+  "Column4": "Tejesh",
+  "Column5": "Patil",
+  "Column6": "LTIMindtree",
+  "Column7": "Graduate Engineer Trainee",
+  "Column8": "4.05 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 26,
+  "Column2": "VU1F2122105",
+  "Column3": "Akshara",
+  "Column4": "Amar",
+  "Column5": "Dussa",
+  "Column6": "Capgemini",
+  "Column7": "Analyst \/A4",
+  "Column8": "5.5 LPA",
+  "Column9": 2,
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 27,
+  "Column2": "VU1F2122036",
+  "Column3": "Laxmikant",
+  "Column4": "Umesh",
+  "Column5": "Deosarkar",
+  "Column6": "Galaxy",
+  "Column7": "Jr. Technical Associate",
+  "Column8": "3.15 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 28,
+  "Column2": "VU1F2122089",
+  "Column3": "Wasim",
+  "Column4": "Zabiullah",
+  "Column5": "Khan",
+  "Column6": "Galaxy",
+  "Column7": "Jr. Technical Associate",
+  "Column8": "3.15 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 29,
+  "Column2": "VU1S2223015",
+  "Column3": "Afnan",
+  "Column4": "Raeesahmed",
+  "Column5": "Shaikh",
+  "Column6": "Galaxy",
+  "Column7": "Jr. Technical Associate",
+  "Column8": "3.15 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 30,
+  "Column2": "VU1S2223011",
+  "Column3": "Vaishnavi",
+  "Column4": "Shankar",
+  "Column5": "Jadhav",
+  "Column6": "Capgemini",
+  "Column7": "Analyst \/A4",
+  "Column8": "5.5 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 31,
+  "Column2": "VU1F2122053",
+  "Column3": "Sneha",
+  "Column4": "Sakharam",
+  "Column5": "Golhe",
+  "Column6": "Capgemini",
+  "Column7": "Analyst \/A4",
+  "Column8": "5.5 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 32,
+  "Column2": "VU1F2122003",
+  "Column3": "Prerna",
+  "Column4": "Suresh",
+  "Column5": "More",
+  "Column6": "Capgemini",
+  "Column7": "Analyst \/A4",
+  "Column8": "5.5 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 33,
+  "Column2": "VU1F2122013",
+  "Column3": "Aditya",
+  "Column4": "Ashok",
+  "Column5": "Thorat",
+  "Column6": "COMPRINT",
+  "Column7": "AI research Analyst",
+  "Column8": "4.75 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 34,
+  "Column2": "VU1F2122130",
+  "Column3": "Anas",
+  "Column4": "Ejaz",
+  "Column5": "Sayed",
+  "Column6": "Ingram Micro India SSC Pvt.Ltd",
+  "Column7": "Trainee, Software Developer",
+  "Column8": "6 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 35,
+  "Column2": "VU1F2122004",
+  "Column3": "Shreyas",
+  "Column4": "Dilip",
+  "Column5": "Gurav",
+  "Column6": "Schbang",
+  "Column7": "Devops Engineer",
+  "Column8": "5.25 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 36,
+  "Column2": "VU1F2122132",
+  "Column3": "Vedhavrath",
+  "Column4": "Gangadhar",
+  "Column5": "Vasala",
+  "Column6": "Odyssey ",
+  "Column7": "Trainee Engineer",
+  "Column8": "3.2 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 37,
+  "Column2": "VU1S2223004",
+  "Column3": "Prachi",
+  "Column4": "Satish",
+  "Column5": "Jamdade",
+  "Column6": "Gravitee",
+  "Column7": "Technical Product Marketing Manager",
+  "Column8": "28 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 38,
+  "Column2": "VU1F2122124",
+  "Column3": "Smit",
+  "Column4": "Ratnadipak",
+  "Column5": "Patil",
+  "Column6": "Bhaane Retail pvt.Ltd",
+  "Column7": "Business Analyst",
+  "Column8": "3.45 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 39,
+  "Column2": "VU1F2122093",
+  "Column3": "Kaushik",
+  "Column4": "Krishna",
+  "Column5": "Mandal",
+  "Column6": "Simkraft",
+  "Column7": "Junior Developer",
+  "Column8": "2.16 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 40,
+  "Column2": "VU1F2122096",
+  "Column3": "Arfeen",
+  "Column4": "Rafiq",
+  "Column5": "Momin",
+  "Column6": "Simkraft",
+  "Column7": "Junior Developer",
+  "Column8": "2.16 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 41,
+  "Column2": "VU1F2122079",
+  "Column3": "Shubham",
+  "Column4": "Ganesh",
+  "Column5": "Naik",
+  "Column6": "The Souled Store Pvt. Ltd",
+  "Column7": "Associate Data Analyst",
+  "Column8": "5.26 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 42,
+  "Column2": "VU1F2122002",
+  "Column3": "Samruddhi",
+  "Column4": "Pramod",
+  "Column5": "Sawant",
+  "Column6": "Parimal Pharma Limited",
+  "Column8": "2.76 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 43,
+  "Column2": "VU1F2122067",
+  "Column3": "Mamta",
+  "Column4": "Mahadev",
+  "Column5": "Mingal",
+  "Column6": "Codew\/Floppy",
+  "Column7": "Robotics Mentor",
+  "Column8": "3.00LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 44,
+  "Column2": "VU1F2122121",
+  "Column3": "Soham",
+  "Column4": "Sanjeev",
+  "Column5": "Kandalkar",
+  "Column6": "MindCraft",
+  "Column7": "Associate Consultant",
+  "Column8": "2.4LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 45,
+  "Column2": "VU1F2122001",
+  "Column3": "Akshad",
+  "Column4": "Sharad",
+  "Column5": "Mahadik",
+  "Column6": "Miko chidakashi technology pvt. ltd",
+  "Column7": "of Junior Software Development Engineer.",
+  "Column8": "4.25 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 46,
+  "Column2": "VU1S2223013",
+  "Column3": "Sanil",
+  "Column4": "Ajit",
+  "Column5": "Jadhav",
+  "Column6": "Vermont Information Processing India Private Limited",
+  "Column7": "Trainee",
+  "Column8": "3.25 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 47,
+  "Column2": "VU1F2122099",
+  "Column3": "Suraj",
+  "Column4": "Vijay",
+  "Column5": "Lawand",
+  "Column6": "Hudl India PVT LTD",
+  "Column7": "Trainee",
+  "Column8": "1.44 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 48,
+  "Column2": "VU1F2122048",
+  "Column3": "Varun",
+  "Column4": "Vilas",
+  "Column5": "Patkar",
+  "Column6": "KHUSPAL HOME TEXTILES LLP",
+  "Column7": " Front-End E-commerce & Digital Marketing Associate",
+  "Column8": "6.00 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 49,
+  "Column2": "VU1F2122078",
+  "Column3": "Omkar",
+  "Column4": "Jagannath",
+  "Column5": "Masaye",
+  "Column6": "RESCALE TECHNOLOGIES",
+  "Column7": "Software Developer",
+  "Column8": "3 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 50,
+  "Column2": "VU1F2122066",
+  "Column3": "Sandesh",
+  "Column4": "Balkrishna",
+  "Column5": "Pawar",
+  "Column6": "KHUSPAL HOME TEXTILES LLP",
+  "Column7": " Front-End E-commerce & Digital Marketing Associate",
+  "Column8": "6.00 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 51,
+  "Column2": "VU1F2122122",
+  "Column3": "Sanasi",
+  "Column4": "Suhas",
+  "Column5": "Salvi"
+ },
+ {
+  "Academic Year : 2024-25": 52,
+  "Column2": "VU1F2122119",
+  "Column3": "Sneha",
+  "Column4": "Santosh",
+  "Column5": "Patil"
+ },
+ {
+  "Academic Year : 2024-25": 53,
+  "Column2": "VU1F2122139",
+  "Column3": "Vikrant",
+  "Column4": "Vinod",
+  "Column5": "Patil"
+ },
+ {
+  "Academic Year : 2024-25": 54,
+  "Column2": "VU1F2122098",
+  "Column3": "Kavin",
+  "Column4": "Ganesh",
+  "Column5": "Girigosavi"
+ },
+ {
+  "Academic Year : 2024-25": 55,
+  "Column2": "VU1F2122061",
+  "Column3": "Aviral",
+  "Column4": "Shivprakash",
+  "Column5": "Shukla"
+ },
+ {
+  "Academic Year : 2024-25": 56,
+  "Column2": "VU1S2223009",
+  "Column3": "Anuraj",
+  "Column4": "Anil",
+  "Column5": "Chavan"
+ },
+ {
+  "Academic Year : 2024-25": 57,
+  "Column2": "VU1F2122050",
+  "Column3": "Aryan",
+  "Column4": "Ramesh",
+  "Column5": "Waghmare"
+ },
+ {
+  "Academic Year : 2024-25": 58,
+  "Column2": "VU1F2122027",
+  "Column3": "Ashwini",
+  "Column4": "Satish",
+  "Column5": "Mayekar",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 59,
+  "Column2": "VU1F2122034",
+  "Column3": "Chetan",
+  "Column4": "Ashok",
+  "Column5": "Pardeshi"
+ },
+ {
+  "Academic Year : 2024-25": 60,
+  "Column2": "VU1F2122016",
+  "Column3": "Himanshu",
+  "Column4": "Asharam",
+  "Column5": "Jaiswar"
+ },
+ {
+  "Academic Year : 2024-25": 61,
+  "Column2": "VU1S2223014",
+  "Column3": "Iqra Fatema",
+  "Column4": "Taukir Ahmed",
+  "Column5": "Shaikh"
+ },
+ {
+  "Academic Year : 2024-25": 62,
+  "Column2": "VU1F2122136",
+  "Column3": "Rangrez",
+  "Column4": "Hassan Raza",
+  "Column5": "Akhtar Hussain"
+ },
+ {
+  "Academic Year : 2024-25": 63,
+  "Column2": "VU1F2122064",
+  "Column3": "Sakshita",
+  "Column4": "Santosh",
+  "Column5": "Bodke"
+ },
+ {
+  "Academic Year : 2024-25": 64,
+  "Column2": "VU1F2122005",
+  "Column3": "Soham",
+  "Column4": "Rakesh",
+  "Column5": "Mane"
+ },
+ {
+  "Academic Year : 2024-25": 65,
+  "Column2": "VU1F2122085",
+  "Column3": "Soham",
+  "Column4": "Krishna",
+  "Column5": "Nandanwar"
+ },
+ {
+  "Academic Year : 2024-25": 66,
+  "Column2": "VU1F2122051",
+  "Column3": "Sushant",
+  "Column4": "Dilip",
+  "Column5": "Gholap"
+ },
+ {
+  "Academic Year : 2024-25": 67,
+  "Column2": "VU1F2122047",
+  "Column3": "Harsh",
+  "Column4": "Kishor",
+  "Column5": "Sawant"
+ },
+ {
+  "Academic Year : 2024-25": 68,
+  "Column2": "VU1F2122035",
+  "Column3": "Tejas",
+  "Column4": "Pradip",
+  "Column5": "Chakranarayan"
+ },
+ {
+  "Academic Year : 2024-25": 69,
+  "Column2": "VU1F2122022",
+  "Column3": "Pawan Kumar",
+  "Column4": "Rajnath",
+  "Column5": "Yadav"
+ },
+ {
+  "Academic Year : 2024-25": 70,
+  "Column2": "VU1F2122113",
+  "Column3": "Satyam",
+  "Column4": "Brijnarayan",
+  "Column5": "Pandey"
+ },
+ {
+  "Academic Year : 2024-25": 71,
+  "Column2": "VU1F2122131",
+  "Column3": "Tanish",
+  "Column4": "Chandrakant",
+  "Column5": "Desai"
+ },
+ {
+  "Academic Year : 2024-25": 72,
+  "Column2": "VU1F2122112",
+  "Column3": "Raj",
+  "Column4": "Prakash",
+  "Column5": "Kadam"
+ },
+ {
+  "Academic Year : 2024-25": 73,
+  "Column2": "VU1F2122026",
+  "Column3": "Rahul",
+  "Column4": "Dhondu",
+  "Column5": "Pawar"
+ },
+ {
+  "Academic Year : 2024-25": 74,
+  "Column2": "VU1F2122117",
+  "Column3": "Subiya",
+  "Column4": "Kalim",
+  "Column5": "Sayyed"
+ },
+ {
+  "Academic Year : 2024-25": 75,
+  "Column2": "VU1F2122015",
+  "Column3": "Pragya",
+  "Column4": "Satyendra",
+  "Column5": "Mandpe"
+ },
+ {
+  "Academic Year : 2024-25": 76,
+  "Column2": "VU1F2122086",
+  "Column3": "Abhishek",
+  "Column4": "Mahesh",
+  "Column5": "Khandare"
+ },
+ {
+  "Academic Year : 2024-25": 77,
+  "Column2": "VU1F2122068",
+  "Column3": "Ankit",
+  "Column4": "Sanat",
+  "Column5": "Shukla"
+ },
+ {
+  "Academic Year : 2024-25": 78,
+  "Column2": "VU1F2122114",
+  "Column3": "Arya",
+  "Column4": "Ganesh",
+  "Column5": "Dandekar"
+ },
+ {
+  "Academic Year : 2024-25": 79,
+  "Column2": "VU1F2122070",
+  "Column3": "Aryan",
+  "Column4": "Santosh",
+  "Column5": "Gupta"
+ },
+ {
+  "Academic Year : 2024-25": 80,
+  "Column2": "VU1F2122049",
+  "Column3": "Rahul",
+  "Column4": "Prakash",
+  "Column5": "Bhurkud"
+ },
+ {
+  "Academic Year : 2024-25": 81,
+  "Column2": "VU1F2122108",
+  "Column3": "Chirag",
+  "Column4": "Manoj",
+  "Column5": "Kadam"
+ },
+ {
+  "Academic Year : 2024-25": 82,
+  "Column2": "VU1F2122090",
+  "Column3": "Aadesh",
+  "Column4": "Vijay",
+  "Column5": "Bavalekar"
+ },
+ {
+  "Academic Year : 2024-25": 83,
+  "Column2": "VU1F1920093",
+  "Column3": "Surojit",
+  "Column4": "Uttam",
+  "Column5": "Ghosh"
+ },
+ {
+  "Academic Year : 2024-25": 84,
+  "Column2": "VU1F2122140",
+  "Column3": "Amaan",
+  "Column4": "Imtiyaz",
+  "Column5": "Balbale"
+ },
+ {
+  "Academic Year : 2024-25": 85,
+  "Column2": "VU1F2122008",
+  "Column3": "Anju",
+  "Column4": "Shidwa",
+  "Column5": "Parhyad"
+ },
+ {
+  "Academic Year : 2024-25": 86,
+  "Column2": "VU1S2223007",
+  "Column3": "Arya",
+  "Column4": "Abhay",
+  "Column5": "Nikale"
+ },
+ {
+  "Academic Year : 2024-25": 87,
+  "Column2": "VU1F2122092",
+  "Column3": "Aryan",
+  "Column4": "Akhilesh",
+  "Column5": "Singh"
+ },
+ {
+  "Academic Year : 2024-25": 88,
+  "Column2": "VU1S222018",
+  "Column3": "Mayuresh",
+  "Column4": "Jagdish",
+  "Column5": "Patil"
+ },
+ {
+  "Academic Year : 2024-25": 89,
+  "Column2": "VU1F2122076",
+  "Column3": "Ashwayu",
+  "Column4": "Ravindra",
+  "Column5": "Nagpure"
+ },
+ {
+  "Academic Year : 2024-25": 90,
+  "Column2": "VU1F2122115",
+  "Column3": "Atharva",
+  "Column4": "Nitin",
+  "Column5": "Kamble"
+ },
+ {
+  "Academic Year : 2024-25": 91,
+  "Column2": "VU1F2122069",
+  "Column3": "Ayush",
+  "Column4": "Jasbir",
+  "Column5": "Singh"
+ },
+ {
+  "Academic Year : 2024-25": 92,
+  "Column2": "VU1S2223003",
+  "Column3": "Bhavika",
+  "Column4": "Deepak",
+  "Column5": "Mandavkar"
+ },
+ {
+  "Academic Year : 2024-25": 93,
+  "Column2": "VU1F2122074",
+  "Column3": "Chiranjiv",
+  "Column4": "Dhanraj",
+  "Column5": "Adsul"
+ },
+ {
+  "Academic Year : 2024-25": 94,
+  "Column2": "VU1F2122118",
+  "Column3": "Hamza",
+  "Column4": "Zubair",
+  "Column5": "Shaikh"
+ },
+ {
+  "Academic Year : 2024-25": 95,
+  "Column2": "VU1S2223016",
+  "Column3": "Mohd Afnan",
+  "Column4": "Amir Ali",
+  "Column5": "Shaikh"
+ },
+ {
+  "Academic Year : 2024-25": 96,
+  "Column2": "VU1F2122097",
+  "Column3": "Radhika",
+  "Column4": "Bapurao",
+  "Column5": "Yadav"
+ },
+ {
+  "Academic Year : 2024-25": 97,
+  "Column2": "VU1F2122125",
+  "Column3": "Sarvesh",
+  "Column4": "Shailesh",
+  "Column5": "Bhogle"
+ },
+ {
+  "Academic Year : 2024-25": 98,
+  "Column2": "VU1F2122055",
+  "Column3": "Rishi",
+  "Column4": "Gurudatt",
+  "Column5": "Mengade"
+ },
+ {
+  "Academic Year : 2024-25": 99,
+  "Column2": "VU1F2122040",
+  "Column3": "Sahil",
+  "Column4": "Dilip",
+  "Column5": "Kuware"
+ },
+ {
+  "Academic Year : 2024-25": 100,
+  "Column2": "VU1F2122083",
+  "Column3": "Sameep",
+  "Column4": "Ashok",
+  "Column5": "Korvi"
+ },
+ {
+  "Academic Year : 2024-25": 101,
+  "Column2": "VU1F2122024",
+  "Column3": "Sanika",
+  "Column4": "Rajesh",
+  "Column5": "Bamane"
+ },
+ {
+  "Academic Year : 2024-25": 102,
+  "Column2": "VU1F2122134",
+  "Column3": "Harsh",
+  "Column4": "Dharmendra",
+  "Column5": "Pal",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 103,
+  "Column2": "VU1S2223002",
+  "Column3": "Yash",
+  "Column4": "Prakash",
+  "Column5": "Pimpalkar"
+ },
+ {
+  "Academic Year : 2024-25": 104,
+  "Column2": "VU1F2122033",
+  "Column3": "Yukta",
+  "Column4": "Ravindra",
+  "Column5": "Jadhav"
+ },
+ {
+  "Academic Year : 2024-25": 105,
+  "Column2": "VU1F2122127",
+  "Column3": "Vikas",
+  "Column4": "Ramajor",
+  "Column5": "Yadav"
+ },
+ {
+  "Academic Year : 2024-25": 106,
+  "Column2": "VU1F2122062",
+  "Column3": "Hamdan",
+  "Column4": "Abdul Wahid",
+  "Column5": "Khan"
+ },
+ {
+  "Academic Year : 2024-25": 107,
+  "Column2": "VU1F2122104",
+  "Column3": "Yash",
+  "Column4": "Vinod",
+  "Column5": "Nimbalkar"
+ },
+ {
+  "Academic Year : 2024-25": 108,
+  "Column2": "VU1F2122028",
+  "Column3": "Vedant",
+  "Column4": "Laxman",
+  "Column5": "Narute"
+ },
+ {
+  "Academic Year : 2024-25": 109,
+  "Column2": "VU1F2122081",
+  "Column3": "Shrawani",
+  "Column4": "Pramod",
+  "Column5": "Dalvi",
+  "Column11": "Pay slip"
+ },
+ {
+  "Academic Year : 2024-25": 110,
+  "Column2": "VU1F2122111",
+  "Column3": "Preeti",
+  "Column4": "Nikhil",
+  "Column5": "Jana"
+ },
+ {
+  "Academic Year : 2024-25": 111,
+  "Column2": "VU1F2122088",
+  "Column3": "Pranay",
+  "Column4": "Amrut",
+  "Column5": "Gawade"
+ }
+],
+"Copy of Original copy":[
+ {
+  "14": 110,
+  "VU1F2122010": "VU1F2122111",
+  "Atharv": "Preeti",
+  "Sanjay": "Nikhil",
+  "Bhosale": "Jana",
+  "63 Moons": "accelya",
+  "Traineeship": "Engineer -1\/ Software Development",
+  "4.5-5 LPA": "7LPA",
+  "View": "View"
+ },
+ {
+  "14": 6,
+  "VU1F2122010": "VU1F2122054",
+  "Atharv": "Vishal",
+  "Sanjay": "Anil",
+  "Bhosale": "Ugalmugale",
+  "63 Moons": "Alpha Payment",
+  "Traineeship": "Trainee S\/w Engineer",
+  "4.5-5 LPA": "4 LPA",
+  "View": "View",
+  "ID": "Payslip"
+ },
+ {
+  "14": 5,
+  "VU1F2122010": "VU1F2122103",
+  "Atharv": "Yash",
+  "Sanjay": "Manish",
+  "Bhosale": "Parkar",
+  "63 Moons": "ARCON",
+  "Traineeship": "Software Developer",
+  "4.5-5 LPA": "5 LPA",
+  "View": "View"
+ },
+ {
+  "14": 9,
+  "VU1F2122010": "VU1F2122073",
+  "Atharv": "Tushar",
+  "Sanjay": "Dinesh",
+  "Bhosale": "Singh",
+  "63 Moons": "Arcon\/ Deltax",
+  "Traineeship": "Software Developer",
+  "4.5-5 LPA": "5 LPA",
+  "2": 2,
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 94,
+  "VU1F2122010": "VU1F2122118",
+  "Atharv": "Hamza",
+  "Sanjay": "Zubair",
+  "Bhosale": "Shaikh",
+  "63 Moons": "Autoplant",
+  "Traineeship": "JR. Software Engineer",
+  "4.5-5 LPA": "6,37,124",
+  "View": "View"
+ },
+ {
+  "14": 92,
+  "VU1F2122010": "VU1S2223003",
+  "Atharv": "Bhavika",
+  "Sanjay": "Deepak",
+  "Bhosale": "Mandavkar",
+  "63 Moons": "Benchmark",
+  "Traineeship": "Project Trainee",
+  "4.5-5 LPA": "2.4LPA",
+  "View": "View"
+ },
+ {
+  "14": 93,
+  "VU1F2122010": "VU1F2122074",
+  "Atharv": "Chiranjiv",
+  "Sanjay": "Dhanraj",
+  "Bhosale": "Adsul",
+  "63 Moons": "Benchmark",
+  "Traineeship": "Project Trainee",
+  "4.5-5 LPA": "2.4LPA",
+  "View": "View"
+ },
+ {
+  "14": 38,
+  "VU1F2122010": "VU1F2122124",
+  "Atharv": "Smit",
+  "Sanjay": "Ratnadipak",
+  "Bhosale": "Patil",
+  "63 Moons": "Bhaane Retail pvt.Ltd",
+  "Traineeship": "Business Analyst",
+  "4.5-5 LPA": "3.45 LPA",
+  "View": "View"
+ },
+ {
+  "14": 53,
+  "VU1F2122010": "VU1F2122139",
+  "Atharv": "Vikrant",
+  "Sanjay": "Vinod",
+  "Bhosale": "Patil",
+  "63 Moons": "C-EDGE",
+  "Traineeship": "Assistant System Analyst",
+  "4.5-5 LPA": "2.75 LPA",
+  "View": "View"
+ },
+ {
+  "14": 54,
+  "VU1F2122010": "VU1F2122098",
+  "Atharv": "Kavin",
+  "Sanjay": "Ganesh",
+  "Bhosale": "Girigosavi",
+  "63 Moons": "C-EDGE",
+  "Traineeship": "Assistant System Analyst",
+  "4.5-5 LPA": "2.75 LPA",
+  "View": "View"
+ },
+ {
+  "14": 26,
+  "VU1F2122010": "VU1F2122105",
+  "Atharv": "Akshara",
+  "Sanjay": "Amar",
+  "Bhosale": "Dussa",
+  "63 Moons": "Capgemini",
+  "Traineeship": "Analyst \/A4",
+  "4.5-5 LPA": "5.5 LPA",
+  "2": 2,
+  "View": "View"
+ },
+ {
+  "14": 30,
+  "VU1F2122010": "VU1S2223011",
+  "Atharv": "Vaishnavi",
+  "Sanjay": "Shankar",
+  "Bhosale": "Jadhav",
+  "63 Moons": "Capgemini",
+  "Traineeship": "Analyst \/A4",
+  "4.5-5 LPA": "5.5 LPA",
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 31,
+  "VU1F2122010": "VU1F2122053",
+  "Atharv": "Sneha",
+  "Sanjay": "Sakharam",
+  "Bhosale": "Golhe",
+  "63 Moons": "Capgemini",
+  "Traineeship": "Analyst \/A4",
+  "4.5-5 LPA": "5.5 LPA",
+  "View": "View"
+ },
+ {
+  "14": 32,
+  "VU1F2122010": "VU1F2122003",
+  "Atharv": "Prerna",
+  "Sanjay": "Suresh",
+  "Bhosale": "More",
+  "63 Moons": "Capgemini",
+  "Traineeship": "Analyst \/A4",
+  "4.5-5 LPA": "5.5 LPA",
+  "View": "View"
+ },
+ {
+  "14": 58,
+  "VU1F2122010": "VU1F2122027",
+  "Atharv": "Ashwini",
+  "Sanjay": "Satish",
+  "Bhosale": "Mayekar",
+  "63 Moons": "Capgemini",
+  "Traineeship": "Analyst",
+  "4.5-5 LPA": "4 LPA",
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 59,
+  "VU1F2122010": "VU1F2122034",
+  "Atharv": "Chetan",
+  "Sanjay": "Ashok",
+  "Bhosale": "Pardeshi",
+  "63 Moons": "Circulant software Pvt.Ltd",
+  "Traineeship": "Software Developer",
+  "4.5-5 LPA": "4 LPA",
+  "View": "View"
+ },
+ {
+  "14": 61,
+  "VU1F2122010": "VU1S2223014",
+  "Atharv": "Iqra Fatema",
+  "Sanjay": "Taukir Ahmed",
+  "Bhosale": "Shaikh",
+  "63 Moons": "Circulant software Pvt.Ltd",
+  "Traineeship": "Software Developer",
+  "4.5-5 LPA": "4 LPA",
+  "View": "View"
+ },
+ {
+  "14": 43,
+  "VU1F2122010": "VU1F2122067",
+  "Atharv": "Mamta",
+  "Sanjay": "Mahadev",
+  "Bhosale": "Mingal",
+  "63 Moons": "Codew\/Floppy",
+  "Traineeship": "Robotics Mentor",
+  "4.5-5 LPA": "3.00LPA",
+  "View": "View"
+ },
+ {
+  "14": 33,
+  "VU1F2122010": "VU1F2122013",
+  "Atharv": "Aditya",
+  "Sanjay": "Ashok",
+  "Bhosale": "Thorat",
+  "63 Moons": "COMPRINT",
+  "Traineeship": "AI research Analyst",
+  "4.5-5 LPA": "4.75 LPA",
+  "View": "View"
+ },
+ {
+  "14": 106,
+  "VU1F2122010": "VU1F2122062",
+  "Atharv": "Hamdan",
+  "Sanjay": "Abdul Wahid",
+  "Bhosale": "Khan",
+  "63 Moons": "CONTEXIO",
+  "Traineeship": "Research Analyst- Assiciate",
+  "4.5-5 LPA": 240000,
+  "View": "View"
+ },
+ {
+  "14": 108,
+  "VU1F2122010": "VU1F2122028",
+  "Atharv": "Vedant",
+  "Sanjay": "Laxman",
+  "Bhosale": "Narute",
+  "63 Moons": "CONTEXIO",
+  "Traineeship": "Research Analyst- Assiciate",
+  "4.5-5 LPA": 240000,
+  "View": "View"
+ },
+ {
+  "14": 64,
+  "VU1F2122010": "VU1F2122005",
+  "Atharv": "Soham",
+  "Sanjay": "Rakesh",
+  "Bhosale": "Mane",
+  "63 Moons": "Datamatics",
+  "Traineeship": "Trainee",
+  "4.5-5 LPA": 201455,
+  "View": "View"
+ },
+ {
+  "14": 79,
+  "VU1F2122010": "VU1F2122070",
+  "Atharv": "Aryan",
+  "Sanjay": "Santosh",
+  "Bhosale": "Gupta",
+  "63 Moons": "Datamatics",
+  "Traineeship": "Trainee",
+  "4.5-5 LPA": 201455,
+  "View": "View"
+ },
+ {
+  "14": 68,
+  "VU1F2122010": "VU1F2122035",
+  "Atharv": "Tejas",
+  "Sanjay": "Pradip",
+  "Bhosale": "Chakranarayan",
+  "63 Moons": "Deloitte",
+  "Traineeship": "Business Analyst",
+  "4.5-5 LPA": "3.75LPA",
+  "View": "View"
+ },
+ {
+  "14": 11,
+  "VU1F2122010": "VU1S2223017",
+  "Atharv": "Raj",
+  "Sanjay": "Sandeep",
+  "Bhosale": "Mayekar",
+  "63 Moons": "Edolution Pvt Ltd",
+  "Traineeship": "AI s\/w Engg",
+  "4.5-5 LPA": "3.75 LPA",
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 76,
+  "VU1F2122010": "VU1F2122086",
+  "Atharv": "Abhishek",
+  "Sanjay": "Mahesh",
+  "Bhosale": "Khandare",
+  "63 Moons": "Encora Digital Pvt.Ltd",
+  "Traineeship": "Project Manager",
+  "4.5-5 LPA": "7LPA",
+  "View": "View"
+ },
+ {
+  "14": 77,
+  "VU1F2122010": "VU1F2122068",
+  "Atharv": "Ankit",
+  "Sanjay": "Sanat",
+  "Bhosale": "Shukla",
+  "63 Moons": "Encora Digital Pvt.Ltd",
+  "Traineeship": "Software Analyst",
+  "4.5-5 LPA": "6LPA",
+  "View": "View"
+ },
+ {
+  "14": 78,
+  "VU1F2122010": "VU1F2122114",
+  "Atharv": "Arya",
+  "Sanjay": "Ganesh",
+  "Bhosale": "Dandekar",
+  "63 Moons": "Encora Digital Pvt.Ltd",
+  "Traineeship": "Software Analyst",
+  "4.5-5 LPA": "6LPA",
+  "View": "View"
+ },
+ {
+  "14": 27,
+  "VU1F2122010": "VU1F2122036",
+  "Atharv": "Laxmikant",
+  "Sanjay": "Umesh",
+  "Bhosale": "Deosarkar",
+  "63 Moons": "Galaxy",
+  "Traineeship": "Jr. Technical Associate",
+  "4.5-5 LPA": "3.15 LPA",
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 28,
+  "VU1F2122010": "VU1F2122089",
+  "Atharv": "Wasim",
+  "Sanjay": "Zabiullah",
+  "Bhosale": "Khan",
+  "63 Moons": "Galaxy",
+  "Traineeship": "Jr. Technical Associate",
+  "4.5-5 LPA": "3.15 LPA",
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 29,
+  "VU1F2122010": "VU1S2223015",
+  "Atharv": "Afnan",
+  "Sanjay": "Raeesahmed",
+  "Bhosale": "Shaikh",
+  "63 Moons": "Galaxy",
+  "Traineeship": "Jr. Technical Associate",
+  "4.5-5 LPA": "3.15 LPA",
+  "View": "View"
+ },
+ {
+  "14": 107,
+  "VU1F2122010": "VU1F2122104",
+  "Atharv": "Yash",
+  "Sanjay": "Vinod",
+  "Bhosale": "Nimbalkar",
+  "63 Moons": "Godigital",
+  "Traineeship": "Engineer",
+  "4.5-5 LPA": 540002,
+  "View": "View"
+ },
+ {
+  "14": 8,
+  "VU1F2122010": "VU1F2122031",
+  "Atharv": "Asmita",
+  "Sanjay": "Sheshrao",
+  "Bhosale": "Ghode",
+  "63 Moons": "Godrej Infotech\/Capgemini",
+  "Traineeship": "Sr. Excecutive",
+  "4.5-5 LPA": "4 LPA",
+  "2": 2,
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 71,
+  "VU1F2122010": "VU1F2122131",
+  "Atharv": "Tanish",
+  "Sanjay": "Chandrakant",
+  "Bhosale": "Desai",
+  "63 Moons": "Grant Thornton Bharat LLP",
+  "Traineeship": "Assiciate",
+  "4.5-5 LPA": "4.30LPA",
+  "View": "View"
+ },
+ {
+  "14": 37,
+  "VU1F2122010": "VU1S2223004",
+  "Atharv": "Prachi",
+  "Sanjay": "Satish",
+  "Bhosale": "Jamdade",
+  "63 Moons": "Gravitee",
+  "Traineeship": "Technical Product Marketing Manager",
+  "4.5-5 LPA": "28 LPA",
+  "View": "View"
+ },
+ {
+  "14": 47,
+  "VU1F2122010": "VU1F2122099",
+  "Atharv": "Suraj",
+  "Sanjay": "Vijay",
+  "Bhosale": "Lawand",
+  "63 Moons": "Hudl India PVT LTD",
+  "Traineeship": "Trainee",
+  "4.5-5 LPA": "1.44 LPA",
+  "View": "View"
+ },
+ {
+  "14": 2,
+  "VU1F2122010": "VU1F2122116",
+  "Atharv": "Pooja",
+  "Sanjay": "Omprakash",
+  "Bhosale": "Bhati",
+  "63 Moons": "ICICI Lombard",
+  "Traineeship": "Trainee S\/w Engineer",
+  "4.5-5 LPA": "4.5 LPA",
+  "View": "View"
+ },
+ {
+  "14": 4,
+  "VU1F2122010": "VU1F2122101",
+  "Atharv": "Shashank",
+  "Sanjay": "Sankarshan",
+  "Bhosale": "Upadhyay",
+  "63 Moons": "ICICI Lombard",
+  "Traineeship": "Trainee S\/w Engineer",
+  "4.5-5 LPA": "4.5 LPA",
+  "View": "View"
+ },
+ {
+  "14": 34,
+  "VU1F2122010": "VU1F2122130",
+  "Atharv": "Anas",
+  "Sanjay": "Ejaz",
+  "Bhosale": "Sayed",
+  "63 Moons": "Ingram Micro India SSC Pvt.Ltd",
+  "Traineeship": "Trainee, Software Developer",
+  "4.5-5 LPA": "6 LPA",
+  "View": "View"
+ },
+ {
+  "14": 56,
+  "VU1F2122010": "VU1S2223009",
+  "Atharv": "Anuraj",
+  "Sanjay": "Anil",
+  "Bhosale": "Chavan",
+  "63 Moons": "Ingram Micro India SSC Pvt.Ltd",
+  "Traineeship": "Trainee software developer",
+  "4.5-5 LPA": "4 LPA",
+  "View": "View"
+ },
+ {
+  "14": 65,
+  "VU1F2122010": "VU1F2122085",
+  "Atharv": "Soham",
+  "Sanjay": "Krishna",
+  "Bhosale": "Nandanwar",
+  "63 Moons": "Ingram Micro India SSC Pvt.Ltd",
+  "Traineeship": "Trainee software developer",
+  "4.5-5 LPA": "4 LPA",
+  "View": "View"
+ },
+ {
+  "14": 15,
+  "VU1F2122010": "VU1F2122018",
+  "Atharv": "Yusra",
+  "Sanjay": "Obaidullah",
+  "Bhosale": "Ansari",
+  "63 Moons": "JARO",
+  "Traineeship": "Graduate Trainee",
+  "4.5-5 LPA": "8.36 LPA",
+  "View": "View"
+ },
+ {
+  "14": 16,
+  "VU1F2122010": "VU1F2122128",
+  "Atharv": "Aftab",
+  "Sanjay": "Mohammed",
+  "Bhosale": "Shaikh",
+  "63 Moons": "JARO",
+  "Traineeship": "Graduate Trainee ",
+  "4.5-5 LPA": "8.36 LPA",
+  "View": "View"
+ },
+ {
+  "14": 17,
+  "VU1F2122010": "VU1F2122021",
+  "Atharv": "Tanmay",
+  "Sanjay": "Prashant",
+  "Bhosale": "Sakpal",
+  "63 Moons": "JARO",
+  "Traineeship": "Graduate Trainee ",
+  "4.5-5 LPA": "8.36 LPA",
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 19,
+  "VU1F2122010": "VU1F2122109",
+  "Atharv": "Tejas",
+  "Sanjay": "Pramod",
+  "Bhosale": "Korlekar",
+  "63 Moons": "JARO",
+  "Traineeship": "Graduate Trainee",
+  "4.5-5 LPA": "8.36 LPA",
+  "View": "View"
+ },
+ {
+  "14": 20,
+  "VU1F2122010": "VU1F2122052",
+  "Atharv": "Swaleha",
+  "Sanjay": "Mohammed Sajid",
+  "Bhosale": "Ansari",
+  "63 Moons": "JARO",
+  "Traineeship": "Graduate Trainee ",
+  "4.5-5 LPA": "8.36 LPA",
+  "View": "View"
+ },
+ {
+  "14": 102,
+  "VU1F2122010": "VU1F2122134",
+  "Atharv": "Harsh",
+  "Sanjay": "Dharmendra",
+  "Bhosale": "Pal",
+  "63 Moons": "Jio",
+  "Traineeship": "Graduate Engineer Trainee",
+  "4.5-5 LPA": "5LPA",
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 48,
+  "VU1F2122010": "VU1F2122048",
+  "Atharv": "Varun",
+  "Sanjay": "Vilas",
+  "Bhosale": "Patkar",
+  "63 Moons": "KHUSPAL HOME TEXTILES LLP",
+  "Traineeship": " Front-End E-commerce & Digital Marketing Associate",
+  "4.5-5 LPA": "6.00 LPA",
+  "View": "View"
+ },
+ {
+  "14": 50,
+  "VU1F2122010": "VU1F2122066",
+  "Atharv": "Sandesh",
+  "Sanjay": "Balkrishna",
+  "Bhosale": "Pawar",
+  "63 Moons": "KHUSPAL HOME TEXTILES LLP",
+  "Traineeship": " Front-End E-commerce & Digital Marketing Associate",
+  "4.5-5 LPA": "6.00 LPA",
+  "View": "View"
+ },
+ {
+  "14": 57,
+  "VU1F2122010": "VU1F2122050",
+  "Atharv": "Aryan",
+  "Sanjay": "Ramesh",
+  "Bhosale": "Waghmare",
+  "63 Moons": "L S Digital ",
+  "Traineeship": "GT Tech",
+  "4.5-5 LPA": "6 LPA",
+  "View": "View"
+ },
+ {
+  "14": 74,
+  "VU1F2122010": "VU1F2122117",
+  "Atharv": "Subiya",
+  "Sanjay": "Kalim",
+  "Bhosale": "Sayyed",
+  "63 Moons": "L S Digital ",
+  "Traineeship": "GT- Tech",
+  "4.5-5 LPA": "6LPA",
+  "View": "View"
+ },
+ {
+  "14": 75,
+  "VU1F2122010": "VU1F2122015",
+  "Atharv": "Pragya",
+  "Sanjay": "Satyendra",
+  "Bhosale": "Mandpe",
+  "63 Moons": "L S Digital ",
+  "Traineeship": "GT- Tech",
+  "4.5-5 LPA": "6LPA",
+  "View": "View"
+ },
+ {
+  "14": 103,
+  "VU1F2122010": "VU1S2223002",
+  "Atharv": "Yash",
+  "Sanjay": "Prakash",
+  "Bhosale": "Pimpalkar",
+  "63 Moons": "Lance soft Engineering",
+  "Traineeship": "Software Developer",
+  "4.5-5 LPA": "8.50LPA",
+  "View": "View"
+ },
+ {
+  "14": 104,
+  "VU1F2122010": "VU1F2122033",
+  "Atharv": "Yukta",
+  "Sanjay": "Ravindra",
+  "Bhosale": "Jadhav",
+  "63 Moons": "Lance soft Engineering",
+  "Traineeship": "Software Developer",
+  "4.5-5 LPA": "8.50LPA",
+  "View": "View"
+ },
+ {
+  "14": 23,
+  "VU1F2122010": "VU1F2122011",
+  "Atharv": "Anushka",
+  "Sanjay": "Ashwin",
+  "Bhosale": "Rasam",
+  "63 Moons": "LTIMindtree",
+  "Traineeship": "Graduate Engineer Trainee",
+  "4.5-5 LPA": "4.05 LPA",
+  "2": 2,
+  "View": "View"
+ },
+ {
+  "14": 24,
+  "VU1F2122010": "VU1F2122123",
+  "Atharv": "Kunal",
+  "Sanjay": "Dilbahadur",
+  "Bhosale": "Rawal",
+  "63 Moons": "LTIMindtree",
+  "Traineeship": "Graduate Engineer Trainee",
+  "4.5-5 LPA": "4.05 LPA",
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 25,
+  "VU1F2122010": "VU1F2122045",
+  "Atharv": "Purva",
+  "Sanjay": "Tejesh",
+  "Bhosale": "Patil",
+  "63 Moons": "LTIMindtree",
+  "Traineeship": "Graduate Engineer Trainee",
+  "4.5-5 LPA": "4.05 LPA",
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 85,
+  "VU1F2122010": "VU1F2122008",
+  "Atharv": "Anju",
+  "Sanjay": "Shidwa",
+  "Bhosale": "Parhyad",
+  "63 Moons": "MAGIC",
+  "Traineeship": "Associate S\/W Engineer",
+  "4.5-5 LPA": "4LPA",
+  "View": "View"
+ },
+ {
+  "14": 86,
+  "VU1F2122010": "VU1S2223007",
+  "Atharv": "Arya",
+  "Sanjay": "Abhay",
+  "Bhosale": "Nikale",
+  "63 Moons": "MAGIC",
+  "Traineeship": "Associate S\/W Engineer",
+  "4.5-5 LPA": "4LPA",
+  "View": "view"
+ },
+ {
+  "14": 12,
+  "VU1F2122010": "VU1F2122042",
+  "Atharv": "Nidhi",
+  "Sanjay": "Nitin",
+  "Bhosale": "Patil",
+  "63 Moons": "Marico",
+  "Traineeship": "IT Trainee",
+  "4.5-5 LPA": "6 LPA",
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 99,
+  "VU1F2122010": "VU1F2122040",
+  "Atharv": "Sahil",
+  "Sanjay": "Dilip",
+  "Bhosale": "Kuware",
+  "63 Moons": "Mastercom technology india Pvt.Ltd",
+  "Traineeship": "JR. Software Engineer",
+  "4.5-5 LPA": "4,70,592",
+  "View": "View"
+ },
+ {
+  "14": 100,
+  "VU1F2122010": "VU1F2122083",
+  "Atharv": "Sameep",
+  "Sanjay": "Ashok",
+  "Bhosale": "Korvi",
+  "63 Moons": "Mastercom technology india Pvt.Ltd",
+  "Traineeship": "JR. Software Engineer",
+  "4.5-5 LPA": "4,70,592",
+  "View": "View"
+ },
+ {
+  "14": 101,
+  "VU1F2122010": "VU1F2122024",
+  "Atharv": "Sanika",
+  "Sanjay": "Rajesh",
+  "Bhosale": "Bamane",
+  "63 Moons": "Mastercom technology india Pvt.Ltd",
+  "Traineeship": "JR. Software Engineer",
+  "4.5-5 LPA": "4,70,592",
+  "View": "View"
+ },
+ {
+  "14": 96,
+  "VU1F2122010": "VU1F2122097",
+  "Atharv": "Radhika",
+  "Sanjay": "Bapurao",
+  "Bhosale": "Yadav",
+  "63 Moons": "Media.net",
+  "Traineeship": "Web application developer",
+  "4.5-5 LPA": "8,10,627",
+  "View": "View"
+ },
+ {
+  "14": 87,
+  "VU1F2122010": "VU1F2122092",
+  "Atharv": "Aryan",
+  "Sanjay": "Akhilesh",
+  "Bhosale": "Singh",
+  "63 Moons": "MERCE",
+  "Traineeship": "System Administrator",
+  "4.5-5 LPA": "10LPA",
+  "View": "View"
+ },
+ {
+  "14": 88,
+  "VU1F2122010": "VU1S222018",
+  "Atharv": "Mayuresh",
+  "Sanjay": "Jagdish",
+  "Bhosale": "Patil",
+  "63 Moons": "MERCE",
+  "Traineeship": "Software Developer",
+  "4.5-5 LPA": "5LPA",
+  "View": "View"
+ },
+ {
+  "14": 45,
+  "VU1F2122010": "VU1F2122001",
+  "Atharv": "Akshad",
+  "Sanjay": "Sharad",
+  "Bhosale": "Mahadik",
+  "63 Moons": "Miko chidakashi technology pvt. ltd",
+  "Traineeship": "of Junior Software Development Engineer.",
+  "4.5-5 LPA": "4.25 LPA",
+  "View": "View"
+ },
+ {
+  "14": 44,
+  "VU1F2122010": "VU1F2122121",
+  "Atharv": "Soham",
+  "Sanjay": "Sanjeev",
+  "Bhosale": "Kandalkar",
+  "63 Moons": "MindCraft",
+  "Traineeship": "Associate Consultant",
+  "4.5-5 LPA": "2.4LPA",
+  "View": "View"
+ },
+ {
+  "14": 67,
+  "VU1F2122010": "VU1F2122047",
+  "Atharv": "Harsh",
+  "Sanjay": "Kishor",
+  "Bhosale": "Sawant",
+  "63 Moons": "Mirraw",
+  "Traineeship": "Software Developer",
+  "4.5-5 LPA": "3.60LPA",
+  "View": "View"
+ },
+ {
+  "14": 51,
+  "VU1F2122010": "VU1F2122122",
+  "Atharv": "Sanasi",
+  "Sanjay": "Suhas",
+  "Bhosale": "Salvi",
+  "63 Moons": "Mitr Learning And Media Pvt. Ltd.",
+  "Traineeship": "Graduate Engineer Trainee",
+  "4.5-5 LPA": "2.4 LPA",
+  "View": "View"
+ },
+ {
+  "14": 63,
+  "VU1F2122010": "VU1F2122064",
+  "Atharv": "Sakshita",
+  "Sanjay": "Santosh",
+  "Bhosale": "Bodke",
+  "63 Moons": "Montran Corporation Pvt.Ltd",
+  "Traineeship": "Asst Software Engineer",
+  "4.5-5 LPA": 350968,
+  "View": "View"
+ },
+ {
+  "14": "Sr. No",
+  "VU1F2122010": "COLLEGE ID",
+  "Atharv": "First name",
+  "Sanjay": "Middle Name",
+  "Bhosale": "Last Name",
+  "63 Moons": "Name of the Company",
+  "Traineeship": "Designation",
+  "4.5-5 LPA": "CTC",
+  "2": "Placed Count",
+  "View": "Offer Letter",
+  "ID": "ID Proof"
+ },
+ {
+  "14": 3,
+  "VU1F2122010": "VU1F2122091",
+  "Atharv": "Eshwari",
+  "Sanjay": "Agadeesha",
+  "Bhosale": "Rampoore",
+  "63 Moons": "NICE",
+  "Traineeship": "Associate S\/w Engg",
+  "4.5-5 LPA": "8 LPA",
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 36,
+  "VU1F2122010": "VU1F2122132",
+  "Atharv": "Vedhavrath",
+  "Sanjay": "Gangadhar",
+  "Bhosale": "Vasala",
+  "63 Moons": "Odyssey ",
+  "Traineeship": "Trainee Engineer",
+  "4.5-5 LPA": "3.2 LPA",
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 52,
+  "VU1F2122010": "VU1F2122119",
+  "Atharv": "Sneha",
+  "Sanjay": "Santosh",
+  "Bhosale": "Patil",
+  "63 Moons": "Odyssey ",
+  "Traineeship": "Trainee Engineer",
+  "4.5-5 LPA": "2.80 LPA",
+  "View": "View"
+ },
+ {
+  "14": 55,
+  "VU1F2122010": "VU1F2122061",
+  "Atharv": "Aviral",
+  "Sanjay": "Shivprakash",
+  "Bhosale": "Shukla",
+  "63 Moons": "Odyssey ",
+  "Traineeship": "Trainee Engineer",
+  "4.5-5 LPA": "2.80LPA",
+  "View": "View"
+ },
+ {
+  "14": 42,
+  "VU1F2122010": "VU1F2122002",
+  "Atharv": "Samruddhi",
+  "Sanjay": "Pramod",
+  "Bhosale": "Sawant",
+  "63 Moons": "Parimal Pharma Limited",
+  "4.5-5 LPA": "2.76 LPA",
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 13,
+  "VU1F2122010": "VU1F2122102",
+  "Atharv": "Divleen",
+  "Sanjay": "Kaur",
+  "Bhosale": "Banga",
+  "63 Moons": "Peoplehum technologies Pvt. Ltd",
+  "Traineeship": "Business development associate",
+  "4.5-5 LPA": "3.62 LPA",
+  "View": "View"
+ },
+ {
+  "14": 73,
+  "VU1F2122010": "VU1F2122026",
+  "Atharv": "Rahul",
+  "Sanjay": "Dhondu",
+  "Bhosale": "Pawar",
+  "63 Moons": "PNT Robotics & Automation Solution",
+  "Traineeship": "Jr. Software Developer",
+  "4.5-5 LPA": "2.52LPA",
+  "View": "View"
+ },
+ {
+  "14": 10,
+  "VU1F2122010": "VU1F2122046",
+  "Atharv": "Purva",
+  "Sanjay": "Suryakant",
+  "Bhosale": "Nagap",
+  "63 Moons": "ProductDossier'\/ATS",
+  "Traineeship": "Software Developer- Trainee",
+  "4.5-5 LPA": "12.5 LPA",
+  "2": 2,
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 62,
+  "VU1F2122010": "VU1F2122136",
+  "Atharv": "Rangrez",
+  "Sanjay": "Hassan Raza",
+  "Bhosale": "Akhtar Hussain",
+  "63 Moons": "Protegrity",
+  "Traineeship": "Asso Software Engineer",
+  "4.5-5 LPA": "5.50LPA",
+  "View": "View"
+ },
+ {
+  "14": 18,
+  "VU1F2122010": "VU1F2122106",
+  "Atharv": "Ruchi",
+  "Sanjay": "Vijay",
+  "Bhosale": "Sahu",
+  "63 Moons": "QUESS",
+  "Traineeship": "Trainee-QA",
+  "4.5-5 LPA": "3.5LPA",
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 1,
+  "VU1F2122010": "VU1F2122075",
+  "Atharv": "Vaishnavi",
+  "Sanjay": "Vilas",
+  "Bhosale": "Devlekar",
+  "63 Moons": "Quinnox\/Capgemini",
+  "Traineeship": "Software Trainee",
+  "4.5-5 LPA": "3.75\/4 LPA",
+  "2": 2,
+  "View": "View"
+ },
+ {
+  "14": 95,
+  "VU1F2122010": "VU1S2223016",
+  "Atharv": "Mohd Afnan",
+  "Sanjay": "Amir Ali",
+  "Bhosale": "Shaikh",
+  "63 Moons": "Rentokil PCI",
+  "Traineeship": "Python Developer",
+  "4.5-5 LPA": 311000,
+  "View": "View"
+ },
+ {
+  "14": 109,
+  "VU1F2122010": "VU1F2122081",
+  "Atharv": "Shrawani",
+  "Sanjay": "Pramod",
+  "Bhosale": "Dalvi",
+  "63 Moons": "Rentokil PCI",
+  "Traineeship": "Python Developer",
+  "4.5-5 LPA": 311000,
+  "View": "View",
+  "ID": "Pay slip"
+ },
+ {
+  "14": 49,
+  "VU1F2122010": "VU1F2122078",
+  "Atharv": "Omkar",
+  "Sanjay": "Jagannath",
+  "Bhosale": "Masaye",
+  "63 Moons": "RESCALE TECHNOLOGIES",
+  "Traineeship": "Software Developer",
+  "4.5-5 LPA": "3 LPA",
+  "View": "View"
+ },
+ {
+  "14": 83,
+  "VU1F2122010": "VU1F1920093",
+  "Atharv": "Surojit",
+  "Sanjay": "Uttam",
+  "Bhosale": "Ghosh",
+  "63 Moons": "RESCALE TECHNOLOGIES",
+  "Traineeship": "Software Developer",
+  "4.5-5 LPA": "3 LPA",
+  "View": "View"
+ },
+ {
+  "14": 35,
+  "VU1F2122010": "VU1F2122004",
+  "Atharv": "Shreyas",
+  "Sanjay": "Dilip",
+  "Bhosale": "Gurav",
+  "63 Moons": "Schbang",
+  "Traineeship": "Devops Engineer",
+  "4.5-5 LPA": "5.25 LPA",
+  "View": "View"
+ },
+ {
+  "14": 80,
+  "VU1F2122010": "VU1F2122049",
+  "Atharv": "Rahul",
+  "Sanjay": "Prakash",
+  "Bhosale": "Bhurkud",
+  "63 Moons": "Servosys",
+  "Traineeship": "Software Engineer",
+  "4.5-5 LPA": "4LPA",
+  "View": "View"
+ },
+ {
+  "14": 81,
+  "VU1F2122010": "VU1F2122108",
+  "Atharv": "Chirag",
+  "Sanjay": "Manoj",
+  "Bhosale": "Kadam",
+  "63 Moons": "Servosys",
+  "Traineeship": "Software Engineer",
+  "4.5-5 LPA": "4LPA",
+  "View": "View"
+ },
+ {
+  "14": 82,
+  "VU1F2122010": "VU1F2122090",
+  "Atharv": "Aadesh",
+  "Sanjay": "Vijay",
+  "Bhosale": "Bavalekar",
+  "63 Moons": "Servosys",
+  "Traineeship": "Software Engineer",
+  "4.5-5 LPA": "4LPA",
+  "View": "View"
+ },
+ {
+  "14": 39,
+  "VU1F2122010": "VU1F2122093",
+  "Atharv": "Kaushik",
+  "Sanjay": "Krishna",
+  "Bhosale": "Mandal",
+  "63 Moons": "Simkraft",
+  "Traineeship": "Junior Developer",
+  "4.5-5 LPA": "2.16 LPA",
+  "View": "View"
+ },
+ {
+  "14": 40,
+  "VU1F2122010": "VU1F2122096",
+  "Atharv": "Arfeen",
+  "Sanjay": "Rafiq",
+  "Bhosale": "Momin",
+  "63 Moons": "Simkraft",
+  "Traineeship": "Junior Developer",
+  "4.5-5 LPA": "2.16 LPA",
+  "View": "View"
+ },
+ {
+  "14": 84,
+  "VU1F2122010": "VU1F2122140",
+  "Atharv": "Amaan",
+  "Sanjay": "Imtiyaz",
+  "Bhosale": "Balbale",
+  "63 Moons": "Skillmine",
+  "Traineeship": "Linux Administrator",
+  "4.5-5 LPA": "4LPA",
+  "View": "View"
+ },
+ {
+  "14": 72,
+  "VU1F2122010": "VU1F2122112",
+  "Atharv": "Raj",
+  "Sanjay": "Prakash",
+  "Bhosale": "Kadam",
+  "63 Moons": "Snnovate Infotech Pvt.Ltd",
+  "Traineeship": "Associate security Engineer",
+  "4.5-5 LPA": "3.50LPA",
+  "View": "View"
+ },
+ {
+  "14": 97,
+  "VU1F2122010": "VU1F2122125",
+  "Atharv": "Sarvesh",
+  "Sanjay": "Shailesh",
+  "Bhosale": "Bhogle",
+  "63 Moons": "Sodel",
+  "Traineeship": "Trainee Software Engineer",
+  "4.5-5 LPA": "2.12LPA",
+  "View": "View"
+ },
+ {
+  "14": 98,
+  "VU1F2122010": "VU1F2122055",
+  "Atharv": "Rishi",
+  "Sanjay": "Gurudatt",
+  "Bhosale": "Mengade",
+  "63 Moons": "Sodel",
+  "Traineeship": "Trainee Software Engineer",
+  "4.5-5 LPA": "2.12LPA",
+  "View": "View"
+ },
+ {
+  "14": 22,
+  "VU1F2122010": "VU1F2122030",
+  "Atharv": "Vinesh",
+  "Sanjay": "Yashwant",
+  "Bhosale": "Rathod",
+  "63 Moons": "STAVTAR SOLUTIONS INDIA PRIVATE LIMITED",
+  "Traineeship": "Associate Software Developer ",
+  "4.5-5 LPA": "7 LPA",
+  "View": "View"
+ },
+ {
+  "14": 111,
+  "VU1F2122010": "VU1F2122088",
+  "Atharv": "Pranay",
+  "Sanjay": "Amrut",
+  "Bhosale": "Gawade",
+  "63 Moons": "TCSL",
+  "Traineeship": "Asst system Engg- Trainee",
+  "4.5-5 LPA": 336877,
+  "View": "View"
+ },
+ {
+  "14": 60,
+  "VU1F2122010": "VU1F2122016",
+  "Atharv": "Himanshu",
+  "Sanjay": "Asharam",
+  "Bhosale": "Jaiswar",
+  "63 Moons": "Team Lease",
+  "Traineeship": "Data Specialist",
+  "4.5-5 LPA": "1.98 LPA",
+  "View": "View"
+ },
+ {
+  "14": 66,
+  "VU1F2122010": "VU1F2122051",
+  "Atharv": "Sushant",
+  "Sanjay": "Dilip",
+  "Bhosale": "Gholap",
+  "63 Moons": "Team Lease",
+  "Traineeship": "Data Specialist",
+  "4.5-5 LPA": "1.98 LPA",
+  "View": "View"
+ },
+ {
+  "14": 21,
+  "VU1F2122010": "VU1F2122038",
+  "Atharv": "Nihaar",
+  "Sanjay": "Adhiep",
+  "Bhosale": "Mascarenhas",
+  "63 Moons": "Tech Mahindra",
+  "Traineeship": "Software Developer",
+  "4.5-5 LPA": "4LPA",
+  "View": "View"
+ },
+ {
+  "14": 41,
+  "VU1F2122010": "VU1F2122079",
+  "Atharv": "Shubham",
+  "Sanjay": "Ganesh",
+  "Bhosale": "Naik",
+  "63 Moons": "The Souled Store Pvt. Ltd",
+  "Traineeship": "Associate Data Analyst",
+  "4.5-5 LPA": "5.26 LPA",
+  "View": "View"
+ },
+ {
+  "14": 7,
+  "VU1F2122010": "VU1F2122014",
+  "Atharv": "Diksha",
+  "Sanjay": "Chandrakant",
+  "Bhosale": "Waghmare",
+  "63 Moons": "Ticker",
+  "Traineeship": "Traineeship",
+  "4.5-5 LPA": "4 LPA",
+  "View": "View"
+ },
+ {
+  "14": 69,
+  "VU1F2122010": "VU1F2122022",
+  "Atharv": "Pawan Kumar",
+  "Sanjay": "Rajnath",
+  "Bhosale": "Yadav",
+  "63 Moons": "Veefin Solutions Pvt Ltd",
+  "Traineeship": "Software Engineer",
+  "4.5-5 LPA": "3.50LPA",
+  "View": "View"
+ },
+ {
+  "14": 70,
+  "VU1F2122010": "VU1F2122113",
+  "Atharv": "Satyam",
+  "Sanjay": "Brijnarayan",
+  "Bhosale": "Pandey",
+  "63 Moons": "Veefin Solutions Pvt Ltd",
+  "Traineeship": "Software Engineer",
+  "4.5-5 LPA": "3.50LPA",
+  "View": "View"
+ },
+ {
+  "14": 46,
+  "VU1F2122010": "VU1S2223013",
+  "Atharv": "Sanil",
+  "Sanjay": "Ajit",
+  "Bhosale": "Jadhav",
+  "63 Moons": "Vermont Information Processing India Private Limited",
+  "Traineeship": "Trainee",
+  "4.5-5 LPA": "3.25 LPA",
+  "View": "View",
+  "ID": "ID"
+ },
+ {
+  "14": 89,
+  "VU1F2122010": "VU1F2122076",
+  "Atharv": "Ashwayu",
+  "Sanjay": "Ravindra",
+  "Bhosale": "Nagpure",
+  "63 Moons": "Wipro",
+  "Traineeship": "Jr. System Administrator",
+  "4.5-5 LPA": 7.5,
+  "View": "View"
+ },
+ {
+  "14": 90,
+  "VU1F2122010": "VU1F2122115",
+  "Atharv": "Atharva",
+  "Sanjay": "Nitin",
+  "Bhosale": "Kamble",
+  "63 Moons": "wipro",
+  "Traineeship": "Jr. System Administrator",
+  "4.5-5 LPA": "7.5 LPA",
+  "View": "View"
+ },
+ {
+  "14": 91,
+  "VU1F2122010": "VU1F2122069",
+  "Atharv": "Ayush",
+  "Sanjay": "Jasbir",
+  "Bhosale": "Singh",
+  "63 Moons": "wipro",
+  "Traineeship": "Jr. System Administrator",
+  "4.5-5 LPA": "7.5 LPA",
+  "View": "View"
+ },
+ {
+  "14": 105,
+  "VU1F2122010": "VU1F2122127",
+  "Atharv": "Vikas",
+  "Sanjay": "Ramajor",
+  "Bhosale": "Yadav",
+  "63 Moons": "Wipro",
+  "Traineeship": "Sr. System Administrator",
+  "4.5-5 LPA": "7.5 LPA",
+  "View": "View"
+ }
+],
+"Placed List":[
+ {
+  "Academic Year : 2024-25": "Placed Students"
+ },
+ null,
+ {
+  "Academic Year : 2024-25": "Sr. No",
+  "Column2": "COLLEGE ID",
+  "Column3": "First name",
+  "Column4": "Middle Name",
+  "Column5": "Last Name",
+  "Column6": "Name of the Company",
+  "Column7": "Designation",
+  "Column8": "CTC",
+  "Column9": "Placed Count",
+  "Column10": "Offer Letter",
+  "Column11": "ID Proof"
+ },
+ {
+  "Academic Year : 2024-25": 1,
+  "Column2": "VU1F1920093",
+  "Column3": "Surojit",
+  "Column4": "Uttam",
+  "Column5": "Ghosh",
+  "Column6": "RESCALE TECHNOLOGIES",
+  "Column7": "Software Developer",
+  "Column8": "3 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 2,
+  "Column2": "VU1F2122001",
+  "Column3": "Akshad",
+  "Column4": "Sharad",
+  "Column5": "Mahadik",
+  "Column6": "Miko chidakashi technology pvt. ltd",
+  "Column7": "of Junior Software Development Engineer.",
+  "Column8": "4.25 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 3,
+  "Column2": "VU1F2122002",
+  "Column3": "Samruddhi",
+  "Column4": "Pramod",
+  "Column5": "Sawant",
+  "Column6": "Parimal Pharma Limited",
+  "Column8": "2.76 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 4,
+  "Column2": "VU1F2122003",
+  "Column3": "Prerna",
+  "Column4": "Suresh",
+  "Column5": "More",
+  "Column6": "Capgemini",
+  "Column7": "Analyst \/A4",
+  "Column8": "5.5 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 5,
+  "Column2": "VU1F2122004",
+  "Column3": "Shreyas",
+  "Column4": "Dilip",
+  "Column5": "Gurav",
+  "Column6": "Schbang",
+  "Column7": "Devops Engineer",
+  "Column8": "5.25 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 6,
+  "Column2": "VU1F2122005",
+  "Column3": "Soham",
+  "Column4": "Rakesh",
+  "Column5": "Mane",
+  "Column6": "Datamatics",
+  "Column7": "Trainee",
+  "Column8": 201455,
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 7,
+  "Column2": "VU1F2122008",
+  "Column3": "Anju",
+  "Column4": "Shidwa",
+  "Column5": "Parhyad",
+  "Column6": "MAGIC",
+  "Column7": "Associate S\/W Engineer",
+  "Column8": "4LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 8,
+  "Column2": "VU1F2122010",
+  "Column3": "Atharv",
+  "Column4": "Sanjay",
+  "Column5": "Bhosale",
+  "Column6": "63 Moons",
+  "Column7": "Traineeship",
+  "Column8": "4.5-5 LPA",
+  "Column9": 2,
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 9,
+  "Column2": "VU1F2122011",
+  "Column3": "Anushka",
+  "Column4": "Ashwin",
+  "Column5": "Rasam",
+  "Column6": "LTIMindtree",
+  "Column7": "Graduate Engineer Trainee",
+  "Column8": "4.05 LPA",
+  "Column9": 2,
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 10,
+  "Column2": "VU1F2122013",
+  "Column3": "Aditya",
+  "Column4": "Ashok",
+  "Column5": "Thorat",
+  "Column6": "COMPRINT",
+  "Column7": "AI research Analyst",
+  "Column8": "4.75 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 11,
+  "Column2": "VU1F2122014",
+  "Column3": "Diksha",
+  "Column4": "Chandrakant",
+  "Column5": "Waghmare",
+  "Column6": "Aniruddha Elemetry",
+  "Column7": "Software Developer",
+  "Column8": "4 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 12,
+  "Column2": "VU1F2122015",
+  "Column3": "Pragya",
+  "Column4": "Satyendra",
+  "Column5": "Mandpe",
+  "Column6": "L S Digital ",
+  "Column7": "GT- Tech",
+  "Column8": "6LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 13,
+  "Column2": "VU1F2122016",
+  "Column3": "Himanshu",
+  "Column4": "Asharam",
+  "Column5": "Jaiswar",
+  "Column6": "Team Lease",
+  "Column7": "Data Specialist",
+  "Column8": "1.98 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 14,
+  "Column2": "VU1F2122018",
+  "Column3": "Yusra",
+  "Column4": "Obaidullah",
+  "Column5": "Ansari",
+  "Column6": "JARO",
+  "Column7": "Graduate Trainee",
+  "Column8": "8.36 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 15,
+  "Column2": "VU1F2122021",
+  "Column3": "Tanmay",
+  "Column4": "Prashant",
+  "Column5": "Sakpal",
+  "Column6": "JARO",
+  "Column7": "Graduate Trainee ",
+  "Column8": "8.36 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 16,
+  "Column2": "VU1F2122022",
+  "Column3": "Pawan Kumar",
+  "Column4": "Rajnath",
+  "Column5": "Yadav",
+  "Column6": "Veefin Solutions Pvt Ltd",
+  "Column7": "Software Engineer",
+  "Column8": "3.50LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 17,
+  "Column2": "VU1F2122024",
+  "Column3": "Sanika",
+  "Column4": "Rajesh",
+  "Column5": "Bamane",
+  "Column6": "Mastercom technology india Pvt.Ltd",
+  "Column7": "JR. Software Engineer",
+  "Column8": "4,70,592",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 18,
+  "Column2": "VU1F2122026",
+  "Column3": "Rahul",
+  "Column4": "Dhondu",
+  "Column5": "Pawar",
+  "Column6": "PNT Robotics & Automation Solution",
+  "Column7": "Jr. Software Developer",
+  "Column8": "2.52LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 19,
+  "Column2": "VU1F2122027",
+  "Column3": "Ashwini",
+  "Column4": "Satish",
+  "Column5": "Mayekar",
+  "Column6": "Capgemini",
+  "Column7": "Analyst",
+  "Column8": "4 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 20,
+  "Column2": "VU1F2122028",
+  "Column3": "Vedant",
+  "Column4": "Laxman",
+  "Column5": "Narute",
+  "Column6": "CONTEXIO",
+  "Column7": "Research Analyst- Assiciate",
+  "Column8": 240000,
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 21,
+  "Column2": "VU1F2122030",
+  "Column3": "Vinesh",
+  "Column4": "Yashwant",
+  "Column5": "Rathod",
+  "Column6": "STAVTAR SOLUTIONS INDIA PRIVATE LIMITED",
+  "Column7": "Associate Software Developer ",
+  "Column8": "7 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 22,
+  "Column2": "VU1F2122031",
+  "Column3": "Asmita",
+  "Column4": "Sheshrao",
+  "Column5": "Ghode",
+  "Column6": "Godrej Infotech\/Capgemini",
+  "Column7": "Sr. Excecutive",
+  "Column8": "4 LPA",
+  "Column9": 2,
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 23,
+  "Column2": "VU1F2122033",
+  "Column3": "Yukta",
+  "Column4": "Ravindra",
+  "Column5": "Jadhav",
+  "Column6": "Lance soft Engineering",
+  "Column7": "Software Developer",
+  "Column8": "8.50LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 24,
+  "Column2": "VU1F2122034",
+  "Column3": "Chetan",
+  "Column4": "Ashok",
+  "Column5": "Pardeshi",
+  "Column6": "Circulant software Pvt.Ltd",
+  "Column7": "Software Developer",
+  "Column8": "4 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 25,
+  "Column2": "VU1F2122035",
+  "Column3": "Tejas",
+  "Column4": "Pradip",
+  "Column5": "Chakranarayan",
+  "Column6": "Deloitte",
+  "Column7": "Business Analyst",
+  "Column8": "3.75LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 26,
+  "Column2": "VU1F2122036",
+  "Column3": "Laxmikant",
+  "Column4": "Umesh",
+  "Column5": "Deosarkar",
+  "Column6": "Galaxy",
+  "Column7": "Jr. Technical Associate",
+  "Column8": "3.15 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 27,
+  "Column2": "VU1F2122038",
+  "Column3": "Nihaar",
+  "Column4": "Adhiep",
+  "Column5": "Mascarenhas",
+  "Column6": "Tech Mahindra",
+  "Column7": "Software Developer",
+  "Column8": "4LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 28,
+  "Column2": "VU1F2122040",
+  "Column3": "Sahil",
+  "Column4": "Dilip",
+  "Column5": "Kuware",
+  "Column6": "Mastercom technology india Pvt.Ltd",
+  "Column7": "JR. Software Engineer",
+  "Column8": "4,70,592",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 29,
+  "Column2": "VU1F2122042",
+  "Column3": "Nidhi",
+  "Column4": "Nitin",
+  "Column5": "Patil",
+  "Column6": "Marico",
+  "Column7": "IT Trainee",
+  "Column8": "6 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 30,
+  "Column2": "VU1F2122045",
+  "Column3": "Purva",
+  "Column4": "Tejesh",
+  "Column5": "Patil",
+  "Column6": "LTIMindtree",
+  "Column7": "Graduate Engineer Trainee",
+  "Column8": "4.05 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 31,
+  "Column2": "VU1F2122046",
+  "Column3": "Purva",
+  "Column4": "Suryakant",
+  "Column5": "Nagap",
+  "Column6": "ProductDossier'\/ATS",
+  "Column7": "Software Developer- Trainee",
+  "Column8": "12.5 LPA",
+  "Column9": 2,
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 32,
+  "Column2": "VU1F2122047",
+  "Column3": "Harsh",
+  "Column4": "Kishor",
+  "Column5": "Sawant",
+  "Column6": "Mirraw",
+  "Column7": "Software Developer",
+  "Column8": "3.60LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 33,
+  "Column2": "VU1F2122048",
+  "Column3": "Varun",
+  "Column4": "Vilas",
+  "Column5": "Patkar",
+  "Column6": "KHUSPAL HOME TEXTILES LLP",
+  "Column7": " Front-End E-commerce & Digital Marketing Associate",
+  "Column8": "6.00 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 34,
+  "Column2": "VU1F2122049",
+  "Column3": "Rahul",
+  "Column4": "Prakash",
+  "Column5": "Bhurkud",
+  "Column6": "Servosys",
+  "Column7": "Software Engineer",
+  "Column8": "4LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 35,
+  "Column2": "VU1F2122050",
+  "Column3": "Aryan",
+  "Column4": "Ramesh",
+  "Column5": "Waghmare",
+  "Column6": "L S Digital ",
+  "Column7": "GT Tech",
+  "Column8": "6 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 36,
+  "Column2": "VU1F2122051",
+  "Column3": "Sushant",
+  "Column4": "Dilip",
+  "Column5": "Gholap",
+  "Column6": "Team Lease",
+  "Column7": "Data Specialist",
+  "Column8": "1.98 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 37,
+  "Column2": "VU1F2122052",
+  "Column3": "Swaleha",
+  "Column4": "Mohammed Sajid",
+  "Column5": "Ansari",
+  "Column6": "JARO",
+  "Column7": "Graduate Trainee ",
+  "Column8": "8.36 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 38,
+  "Column2": "VU1F2122053",
+  "Column3": "Sneha",
+  "Column4": "Sakharam",
+  "Column5": "Golhe",
+  "Column6": "Capgemini",
+  "Column7": "Analyst \/A4",
+  "Column8": "5.5 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 39,
+  "Column2": "VU1F2122054",
+  "Column3": "Vishal",
+  "Column4": "Anil",
+  "Column5": "Ugalmugale",
+  "Column6": "Alpha Payment",
+  "Column7": "Trainee S\/w Engineer",
+  "Column8": "4 LPA",
+  "Column10": "View",
+  "Column11": "Payslip"
+ },
+ {
+  "Academic Year : 2024-25": 40,
+  "Column2": "VU1F2122055",
+  "Column3": "Rishi",
+  "Column4": "Gurudatt",
+  "Column5": "Mengade",
+  "Column6": "Sodel",
+  "Column7": "Trainee Software Engineer",
+  "Column8": "2.12LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 41,
+  "Column2": "VU1F2122061",
+  "Column3": "Aviral",
+  "Column4": "Shivprakash",
+  "Column5": "Shukla",
+  "Column6": "Odyssey ",
+  "Column7": "Trainee Engineer",
+  "Column8": "2.80LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 42,
+  "Column2": "VU1F2122062",
+  "Column3": "Hamdan",
+  "Column4": "Abdul Wahid",
+  "Column5": "Khan",
+  "Column6": "CONTEXIO",
+  "Column7": "Research Analyst- Assiciate",
+  "Column8": 240000,
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 43,
+  "Column2": "VU1F2122064",
+  "Column3": "Sakshita",
+  "Column4": "Santosh",
+  "Column5": "Bodke",
+  "Column6": "Montran Corporation Pvt.Ltd",
+  "Column7": "Asst Software Engineer",
+  "Column8": 350968,
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 44,
+  "Column2": "VU1F2122066",
+  "Column3": "Sandesh",
+  "Column4": "Balkrishna",
+  "Column5": "Pawar",
+  "Column6": "KHUSPAL HOME TEXTILES LLP",
+  "Column7": " Front-End E-commerce & Digital Marketing Associate",
+  "Column8": "6.00 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 45,
+  "Column2": "VU1F2122067",
+  "Column3": "Mamta",
+  "Column4": "Mahadev",
+  "Column5": "Mingal",
+  "Column6": "Codew\/Floppy",
+  "Column7": "Robotics Mentor",
+  "Column8": "3.00LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 46,
+  "Column2": "VU1F2122068",
+  "Column3": "Ankit",
+  "Column4": "Sanat",
+  "Column5": "Shukla",
+  "Column6": "Encora Digital Pvt.Ltd",
+  "Column7": "Software Analyst",
+  "Column8": "6LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 47,
+  "Column2": "VU1F2122069",
+  "Column3": "Ayush",
+  "Column4": "Jasbir",
+  "Column5": "Singh",
+  "Column6": "wipro",
+  "Column7": "Jr. System Administrator",
+  "Column8": "7.5 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 48,
+  "Column2": "VU1F2122070",
+  "Column3": "Aryan",
+  "Column4": "Santosh",
+  "Column5": "Gupta",
+  "Column6": "Datamatics",
+  "Column7": "Trainee",
+  "Column8": 201455,
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 49,
+  "Column2": "VU1F2122073",
+  "Column3": "Tushar",
+  "Column4": "Dinesh",
+  "Column5": "Singh",
+  "Column6": "Arcon\/ Deltax",
+  "Column7": "Software Developer",
+  "Column8": "5 LPA",
+  "Column9": 2,
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 50,
+  "Column2": "VU1F2122074",
+  "Column3": "Chiranjiv",
+  "Column4": "Dhanraj",
+  "Column5": "Adsul",
+  "Column6": "Benchmark",
+  "Column7": "Project Trainee",
+  "Column8": "2.4LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 51,
+  "Column2": "VU1F2122075",
+  "Column3": "Vaishnavi",
+  "Column4": "Vilas",
+  "Column5": "Devlekar",
+  "Column6": "Quinnox\/Capgemini",
+  "Column7": "Software Trainee",
+  "Column8": "3.75\/4 LPA",
+  "Column9": 2,
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 52,
+  "Column2": "VU1F2122076",
+  "Column3": "Ashwayu",
+  "Column4": "Ravindra",
+  "Column5": "Nagpure",
+  "Column6": "Wipro",
+  "Column7": "Jr. System Administrator",
+  "Column8": 7.5,
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 53,
+  "Column2": "VU1F2122078",
+  "Column3": "Omkar",
+  "Column4": "Jagannath",
+  "Column5": "Masaye",
+  "Column6": "RESCALE TECHNOLOGIES",
+  "Column7": "Software Developer",
+  "Column8": "3 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 54,
+  "Column2": "VU1F2122079",
+  "Column3": "Shubham",
+  "Column4": "Ganesh",
+  "Column5": "Naik",
+  "Column6": "The Souled Store Pvt. Ltd",
+  "Column7": "Associate Data Analyst",
+  "Column8": "5.26 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 55,
+  "Column2": "VU1F2122081",
+  "Column3": "Shrawani",
+  "Column4": "Pramod",
+  "Column5": "Dalvi",
+  "Column6": "Rentokil PCI",
+  "Column7": "Python Developer",
+  "Column8": 311000,
+  "Column10": "View",
+  "Column11": "Pay slip"
+ },
+ {
+  "Academic Year : 2024-25": 56,
+  "Column2": "VU1F2122083",
+  "Column3": "Sameep",
+  "Column4": "Ashok",
+  "Column5": "Korvi",
+  "Column6": "Mastercom technology india Pvt.Ltd",
+  "Column7": "JR. Software Engineer",
+  "Column8": "4,70,592",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 57,
+  "Column2": "VU1F2122085",
+  "Column3": "Soham",
+  "Column4": "Krishna",
+  "Column5": "Nandanwar",
+  "Column6": "Ingram Micro India SSC Pvt.Ltd",
+  "Column7": "Trainee software developer",
+  "Column8": "4 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 58,
+  "Column2": "VU1F2122086",
+  "Column3": "Abhishek",
+  "Column4": "Mahesh",
+  "Column5": "Khandare",
+  "Column6": "Encora Digital Pvt.Ltd",
+  "Column7": "Project Manager",
+  "Column8": "7LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 59,
+  "Column2": "VU1F2122088",
+  "Column3": "Pranay",
+  "Column4": "Amrut",
+  "Column5": "Gawade",
+  "Column6": "TCSL",
+  "Column7": "Asst system Engg- Trainee",
+  "Column8": 336877,
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 60,
+  "Column2": "VU1F2122089",
+  "Column3": "Wasim",
+  "Column4": "Zabiullah",
+  "Column5": "Khan",
+  "Column6": "Galaxy",
+  "Column7": "Jr. Technical Associate",
+  "Column8": "3.15 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 61,
+  "Column2": "VU1F2122090",
+  "Column3": "Aadesh",
+  "Column4": "Vijay",
+  "Column5": "Bavalekar",
+  "Column6": "Servosys",
+  "Column7": "Software Engineer",
+  "Column8": "4LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 62,
+  "Column2": "VU1F2122091",
+  "Column3": "Eshwari",
+  "Column4": "Agadeesha",
+  "Column5": "Rampoore",
+  "Column6": "NICE",
+  "Column7": "Associate S\/w Engg",
+  "Column8": "8 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 63,
+  "Column2": "VU1F2122092",
+  "Column3": "Aryan",
+  "Column4": "Akhilesh",
+  "Column5": "Singh",
+  "Column6": "MERCE",
+  "Column7": "System Administrator",
+  "Column8": "10LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 64,
+  "Column2": "VU1F2122093",
+  "Column3": "Kaushik",
+  "Column4": "Krishna",
+  "Column5": "Mandal",
+  "Column6": "Simkraft",
+  "Column7": "Junior Developer",
+  "Column8": "2.16 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 65,
+  "Column2": "VU1F2122096",
+  "Column3": "Arfeen",
+  "Column4": "Rafiq",
+  "Column5": "Momin",
+  "Column6": "Simkraft",
+  "Column7": "Junior Developer",
+  "Column8": "2.16 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 66,
+  "Column2": "VU1F2122097",
+  "Column3": "Radhika",
+  "Column4": "Bapurao",
+  "Column5": "Yadav",
+  "Column6": "Media.net",
+  "Column7": "Web application developer",
+  "Column8": "8,10,627",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 67,
+  "Column2": "VU1F2122098",
+  "Column3": "Kavin",
+  "Column4": "Ganesh",
+  "Column5": "Girigosavi",
+  "Column6": "C-EDGE",
+  "Column7": "Assistant System Analyst",
+  "Column8": "2.75 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 68,
+  "Column2": "VU1F2122099",
+  "Column3": "Suraj",
+  "Column4": "Vijay",
+  "Column5": "Lawand",
+  "Column6": "Hudl India PVT LTD",
+  "Column7": "Trainee",
+  "Column8": "1.44 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 69,
+  "Column2": "VU1F2122101",
+  "Column3": "Shashank",
+  "Column4": "Sankarshan",
+  "Column5": "Upadhyay",
+  "Column6": "ICICI Lombard",
+  "Column7": "Trainee S\/w Engineer",
+  "Column8": "4.5 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 70,
+  "Column2": "VU1F2122102",
+  "Column3": "Divleen",
+  "Column4": "Kaur",
+  "Column5": "Banga",
+  "Column6": "Peoplehum technologies Pvt. Ltd",
+  "Column7": "Business development associate",
+  "Column8": "3.62 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 71,
+  "Column2": "VU1F2122103",
+  "Column3": "Yash",
+  "Column4": "Manish",
+  "Column5": "Parkar",
+  "Column6": "ARCON",
+  "Column7": "Software Developer",
+  "Column8": "5 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 72,
+  "Column2": "VU1F2122104",
+  "Column3": "Yash",
+  "Column4": "Vinod",
+  "Column5": "Nimbalkar",
+  "Column6": "Godigital",
+  "Column7": "Engineer",
+  "Column8": 540002,
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 73,
+  "Column2": "VU1F2122105",
+  "Column3": "Akshara",
+  "Column4": "Amar",
+  "Column5": "Dussa",
+  "Column6": "Capgemini",
+  "Column7": "Analyst \/A4",
+  "Column8": "5.5 LPA",
+  "Column9": 2,
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 74,
+  "Column2": "VU1F2122106",
+  "Column3": "Ruchi",
+  "Column4": "Vijay",
+  "Column5": "Sahu",
+  "Column6": "QUESS",
+  "Column7": "Trainee-QA",
+  "Column8": "3.5LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 75,
+  "Column2": "VU1F2122108",
+  "Column3": "Chirag",
+  "Column4": "Manoj",
+  "Column5": "Kadam",
+  "Column6": "Servosys",
+  "Column7": "Software Engineer",
+  "Column8": "4LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 76,
+  "Column2": "VU1F2122109",
+  "Column3": "Tejas",
+  "Column4": "Pramod",
+  "Column5": "Korlekar",
+  "Column6": "JARO",
+  "Column7": "Graduate Trainee",
+  "Column8": "8.36 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 77,
+  "Column2": "VU1F2122111",
+  "Column3": "Preeti",
+  "Column4": "Nikhil",
+  "Column5": "Jana",
+  "Column6": "accelya",
+  "Column7": "Engineer -1\/ Software Development",
+  "Column8": "7LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 78,
+  "Column2": "VU1F2122112",
+  "Column3": "Raj",
+  "Column4": "Prakash",
+  "Column5": "Kadam",
+  "Column6": "Snnovate Infotech Pvt.Ltd",
+  "Column7": "Associate security Engineer",
+  "Column8": "3.50LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 79,
+  "Column2": "VU1F2122113",
+  "Column3": "Satyam",
+  "Column4": "Brijnarayan",
+  "Column5": "Pandey",
+  "Column6": "Veefin Solutions Pvt Ltd",
+  "Column7": "Software Engineer",
+  "Column8": "3.50LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 80,
+  "Column2": "VU1F2122114",
+  "Column3": "Arya",
+  "Column4": "Ganesh",
+  "Column5": "Dandekar",
+  "Column6": "Encora Digital Pvt.Ltd",
+  "Column7": "Software Analyst",
+  "Column8": "6LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 81,
+  "Column2": "VU1F2122115",
+  "Column3": "Atharva",
+  "Column4": "Nitin",
+  "Column5": "Kamble",
+  "Column6": "wipro",
+  "Column7": "Jr. System Administrator",
+  "Column8": "7.5 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 82,
+  "Column2": "VU1F2122116",
+  "Column3": "Pooja",
+  "Column4": "Omprakash",
+  "Column5": "Bhati",
+  "Column6": "ICICI Lombard",
+  "Column7": "Trainee S\/w Engineer",
+  "Column8": "4.5 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 83,
+  "Column2": "VU1F2122117",
+  "Column3": "Subiya",
+  "Column4": "Kalim",
+  "Column5": "Sayyed",
+  "Column6": "L S Digital ",
+  "Column7": "GT- Tech",
+  "Column8": "6LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 84,
+  "Column2": "VU1F2122118",
+  "Column3": "Hamza",
+  "Column4": "Zubair",
+  "Column5": "Shaikh",
+  "Column6": "Autoplant",
+  "Column7": "JR. Software Engineer",
+  "Column8": "6,37,124",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 85,
+  "Column2": "VU1F2122119",
+  "Column3": "Sneha",
+  "Column4": "Santosh",
+  "Column5": "Patil",
+  "Column6": "Odyssey ",
+  "Column7": "Trainee Engineer",
+  "Column8": "2.80 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 86,
+  "Column2": "VU1F2122121",
+  "Column3": "Soham",
+  "Column4": "Sanjeev",
+  "Column5": "Kandalkar",
+  "Column6": "MindCraft",
+  "Column7": "Associate Consultant",
+  "Column8": "2.4LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 87,
+  "Column2": "VU1F2122122",
+  "Column3": "Sanasi",
+  "Column4": "Suhas",
+  "Column5": "Salvi",
+  "Column6": "Mitr Learning And Media Pvt. Ltd.",
+  "Column7": "Graduate Engineer Trainee",
+  "Column8": "2.4 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 88,
+  "Column2": "VU1F2122123",
+  "Column3": "Kunal",
+  "Column4": "Dilbahadur",
+  "Column5": "Rawal",
+  "Column6": "LTIMindtree",
+  "Column7": "Graduate Engineer Trainee",
+  "Column8": "4.05 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 89,
+  "Column2": "VU1F2122124",
+  "Column3": "Smit",
+  "Column4": "Ratnadipak",
+  "Column5": "Patil",
+  "Column6": "Bhaane Retail pvt.Ltd",
+  "Column7": "Business Analyst",
+  "Column8": "3.45 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 90,
+  "Column2": "VU1F2122125",
+  "Column3": "Sarvesh",
+  "Column4": "Shailesh",
+  "Column5": "Bhogle",
+  "Column6": "Sodel",
+  "Column7": "Trainee Software Engineer",
+  "Column8": "2.12LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 91,
+  "Column2": "VU1F2122127",
+  "Column3": "Vikas",
+  "Column4": "Ramajor",
+  "Column5": "Yadav",
+  "Column6": "Wipro",
+  "Column7": "Sr. System Administrator",
+  "Column8": "7.5 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 92,
+  "Column2": "VU1F2122128",
+  "Column3": "Aftab",
+  "Column4": "Mohammed",
+  "Column5": "Shaikh",
+  "Column6": "JARO",
+  "Column7": "Graduate Trainee ",
+  "Column8": "8.36 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 93,
+  "Column2": "VU1F2122130",
+  "Column3": "Anas",
+  "Column4": "Ejaz",
+  "Column5": "Sayed",
+  "Column6": "Ingram Micro India SSC Pvt.Ltd",
+  "Column7": "Trainee, Software Developer",
+  "Column8": "6 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 94,
+  "Column2": "VU1F2122131",
+  "Column3": "Tanish",
+  "Column4": "Chandrakant",
+  "Column5": "Desai",
+  "Column6": "Grant Thornton Bharat LLP",
+  "Column7": "Associate",
+  "Column8": "4.30LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 95,
+  "Column2": "VU1F2122132",
+  "Column3": "Vedhavrath",
+  "Column4": "Gangadhar",
+  "Column5": "Vasala",
+  "Column6": "Odyssey ",
+  "Column7": "Trainee Engineer",
+  "Column8": "3.2 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 96,
+  "Column2": "VU1F2122134",
+  "Column3": "Harsh",
+  "Column4": "Dharmendra",
+  "Column5": "Pal",
+  "Column6": "Jio",
+  "Column7": "Graduate Engineer Trainee",
+  "Column8": "5LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 97,
+  "Column2": "VU1F2122136",
+  "Column3": "Rangrez",
+  "Column4": "Hassan Raza",
+  "Column5": "Akhtar Hussain",
+  "Column6": "Protegrity",
+  "Column7": "Asso Software Engineer",
+  "Column8": "5.50LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 98,
+  "Column2": "VU1F2122139",
+  "Column3": "Vikrant",
+  "Column4": "Vinod",
+  "Column5": "Patil",
+  "Column6": "C-EDGE",
+  "Column7": "Assistant System Analyst",
+  "Column8": "2.75 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 99,
+  "Column2": "VU1F2122140",
+  "Column3": "Amaan",
+  "Column4": "Imtiyaz",
+  "Column5": "Balbale",
+  "Column6": "Skillmine",
+  "Column7": "Linux Administrator",
+  "Column8": "4LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 100,
+  "Column2": "VU1S2223002",
+  "Column3": "Yash",
+  "Column4": "Prakash",
+  "Column5": "Pimpalkar",
+  "Column6": "Lance soft Engineering",
+  "Column7": "Software Developer",
+  "Column8": "8.50LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 101,
+  "Column2": "VU1S2223003",
+  "Column3": "Bhavika",
+  "Column4": "Deepak",
+  "Column5": "Mandavkar",
+  "Column6": "Benchmark",
+  "Column7": "Project Trainee",
+  "Column8": "2.4LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 102,
+  "Column2": "VU1S2223004",
+  "Column3": "Prachi",
+  "Column4": "Satish",
+  "Column5": "Jamdade",
+  "Column6": "Gravitee",
+  "Column7": "Technical Product Marketing Manager",
+  "Column8": "28 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 103,
+  "Column2": "VU1S2223007",
+  "Column3": "Arya",
+  "Column4": "Abhay",
+  "Column5": "Nikale",
+  "Column6": "MAGIC",
+  "Column7": "Associate S\/W Engineer",
+  "Column8": "4LPA",
+  "Column10": "view"
+ },
+ {
+  "Academic Year : 2024-25": 104,
+  "Column2": "VU1S2223009",
+  "Column3": "Anuraj",
+  "Column4": "Anil",
+  "Column5": "Chavan",
+  "Column6": "Ingram Micro India SSC Pvt.Ltd",
+  "Column7": "Trainee software developer",
+  "Column8": "4 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 105,
+  "Column2": "VU1S2223011",
+  "Column3": "Vaishnavi",
+  "Column4": "Shankar",
+  "Column5": "Jadhav",
+  "Column6": "Capgemini",
+  "Column7": "Analyst \/A4",
+  "Column8": "5.5 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 106,
+  "Column2": "VU1S2223013",
+  "Column3": "Sanil",
+  "Column4": "Ajit",
+  "Column5": "Jadhav",
+  "Column6": "Vermont Information Processing India Private Limited",
+  "Column7": "Trainee",
+  "Column8": "3.25 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 107,
+  "Column2": "VU1S2223014",
+  "Column3": "Iqra Fatema",
+  "Column4": "Taukir Ahmed",
+  "Column5": "Shaikh",
+  "Column6": "Circulant software Pvt.Ltd",
+  "Column7": "Software Developer",
+  "Column8": "4 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 108,
+  "Column2": "VU1S2223015",
+  "Column3": "Afnan",
+  "Column4": "Raeesahmed",
+  "Column5": "Shaikh",
+  "Column6": "Galaxy",
+  "Column7": "Jr. Technical Associate",
+  "Column8": "3.15 LPA",
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 109,
+  "Column2": "VU1S2223016",
+  "Column3": "Mohd Afnan",
+  "Column4": "Amir Ali",
+  "Column5": "Shaikh",
+  "Column6": "Rentokil PCI",
+  "Column7": "Python Developer",
+  "Column8": 311000,
+  "Column10": "View"
+ },
+ {
+  "Academic Year : 2024-25": 110,
+  "Column2": "VU1S2223017",
+  "Column3": "Raj",
+  "Column4": "Sandeep",
+  "Column5": "Mayekar",
+  "Column6": "Edolution Pvt Ltd",
+  "Column7": "AI s\/w Engg",
+  "Column8": "3.75 LPA",
+  "Column10": "View",
+  "Column11": "ID"
+ },
+ {
+  "Academic Year : 2024-25": 111,
+  "Column2": "VU1S2223018",
+  "Column3": "Mayuresh",
+  "Column4": "Jagdish",
+  "Column5": "Patil",
+  "Column6": "MERCE",
+  "Column7": "Software Developer",
+  "Column8": "5LPA",
+  "Column10": "View"
+ }
+],
+"placement summary":[
+ null,
+ null,
+ {
+  "Placement Summary 2024-25": "Sr. No",
+  "Column3": "Total number of Students",
+  "Column4": "Number of students  interested for placement",
+  "Column5": "Total placed students",
+  "Column6": "Total Number of Students for Higher Studies"
+ },
+ {
+  "Placement Summary 2024-25": 1,
+  "Column3": 134,
+  "Column4": 122,
+  "Column5": 111,
+  "Column6": 12
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "Placement Summary 2024-25": "TPO Coordinator",
+  "Column5": "HOD"
+ },
+ {
+  "Placement Summary 2024-25": "Prof. Priyanka Rane",
+  "Column5": "Dr. Rais A. Mulla"
+ }
+],
+"Highest Package":[
+ null,
+ null,
+ {
+  "HIGHEST PACKAGE 2024-25": "Sr. No",
+  "Column3": "VID",
+  "Column4": "Name of Student",
+  "Column5": "Name of the Company",
+  "Column6": "Designation",
+  "Column7": "CTC",
+  "Column8": "Job Role",
+  "Column9": "Offer Letter"
+ },
+ {
+  "HIGHEST PACKAGE 2024-25": 1,
+  "Column3": "VU1S2223004",
+  "Column4": "Prachi Satish Jamdade",
+  "Column5": "Gravitee",
+  "Column6": "Technical Product Marketing Manager",
+  "Column7": "28 LPA",
+  "Column8": "Technical Product Marketing Manager",
+  "Column9": "View"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "HIGHEST PACKAGE 2024-25": "TPO Coordinator",
+  "Column9": "HOD"
+ },
+ {
+  "HIGHEST PACKAGE 2024-25": "Prof. Priyanka Rane",
+  "Column9": "Dr. Rais A. Mulla"
+ }
+],
+"hIGHER STUDIES":[
+ null,
+ {
+  "HIGHER STUDIES REGISTRATION LIST 2024-25": "Sr No.",
+  "Column2": "College Id",
+  "Column3": "Name",
+  "Column4": "Contact",
+  "Column5": "10th %",
+  "Column6": "12th %",
+  "Column7": "Diploma %",
+  "Column8": "Degree %",
+  "Column9": "Degree CGPA",
+  "Column10": "Admission Taken",
+  "Column11": " University Name",
+  "Column12": "Letter"
+ },
+ {
+  "HIGHER STUDIES REGISTRATION LIST 2024-25": 1,
+  "Column2": "VU1F2122007",
+  "Column3": "Akshat Ravikant Kamble",
+  "Column4": "9136858981",
+  "Column10": "ME",
+  "Column11": "Datta Meghe College",
+  "Column12": "View"
+ },
+ {
+  "HIGHER STUDIES REGISTRATION LIST 2024-25": 2,
+  "Column2": "VU1F2122020",
+  "Column3": "Ekta  Ashvinkumar  Champaneri ",
+  "Column4": "9321165058",
+  "Column5": 81.4,
+  "Column6": 82.5,
+  "Column7": "-",
+  "Column8": 73.42,
+  "Column9": 8,
+  "Column10": "M.Tech",
+  "Column11": "Somaiya Vidyavihar University,Mumbai",
+  "Column12": "View"
+ },
+ {
+  "HIGHER STUDIES REGISTRATION LIST 2024-25": 3,
+  "Column2": "VU1F2122023",
+  "Column3": "Yash  Maruti Chabukswar ",
+  "Column4": "9967295167",
+  "Column5": 90.4,
+  "Column6": 82.67,
+  "Column7": "-",
+  "Column8": 71.25,
+  "Column9": 8,
+  "Column10": "MS",
+  "Column11": "Manchester university",
+  "Column12": "View"
+ },
+ {
+  "HIGHER STUDIES REGISTRATION LIST 2024-25": 4,
+  "Column2": "VU1F2122029",
+  "Column3": "Gaurav Ganesh Dongre",
+  "Column4": "9372704264",
+  "Column5": 63,
+  "Column6": 80,
+  "Column7": "-",
+  "Column8": 70,
+  "Column9": 7,
+  "Column11": "Gurunanak Institute management Matunga",
+  "Column12": "View"
+ },
+ {
+  "HIGHER STUDIES REGISTRATION LIST 2024-25": 5,
+  "Column2": "VU1F2122056 ",
+  "Column3": "Pradnya Premnath Bhoir",
+  "Column4": "9324063640",
+  "Column5": 92.2,
+  "Column6": 82.5,
+  "Column7": "-",
+  "Column8": 75.71,
+  "Column9": 8.61,
+  "Column10": "MS",
+  "Column11": "New castle university",
+  "Column12": "View"
+ },
+ {
+  "HIGHER STUDIES REGISTRATION LIST 2024-25": 6,
+  "Column2": "VU1F2122065 ",
+  "Column3": "Abhishek  Anil  Khilari ",
+  "Column4": "7977713244",
+  "Column5": 69.2,
+  "Column6": 81.3,
+  "Column7": "-",
+  "Column8": 80,
+  "Column9": 8,
+  "Column10": "MS",
+  "Column11": "Kent University ",
+  "Column12": "View"
+ },
+ {
+  "HIGHER STUDIES REGISTRATION LIST 2024-25": 7,
+  "Column2": "VU1F2122082",
+  "Column3": "Aryan Sawant",
+  "Column4": 9167844274,
+  "Column10": "MS",
+  "Column11": "Steven",
+  "Column12": "View"
+ },
+ {
+  "HIGHER STUDIES REGISTRATION LIST 2024-25": 8,
+  "Column2": "VU1F2122110",
+  "Column3": "Shantanu Uday Vedante",
+  "Column4": "8454080837",
+  "Column5": 78.2,
+  "Column6": 88.5,
+  "Column7": "-",
+  "Column8": 80,
+  "Column9": 8,
+  "Column10": "MS",
+  "Column11": "kent university",
+  "Column12": "View"
+ },
+ {
+  "HIGHER STUDIES REGISTRATION LIST 2024-25": 9,
+  "Column2": "VU1S2223001",
+  "Column3": "Shubham Sandip Jadhav",
+  "Column4": 9699407467,
+  "Column10": "MS",
+  "Column11": "RMIT University",
+  "Column12": "View"
+ },
+ {
+  "HIGHER STUDIES REGISTRATION LIST 2024-25": 10,
+  "Column2": "VU1S2223006",
+  "Column3": "Soham Shrimant Rasam",
+  "Column4": "7718077269",
+  "Column5": 73.4,
+  "Column6": "-",
+  "Column7": 87.94,
+  "Column8": 76.23,
+  "Column9": 8,
+  "Column10": "MS",
+  "Column11": "RMIT University",
+  "Column12": "View"
+ },
+ {
+  "HIGHER STUDIES REGISTRATION LIST 2024-25": 11,
+  "Column2": "VU1S2223010",
+  "Column3": "Amey Rajendra  Sankhe",
+  "Column4": "9022150887",
+  "Column5": 78.6,
+  "Column6": "-",
+  "Column7": 84.91,
+  "Column8": 73,
+  "Column9": 8,
+  "Column10": "MS",
+  "Column11": "RMIT University",
+  "Column12": "View"
+ },
+ {
+  "HIGHER STUDIES REGISTRATION LIST 2024-25": 12,
+  "Column2": "VU1F2122032",
+  "Column3": "Bhushan Thakur",
+  "Column11": "Pillai College Panvel",
+  "Column12": "View"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "Column3": 135
+ }
+]
+}
