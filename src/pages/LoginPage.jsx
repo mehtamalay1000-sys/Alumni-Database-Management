@@ -103,11 +103,11 @@ export default function LoginPage() {
           )}
         </p>
 
-        <div style={{ marginTop: '20px', padding: '14px', background: '#f0f4f8', borderRadius: '10px', fontSize: '0.8rem', color: '#64748b' }}>
+        {/* <div style={{ marginTop: '20px', padding: '14px', background: '#f0f4f8', borderRadius: '10px', fontSize: '0.8rem', color: '#64748b' }}>
           <strong>Demo Credentials:</strong><br/>
           Admin: admin@alumni.edu / admin123<br/>
           Alumni: john.doe@email.com / password123
-        </div>
+        </div> */}
       </div>
     </div>
   );
